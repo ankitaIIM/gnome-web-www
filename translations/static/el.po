@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-06-14 02:21+0200\n"
+"PO-Revision-Date: 2012-06-22 03:24+0200\n"
 "Last-Translator: Tom Tryfonidis <tomtryf@gmail.com>\n"
 "Language-Team: Greek Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -866,7 +866,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:421(div/h2)
 msgid "Reporting security issues"
-msgstr ""
+msgstr "Αναφορά θεμάτων ασφαλείας"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(p/a)
 msgid "security@gnome.org"
@@ -874,7 +874,7 @@ msgstr "security@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(div/p)
 msgid "Potential security issues should be reported to <_:a-1/>."
-msgstr ""
+msgstr "Πιθανά θέματα ασφάλειας θα πρέπει να αναφέρονται στο <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:428(post/title)
 msgid "Source"
@@ -886,11 +886,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:432(div/h2)
 msgid "Choose the right direction"
-msgstr ""
+msgstr "Επιλέξτε τη σωστή κατεύθυνση"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(p/a)
 msgid "install GNOME inside a distribution"
-msgstr ""
+msgstr "Εγκαταστήστε το GNOME σε μια διανομή"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(div/p)
 msgid "While you can easily <_:a-1/>, in some cases you will prefer to enjoy the wild terminal screen and build GNOME from source. If you are a developer, programmer, scientist or interested somehow, you are in the right place."
@@ -914,7 +914,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:437(div/p)
 msgid "To get more information about GNOME 3.0, check out the <_:a-1/>."
-msgstr ""
+msgstr "Για να πάρετε περισσότερες πληροφορίες σχετικά με το GNOME 3.0, δείτε το <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:438(div/p)
 msgid "Between stable releases, the GNOME developers hack on the <strong>development or ‘unstable’ branch</strong> of GNOME, where lots of fun happens, but also occasionally experimental and unstable things happen. If you are interested in testing the newest features, or want to develop GNOME software, this is the release for you. The current development branch is <strong>GNOME 3.1</strong>, due for release in the last quarter of 2011."
@@ -962,7 +962,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(p/a)
 msgid "contact"
-msgstr ""
+msgstr "επικοινωνία"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(html/p)
 msgid "If you have any questions about any of these practices or GNOME Foundation’s use of your personal information, please feel free to <_:a-1/> us by e-mail or by post."
@@ -982,7 +982,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:464(html/h2)
 msgid "<_:a-1/>Trademark Licensing"
-msgstr ""
+msgstr "<_:a-1/>Αδειοδότηση εμπορικού σήματος"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(p/a)
 msgid "licensing@gnome.org"
@@ -994,7 +994,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:466(html/p)
 msgid "The GNOME trademarks are:"
-msgstr ""
+msgstr "Τα εμπορικά σήματα του GNOME είναι:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:468(ul/li)
 msgid "The word GNOME™"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:471(html/h3)
 msgid "Third-party usage guidelines"
-msgstr ""
+msgstr "Οδηγίες χρήσης τρίτων"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:472(p/a)
 msgid "GNOME Foundation trademark usage guidelines for third parties"
@@ -1099,11 +1099,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(li/a@title)
 msgid "The GNOME Store"
-msgstr ""
+msgstr "Το κατάστημα GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(li/a)
 msgid "the GNOME Store"
-msgstr ""
+msgstr "το κατάστημα GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(ul/li)
 msgid "GNOME benefits from purchases of our merchandise, much of which is available through <_:a-1/>."
@@ -1111,7 +1111,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:500(html/h2)
 msgid "Companies and organisations"
-msgstr ""
+msgstr "Εταιρίες και οργανισμοί"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:502(ul/li)
 msgid "Companies and organisations regularly support GNOME by sponsoring and supporting our conferences and hackfest events. If you would like to sponsor such an event, you can email the Foundation <_:a-1/>."
@@ -1223,7 +1223,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a@title)
 msgid "GNOME 3.4 live image"
-msgstr ""
+msgstr "GNOME 3.4 εικόνες live"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a)
 msgid "<span style=\"color: #ff6600;\">Live Images Available Here</span>"
@@ -1231,27 +1231,27 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(html/h2)
 msgid "Try GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
-msgstr ""
+msgstr "Δοκιμάστε το GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:559(html/p)
 msgid "To write the image to a USB drive:"
-msgstr ""
+msgstr "Για αν γράψετε μια εικόνα σε ένα δίσκο USB:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:561(ul/li)
 msgid "Insert the drive (any data it contains will be erased!)"
-msgstr ""
+msgstr "Τοποθετήστε το δίσκο (όποια δεδομένα περιέχει θα διαγραφούν!)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:562(ul/li)
 msgid "Run <code>dmesg</code> in a terminal: this will give you the location of the stick in square brackets, such as <code>sdb</code>"
-msgstr ""
+msgstr "Εκτελέστε σε ένα τερματικό <code>dmesg</code>: αυτό θα εμφανίσει τη τοποθεσία του δίσκου σε αγκύλες, όπως <code>sdb</code>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:563(ul/li)
 msgid "To write the image, run <code>sudo dd if=GNOME-3.4.iso of=/dev/DRIVE bs=8M conv=fsync</code>, replacing DRIVE with the location"
-msgstr ""
+msgstr "Για να γράψετε την εικόνα, εκτελέστε <code>sudo dd if=GNOME-3.4.iso of=/dev/DRIVE bs=8M conv=fsync</code>, αντικαθιστώντας το DRIVE με τη τοποθεσία"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:564(ul/li)
 msgid "Once the write operation has finished, you can reboot with the USB drive inserted (you may have to specify the boot device on startup)"
-msgstr ""
+msgstr "Όταν τελειώσει η διαδικασία εγγραφής, μπορείτε να επανεκκινήσετε τη τοποθετημένη συσκευή USB (μπορεί να χρειαστεί να καθορίσετε τη συσκευή εκκίνησης κατά την έναρξη)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:567(html/h2)
 msgid "Distributions"
@@ -1420,11 +1420,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:614(post/title)
 msgid "Become a Friend of GNOME"
-msgstr ""
+msgstr "Γίνετε ένας φίλος του GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:618(post/title)
 msgid "Testimonials"
-msgstr ""
+msgstr "Μαρτυρίες"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:621(html/h2)
 msgid "Robert Cole appreciates the accessibility of GNOME"
@@ -1484,15 +1484,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:638(post/title)
 msgid "List of Previous Donors"
-msgstr ""
+msgstr "Λίστα προηγούμενων δωρητών"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:642(post/title)
 msgid "Promote GNOME- Put a Badge on Your Website"
-msgstr ""
+msgstr "Προωθήστε το GNOME- Τοποθετήστε ένα σήμα στην ιστοσελίδα σας"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:646(post/title)
 msgid "Support GNOME by Shopping at Amazon!"
-msgstr ""
+msgstr "Υποστηρίξτε το GNOME ψωνίζοντας από το Amazon!"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@alt)
@@ -1507,7 +1507,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(a/img@alt)
 msgid "canada"
-msgstr ""
+msgstr "καναδάς"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(p/a@title)
@@ -1605,16 +1605,16 @@ msgstr "us"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(html/p)
 msgid "Select one of these Amazon Stores: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
-msgstr ""
+msgstr "Επιλέξτε ένα από τα καταστήματα του Amazon: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:654(post/title)
 msgid "Other Ways to Donate"
-msgstr ""
+msgstr "Άλλοι τρόποι για δωρεά"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:656(html/h4)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:847(html/h4)
 msgid "Pay by Check"
-msgstr ""
+msgstr "Πληρωμή μέσω επιταγής"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:657(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:848(html/p)
@@ -1639,7 +1639,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:670(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:861(p/a)
 msgid "GNOME Advisory Board"
-msgstr ""
+msgstr "Συμβουλευτική επιτροπή GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:670(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:861(html/p)
@@ -1656,7 +1656,7 @@ msgstr "Amazon Καναδά"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(html/p)
 msgid "Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
-msgstr ""
+msgstr "Επιλέξτε ένα από τα καταστήματα του Amazon: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-5/> <_:a-6/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:715(post/title)
 msgid "Foundation Members"
@@ -1676,7 +1676,7 @@ msgstr "membership-committee@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:720(html/p)
 msgid "Send comments, questions, and updates to <_:a-1/>."
-msgstr ""
+msgstr "Στείλτε σχόλια,ερωτήσεις, και ενημερώσεις στο <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:726(post/title)
 msgid "Become a Foundation member"
@@ -1753,7 +1753,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:747(html/h2)
 msgid "Executive Director"
-msgstr ""
+msgstr "Εκτελεστικός Διευθυντής"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:748(html/p)
 msgid "Karen Sandler serves as the GNOME Foundation’s executive director. The Executive Director is tasked with managing and growing the GNOME Foundation as an organization. Working with the Board of Directors, Advisory Board, and the GNOME Foundation members."
@@ -1762,7 +1762,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:749(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:750(p/a)
 msgid "Advisory Board"
-msgstr ""
+msgstr "Συμβουλευτική επιτροπή"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:750(html/p)
 msgid "The <_:a-1/> is made up of organizations and companies that support GNOME. The Advisory Board has no decision-making authority but provides a vehicle for its members to communicate with the Board of Directors and help the Directors guide the overall direction of GNOME and the GNOME Foundation."
@@ -1823,11 +1823,11 @@ msgstr "Λίστες ταχυδρομείου"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(li/a)
 msgid "Foundation mailing list"
-msgstr ""
+msgstr "Λίστα ταχυδρομείου ιδρύματος"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(li/a)
 msgid "subscription"
-msgstr ""
+msgstr "συνδρομή"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(ul/li)
 msgid "<_:a-1/> (Requires <_:a-2/>)"
@@ -1859,7 +1859,7 @@ msgstr "Διεύθυνση"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:796(html/p)
 msgid "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
-msgstr ""
+msgstr "GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:806(html/p)
 msgid "The Reports of the GNOME Foundation include reports on foundation activities for the past quarter or year, including community programmes and events, and foundation development initiatives."
@@ -1867,7 +1867,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:807(html/p)
 msgid "The Reports are published each quarter, and a specific annual report is also published at the end of each year."
-msgstr ""
+msgstr "Οι Αναφορές δημοσιεύονται κάθε τετράμηνο, και μια συγκεκριμένη ετήσια αναφορά δημοσιεύεται επίσης στο τέλος του κάθε χρόνου."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:808(html/h3)
 msgid "2011"
@@ -1927,7 +1927,7 @@ msgstr "2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:824(li/a)
 msgid "2009 Annual Report"
-msgstr ""
+msgstr "Ετήσιος απολογισμός 2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:824(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:827(ul/li)
@@ -1954,7 +1954,7 @@ msgstr "2008"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:831(li/a)
 msgid "2008 Annual Report"
-msgstr ""
+msgstr "Ετήσιος απολογισμός 2008"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:833(html/h3)
 msgid "2007"
@@ -1962,11 +1962,11 @@ msgstr "2007"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(li/a)
 msgid "2007 Annual Report"
-msgstr ""
+msgstr "Ετήσιος απολογισμός 2007"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(li/a)
 msgid "order a hard copy"
-msgstr ""
+msgstr "παραγγείλετε ένα αντίτυπο"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(ul/li)
 msgid "<_:a-1/> (PDF) (<_:a-2/>)"
@@ -1978,7 +1978,7 @@ msgstr "2006"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:839(li/a)
 msgid "2006 Annual Report"
-msgstr ""
+msgstr "Ετήσιος απολογισμός 2006"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:845(post/title)
 msgid "Other ways to donate"
