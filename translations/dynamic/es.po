@@ -1,11 +1,12 @@
 #
+# S. Daniel Francis <francis@sugarlabs.org>, 2012.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-06-12 18:30+0200\n"
+"PO-Revision-Date: 2012-06-27 10:24+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +119,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:83(post/title)
 msgid "GNOME 3 screenshot"
-msgstr ""
+msgstr "Captura de pantalla de GNOME 3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:86(post/title)
 msgid "equation"
@@ -303,11 +304,11 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:203(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3072(a/img@alt)
 msgid "A full audience for the debate"
-msgstr ""
+msgstr "Una audiencia completa para el debate"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:204(post/excerpt)
 msgid "A full audience for the debate..."
-msgstr ""
+msgstr "Una audiencia completa para el debate…"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:207(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:208(post/excerpt)
@@ -847,28 +848,28 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:648(post/title)
 msgid "Test"
-msgstr ""
+msgstr "Prueba"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:651(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:652(post/excerpt)
 msgid "GNOME 3 is here!"
-msgstr ""
+msgstr "GNOME 3 está aquí"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:655(post/title)
 msgid "GNOME just evolved again."
-msgstr ""
+msgstr "GNOME ha evolucionado nuevamente."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:656(post/excerpt)
 msgid "Say hello to version 3.2."
-msgstr ""
+msgstr "Diga hola a la versión 3.2."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:659(post/title)
 msgid "The web at your fingertips"
-msgstr ""
+msgstr "La web al alcance de sus dedos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:662(post/title)
 msgid "GNOME 1.0 Released"
-msgstr ""
+msgstr "GNOME 1.0 Publicado"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:664(html/p)
 msgid ""
@@ -877,6 +878,10 @@ msgid ""
 "version 1.0. GNOME is an integrated desktop environment designed to run on "
 "UNIX-like systems, including Linux-based systems."
 msgstr ""
+"SAN JOSÉ, CA: hoy en la Linux World Conference, el proyecto GNOME ha "
+"anunciado el lanzamiento de la versión 1.0 del GNU Network Object Model "
+"Environment (GNOME). GNOME es un entorno de escritorio integrado diseñado "
+"para funcionar sobre sistemas UNIX, incluyendo los sistemas basados en Linux."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:665(html/p)
 msgid ""
@@ -885,6 +890,10 @@ msgid ""
 "and what it will mean for the future of GNU/Linux computing,” said Miguel de "
 "Icaza, GNOME project coordinator."
 msgstr ""
+"«GNOME es una interfaz gráfica de usuario (GUI) que combina facilidad de uso "
+"con la flexibilidad y realidad de GNU/Linux. Estamos muy emocionados por "
+"GNOME y por lo que significará para el futuro de GNU/Linux,» dijo Miguel de "
+"Icaza, coordinador del proyecto GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:666(html/p)
 msgid ""
@@ -897,6 +906,16 @@ msgid ""
 "Additionally it makes efficient use of today’s technologies, such as CORBA "
 "and drag-and-drop, to ensure maximum interoperability with existing software."
 msgstr ""
+"Las características de GNOME se diseñaron para dar lugar a un entorno en el "
+"que los usuarios puedan realizar tareas habituales de escritorio. Los "
+"usuarios aprecian la posibilidad de configurar completamente el escritorio "
+"GNOME, el cual les da la habilidad de personalizar su entorno de trabajo de "
+"acuerdo a sus necesidades y gustos personales. Además GNOME está "
+"completamente internacionalizado. Tiene soporte para más de 17 idiomas para "
+"permitir que cada usuario pueda experimentar GNOME en su lengua materna. "
+"Adicionalmente permite el uso eficiente de las tecnologías de hoy, como "
+"CORBA y «arrastrar y soltar», para asegurar la máxima integración con el "
+"software existente."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:667(html/p)
 msgid ""
@@ -919,6 +938,13 @@ msgid ""
 "reports have played an important role in the success of the GNOME project so "
 "far."
 msgstr ""
+"Programadores de todo el mundo han desarrollado en GNOME durante casi dos "
+"años. La gran mayoría del grupo actual de unos 250 desarrolladores, "
+"incluyendo al Sr. de Icaza, son voluntarios que donan su tiempo a la causa "
+"del Software Libre. Recibieron ayuda adicional de los «Red Hat Advanced "
+"Development Labs», y de muchas personas cuyas ideas, consejos e informes de "
+"errores han jugado un papel importante en el éxito del proyecto GNOME hasta "
+"el momento."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:669(html/p)
 msgid ""
@@ -2267,8 +2293,8 @@ msgstr "http://developer.gnome.org/feature/current/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:909(html/p)
 msgid ""
-"The GNOME Accessibility Framework is available now, please visit:<br/> <_:a-"
-"1/>"
+"The GNOME Accessibility Framework is available now, please visit:<br/> <_:"
+"a-1/>"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:912(p/a)
@@ -5543,8 +5569,8 @@ msgid ""
 "Sponsors include industry leaders like Fluendo, HP, IBM, Novell, Red Hat, "
 "and Sun. GNOME is supported on a variety of platforms, including GNU/Linux "
 "(more commonly referred to as Linux), Solaris Operating Environment, HP-UX, "
-"Unix, BSD and Apple’s Darwin. More information on GNOME can be found at <_:a-"
-"1/>."
+"Unix, BSD and Apple’s Darwin. More information on GNOME can be found at <_:"
+"a-1/>."
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1598(html/p)
@@ -6298,8 +6324,8 @@ msgstr "projects.gnome.org/outreach/a11y"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1740(html/p)
 msgid ""
-"Individuals interested in participating in the program should check out<_:a-"
-"1/>. More information about the program may be found at the same location."
+"Individuals interested in participating in the program should check out<_:"
+"a-1/>. More information about the program may be found at the same location."
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1742(html/p)
@@ -9347,8 +9373,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2514(ul/li)
 msgid ""
 "To promote free online web services, the GNOME Foundation announced an alpha "
-"for Tomboy Online on September 17th, 2010. GUADEC 2010 in The Hague (July 26-"
-"30) was a huge success with a terrific venue. This GUADEC provided a much "
+"for Tomboy Online on September 17th, 2010. GUADEC 2010 in The Hague (July "
+"26-30) was a huge success with a terrific venue. This GUADEC provided a much "
 "needed opportunity to plan for the upcoming GNOME 3 release. At this GUADEC "
 "it was announced that the release date for GNOME 3 slipped until April 2011. "
 "The consensus of the GNOME community was that this rescheduling will "
@@ -13220,8 +13246,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3256(html/p)
 msgid ""
-"Nine OPW interns attended the Desktop Summit in Berlin, Germany on August 6-"
-"12. Some of them did lightning talks about their work during the <_:a-1/"
+"Nine OPW interns attended the Desktop Summit in Berlin, Germany on August "
+"6-12. Some of them did lightning talks about their work during the <_:a-1/"
 "> session. The GNOME women’s dinner was attended by 23 women. There was also "
 "a <_:a-2/> at the conference."
 msgstr ""
@@ -13332,8 +13358,8 @@ msgstr ""
 msgid ""
 "There is a number of GNOME Users Groups (GUG) worldwide that actively "
 "promoted GNOME this quarter. One of them is the group in Philippines. This "
-"GUG is composed of people who regularly organize FOSS events like annual<_:a-"
-"1/> in different parts of the country. They regularly advocate GNOME in "
+"GUG is composed of people who regularly organize FOSS events like annual<_:"
+"a-1/> in different parts of the country. They regularly advocate GNOME in "
 "these events along with KahelOS, a GNOME based GNU/Linux distribution "
 "championed by members of this group. This quarter, they also <_:a-2/> the "
 "release of GNOME 3.2 <_:a-3/> around the world."
@@ -13724,8 +13750,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3359(html/p)
 msgid ""
-"The core organizing team for GUADEC 2012 will consists of members from <_:a-"
-"1/>, a nonprofit association that promotes and spreads Free Software in "
+"The core organizing team for GUADEC 2012 will consists of members from <_:"
+"a-1/>, a nonprofit association that promotes and spreads Free Software in "
 "Spain, <_:a-2/>, an organization dedicated to GNOME for Spanish speakers, <_:"
 "a-3/>, a GNU/Linux Users and Developers Group, <_:a-4/> and the <_:a-5/>. "
 "All of the core team members are dedicated to free and open source software, "
@@ -14927,8 +14953,8 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3630(html/p)
 msgid ""
-"A 2011 GNOME 3 Launch Party was organized by the GNOME Users Groups of <_:a-"
-"1/>, <_:a-2/>, and <_:a-3/>. The Users Groups used video streaming so that "
+"A 2011 GNOME 3 Launch Party was organized by the GNOME Users Groups of <_:"
+"a-1/>, <_:a-2/>, and <_:a-3/>. The Users Groups used video streaming so that "
 "five cities (Beijing, Hong Kong, Taipei, Taichung, and Kaohsiung) were able "
 "to celebrate the GNOME 3 Launch Party at the same time. The groups created "
 "a <_:a-4/> on justin.tv showing how to do this for other teams. The live "
@@ -15756,8 +15782,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3814(html/p)
 msgid ""
 "In 2011 the annual ‘Boston’ Summit was moved to Montréal, Canada. Held at "
-"the École Polytechnique de Montréal, in the Pavillons Lassonde, October 8-"
-"10th. Since the summit occurred just after the release of GNOME 3.2, talks "
+"the École Polytechnique de Montréal, in the Pavillons Lassonde, October "
+"8-10th. Since the summit occurred just after the release of GNOME 3.2, talks "
 "focused on upcoming features in GNOME 3.3/3.4, dovetailing with discussions "
 "on the mailing lists. Presentations included those on Baserock by Lars "
 "Wirzenius &amp; jhbuild by Colin Walters, as well as others on strategy, the "
