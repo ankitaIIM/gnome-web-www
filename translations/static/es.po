@@ -1,18 +1,19 @@
 #
+# Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-06-09 11:45+0200\n"
+"PO-Revision-Date: 2012-06-28 11:37+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.4\n"
+"X-Generator: Gtranslator 2.91.5\n"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:4(bloginfo/name)
 msgid "GNOME"
@@ -26,35 +27,35 @@ msgstr "Noticias"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:9(terms/term)
 msgid "Blogroll"
-msgstr ""
+msgstr "Lista de blogs"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:10(terms/term)
 msgid "workshops"
-msgstr ""
+msgstr "talleres"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:11(terms/term)
 msgid "Press Release"
-msgstr ""
+msgstr "Comunicado de prensa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:12(terms/term)
 msgid "desktop summit"
-msgstr ""
+msgstr "desktop summit"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:13(terms/term)
 msgid "footer"
-msgstr "pie"
+msgstr "pie de página"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:14(terms/term)
 msgid "globalnav"
-msgstr ""
+msgstr "globalnav"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:15(terms/term)
 msgid "bofs"
-msgstr ""
+msgstr "bofs"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:16(terms/term)
 msgid "conference"
-msgstr ""
+msgstr "conferencia"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:17(terms/term)
 msgid "GUADEC"
@@ -118,11 +119,11 @@ msgstr "OPW"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:32(terms/term)
 msgid "outreach"
-msgstr ""
+msgstr "integración"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:33(terms/term)
 msgid "mentorship"
-msgstr ""
+msgstr "tutoría"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:34(terms/term)
 msgid "Conservancy"
@@ -175,11 +176,11 @@ msgstr "Última versión"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:74(post/title)
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planeta GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:77(post/title)
 msgid "GNOME Journal"
-msgstr ""
+msgstr "Revista GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:80(post/title)
 msgid "Development News"
@@ -195,7 +196,7 @@ msgstr "Twitter"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:89(post/title)
 msgid "About Us"
-msgstr ""
+msgstr "Sobre nosotros"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:91(p/img@alt)
 msgid "Computer + GNOME = Love"
@@ -204,7 +205,7 @@ msgstr "Equipo + GNOME = Amor"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:92(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:584(p/a)
 msgid "Free Software"
-msgstr ""
+msgstr "Software Libre"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:92(html/p)
 msgid ""
@@ -212,10 +213,13 @@ msgid ""
 ">: all our work is free to use, modify and redistribute. Everyone is welcome "
 "to participate in its development."
 msgstr ""
+"El proyecto GNOME es una comunidad que crea gran software. GNOME es <_:a-1/"
+">: todo nuestro trabajo es libre de usarse, modificarse y redistribuirse. "
+"Todo el mundo es bienvenido a participar en su desarrollo."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:95(div/h2)
 msgid "In the beginning"
-msgstr ""
+msgstr "Al principio"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:96(div/p)
 msgid ""
@@ -228,6 +232,14 @@ msgid ""
 "and public deployments, and the project’s developer technologies are "
 "utilised in a large number of popular mobile devices."
 msgstr ""
+"El proyecto GNOME inició en 1997 por dos estudiantes universitarios en ese "
+"momento, Miguel de Icaza y Federico Mena. Su objetivo: producir un entorno "
+"de escritorio libre (como en libertad). Desde entonces, GNOME se convirtió "
+"en una empresa de gran éxito. Utilizado por millones de personas en todo el "
+"mundo, es el entorno de escritorio más popular para sistemas operativos de "
+"tipo GNU/Linux y UNIX. El escritorio se utilizó con éxito en empresas de "
+"gran escala y despliegues públicos, y las tecnologías de desarrollo del "
+"proyecto se utilizan en un gran número de dispositivos móviles populares."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:99(div/h2)
 msgid "Collaboration and meritocracy"
@@ -249,7 +261,7 @@ msgstr "Libertad y comunidad"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:105(p/a@title)
 msgid "The GNU Operating System"
-msgstr ""
+msgstr "El sistema operativo GNU"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:105(p/a)
 msgid "the GNU Project"
@@ -470,7 +482,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:213(p/a)
 msgid "Get involved in GNOME Design"
-msgstr ""
+msgstr "Involucrarse en el diseño de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:217(div/h3)
 msgid "Translate"
@@ -956,7 +968,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:411(li/a)
 msgid "our bug database"
-msgstr ""
+msgstr "nuestra base de datos de informes de errores"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:411(ul/li)
 msgid ""
@@ -1029,7 +1041,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
-msgstr ""
+msgstr "La página web importa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:420(p/a)
 msgid "GNOME Website Development list"
@@ -1066,7 +1078,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:432(div/h2)
 msgid "Choose the right direction"
-msgstr ""
+msgstr "Elegir la dirección correcta"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(p/a)
 msgid "install GNOME inside a distribution"
@@ -1137,7 +1149,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:441(div/h2)
 msgid "Explore the Git modules"
-msgstr ""
+msgstr "Explorar los módulos de Git"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:442(div/p)
 msgid ""
@@ -1936,7 +1948,7 @@ msgstr "Creative Commons BY-NC-ND 3.0"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:633(html/p)
 msgid "(c) 2011 Robert Cole, Licensed under <_:a-1/>"
-msgstr ""
+msgstr "(c) 2011 Robert Cole, Licenciado bajo <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:638(post/title)
 msgid "List of Previous Donors"
@@ -2115,7 +2127,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:675(post/title)
 msgid "Amazon Canada"
-msgstr ""
+msgstr "Amazon Canadá"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:685(html/p)
@@ -2277,7 +2289,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:755(ul/li)
 msgid "Debian Project"
-msgstr ""
+msgstr "Proyecto Debian"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:757(ul/li)
 msgid "Google"
