@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-05 11:08+0200\n"
+"PO-Revision-Date: 2012-07-07 12:40+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -635,8 +635,8 @@ msgstr "JHBuild, la herramienta de construcción de GNOME"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
 msgstr ""
-"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:a-"
-"1/>."
+"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:"
+"a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:233(div/h3)
 msgid "Administrate"
@@ -1074,12 +1074,19 @@ msgid ""
 "albums from Magnatune and Jamendo. Features Internet radio and last.fm. Has "
 "good support for mass storage music players."
 msgstr ""
+"Organice y escuche su música, grabe CD. Busque, previsualice y descargue "
+"álbumes desde Magnatune y Jamendo. Características de radio por Internet y "
+"last.fm. Tiene buen soporte para reproductores de música de almacenamiento "
+"masivo."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:391(div/p)
 msgid ""
 "GNOME 3 includes all the essential utilities you need, including a web "
 "browser,<br/> image viewer, movie player, text editor, calculator and more."
 msgstr ""
+"GNOME 3 incluye todos los servicios esenciales que necesita, incluyendo un "
+"navegador web, <br/> visor de imágenes, reproductor de películas, editor de "
+"texto, calculadora y más."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:402(post/title)
 msgid "Contact Us"
@@ -1091,6 +1098,9 @@ msgid ""
 "website, you can contact us. We provide numerous means of contact, depending "
 "on your interest in GNOME."
 msgstr ""
+"Si tiene una pregunta o consulta que no está respondida en este sitio web, "
+"puede contactar con nosotros. Ofrecemos numerosos medios de contacto, "
+"dependiendo de su interés en GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:407(div/h2)
 msgid "User help"
@@ -1102,6 +1112,9 @@ msgid ""
 "help through your distribution. The GNOME Project does provide a number of "
 "ways to get support using its software, however:"
 msgstr ""
+"Si tiene un problema con el software de GNOME, se recomienda que busque "
+"ayuda a través de su distribución. El proyecto GNOME proporciona varias "
+"maneras de obtener ayuda con su software, sin embargo:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:410(li/a)
 msgid "an extensive library of help documentation"
@@ -1113,6 +1126,9 @@ msgid ""
 "our software. You can view this online or use the built in GNOME help "
 "browser."
 msgstr ""
+"Documentación de usuario: el proyecto GNOME ha <_:a-1/> escrita para "
+"ayudarle a utilizar nuestro software. Puede consultarla en línea o utilizar "
+"el navegador de ayuda incorporado en GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:411(li/a)
 msgid "our bug database"
@@ -1123,10 +1139,12 @@ msgid ""
 "Bug reporting: if you think that you are experiencing an error with our "
 "software, you can search and file reports in <_:a-1/>."
 msgstr ""
+"Informes de error: si piensa que está experimentando un error con nuestro "
+"software, puede buscar y enviar informes de error en <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(li/a)
 msgid "IRC chat"
-msgstr "Canal de IRC"
+msgstr "canal de IRC"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(li/a)
 msgid "email mailing lists"
@@ -1134,12 +1152,12 @@ msgstr "listas de correo"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(li/a)
 msgid "#gnome IRC channel"
-msgstr "Canal de IRC #gnome"
+msgstr "canal de IRC #gnome"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(li/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(li/a)
 msgid "GNOME List mailing list"
-msgstr ""
+msgstr "listas de correo de la lista GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(ul/li)
 msgid ""
@@ -1148,10 +1166,15 @@ msgid ""
 "including <_:a-1/> and <_:a-2/>. The <_:a-3/> and <_:a-4/> are the most "
 "general in scope: use these if you are unsure which list or channel to use."
 msgstr ""
+"Póngase en contacto con usuarios, entusiastas y desarrolladores: el proyecto "
+"GNOME proporciona varias maneras de contactar con usuarios, entusiastas y "
+"desarrolladores, incluyendo <_:a-1/> y el <_:a-2/>. El <_:a-3/> y <_:a-4/> "
+"son los más generales en el ámbito: utilice estos si no está seguro qué "
+"lista o canal utilizar."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:414(div/h2)
 msgid "Partner organisations, sponsors and legal matters"
-msgstr ""
+msgstr "Organizaciones asociadas, patrocinadores y asuntos legales"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:415(p/a)
 msgid "GNOME Foundation site"
@@ -1163,6 +1186,8 @@ msgid ""
 "our partner companies and organisations. See the <_:a-1/> for further "
 "details."
 msgstr ""
+"La fundación GNOME sirve como interfaz entre el proyecto GNOME y nuestras "
+"empresas asociadas y organizaciones. Consulte la <_:a-1/> para más detalles."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:416(div/h2)
 msgid "Press"
@@ -1175,17 +1200,19 @@ msgstr "gnome-press-contact@gnome.org"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:418(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:547(post/title)
 msgid "Press Releases"
-msgstr ""
+msgstr "Comunicados de prensa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:418(p/a)
 msgid "press releases page"
-msgstr ""
+msgstr "página de comunicados de prensa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:417(div/p)
 msgid ""
 "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent "
 "announcements."
 msgstr ""
+"Las consultas de prensa se deben enviaar a <_:a-1/>. <br/> Consulte la <_:"
+"a-2/> sobre anuncios recientes."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
@@ -1193,13 +1220,15 @@ msgstr "La página web importa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:420(p/a)
 msgid "GNOME Website Development list"
-msgstr ""
+msgstr "lista de desarrollo del sitio web de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:420(div/p)
 msgid ""
 "If you have discovered a problem with the GNOME web-site, or wish to help "
 "improve our web-pages, you can email the <_:a-1/>"
 msgstr ""
+"Si ha descubierto un problema con el sitio web de GNOME, o si quiere ayudar "
+"a mejorar nuestras páginas web, puede enviar un correo-e a la <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:421(div/h2)
 msgid "Reporting security issues"
@@ -1211,7 +1240,7 @@ msgstr "security@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(div/p)
 msgid "Potential security issues should be reported to <_:a-1/>."
-msgstr ""
+msgstr "Se debe informar de los posibles problemas de seguridad a <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:428(post/title)
 msgid "Source"
@@ -1223,6 +1252,9 @@ msgid ""
 "up with the latest changes, add features you want, or test your applications "
 "with the newest code."
 msgstr ""
+"Todo el código fuente de GNOME se centraliza en el repositorio Git de GNOME. "
+"Manténgase al día con los últimos cambios, añada las características que "
+"desee, o pruebe sus aplicaciones con el nuevo código."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:432(div/h2)
 msgid "Choose the right direction"
@@ -1238,6 +1270,10 @@ msgid ""
 "wild terminal screen and build GNOME from source. If you are a developer, "
 "programmer, scientist or interested somehow, you are in the right place."
 msgstr ""
+"Aunque puede <_:a-1/> fácilmente, en algunos casos puede preferir disfrutar "
+"la terminal pura y construir GNOME desde el código fuente. Si es un "
+"desarrollador, programador, científico o interesado de alguna manera, está "
+"en el lugar correcto."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:434(div/h2)
 msgid "Understanding the versioning scheme"
@@ -1251,6 +1287,13 @@ msgid ""
 "<strong>1</strong> is the bug fix number. As a rule, stable versions have "
 "even minor numbers and development versions have odd minor numbers."
 msgstr ""
+"El esquema de control de versiones de GNOME utiliza tres números: mayor, "
+"menor y correcciones de error. Para un número de versión de <strong>2.28.1</"
+"strong>, <strong>2</strong> es el número de versión mayor, <strong>28</"
+"strong> es el número de versión menor, y <strong>1</strong> es el número de "
+"corrección de error. Por regla general, las versiones estables tienen "
+"números pares menores y las versiones de desarrollo tienen números impares "
+"menores."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:436(div/p)
 msgid ""
@@ -1259,14 +1302,18 @@ msgid ""
 "platform, the stable version is what you want. The current stable version is "
 "<strong>GNOME 3.0</strong>, released in April 2011."
 msgstr ""
+"GNOME lanza una nueva versión estable cada seis meses, por lo general en "
+"marzo y septiembre. Si quiere software probado a fondo y una plataforma de "
+"desarrollo estable, la versión estable es lo que busca. La versión estable "
+"actual es <strong>GNOME 3.0</strong>, publicada en abril de 2011."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:437(p/a)
 msgid "GNOME 3.0 Release Notes"
-msgstr "Notas de publicación de GNOME 3.0"
+msgstr "notas de publicación de GNOME 3.0"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:437(div/p)
 msgid "To get more information about GNOME 3.0, check out the <_:a-1/>."
-msgstr ""
+msgstr "Para obtener más información sobre GNOME 3.0, revise las <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:438(div/p)
 msgid ""
@@ -1277,6 +1324,13 @@ msgid ""
 "GNOME software, this is the release for you. The current development branch "
 "is <strong>GNOME 3.1</strong>, due for release in the last quarter of 2011."
 msgstr ""
+"Entre las versiones estables, los desarrolladores de GNOME hackean en el "
+"<strong>desarrollo o rama «inestable»</strong> de GNOME, donde pasan muchas "
+"cosas divertidas, pero también de vez en cuando suceden cosas experimentales "
+"e inestables. Si está interesado en probar nuevas características, o si "
+"quiere desarrollar software de GNOME, esta la versión correcta. La rama de "
+"desarrollo actual es <strong>GNOME 3.1</strong>, que se lanzará en el último "
+"trimestre de 2011."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:439(div/h2)
 msgid "Use a Build tool"
@@ -1294,6 +1348,13 @@ msgid ""
 "modules you want and it will build those modules including dependencies. We "
 "recommend using JHBuild to build GNOME from source."
 msgstr ""
+"<_:a-1/> es una herramienta desarrollada y utilizada para construir el "
+"conjunto de escritorio de GNOME desde las fuentes de Git. También se puede "
+"utilizar para construir otros proyectos creando un conjunto de módulos para "
+"ello. A diferencia de algunos scripts de creación, JHBuild le permite "
+"especificar qué módulos quiere, y construirá estos módulos incluyendo "
+"dependencias. Recomendamos el uso de JHBuild para construir GNOME desde el "
+"código fuente."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:441(div/h2)
 msgid "Explore the Git modules"
@@ -1306,6 +1367,10 @@ msgid ""
 "proves to be the first hurdle for new developers that are attracted to the "
 "GNOME project."
 msgstr ""
+"Git es un potente método para permitir a muchos desarrolladores trabajar en "
+"el mismo código fuente. Se utiliza ampliamente en el proyecto GNOME y a "
+"menudo resulta ser el primer obstáculo para nuevos desarrolladores que se "
+"sienten atraídos por el proyecto GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(p/a)
 msgid "Discover more about Git"
@@ -1388,7 +1453,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:468(ul/li)
 msgid "The word GNOME™"
-msgstr ""
+msgstr "La palabra GNOME™"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:469(li/img@alt)
 msgid "GNOME Foot Logo"
@@ -1698,7 +1763,8 @@ msgstr "Imagen «live» de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a)
 msgid "<span style=\"color: #ff6600;\">Live Images Available Here</span>"
-msgstr "<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
+msgstr ""
+"<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(html/h2)
 msgid "Try GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
@@ -2282,8 +2348,8 @@ msgstr "Amazon Canadá"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(html/p)
 msgid ""
-"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-"
-"5/> <_:a-6/>"
+"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:"
+"a-5/> <_:a-6/>"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:715(post/title)
