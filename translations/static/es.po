@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-07 12:40+0200\n"
+"PO-Revision-Date: 2012-07-09 16:30+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -635,8 +635,8 @@ msgstr "JHBuild, la herramienta de construcción de GNOME"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
 msgstr ""
-"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:"
-"a-1/>."
+"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:a-"
+"1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:233(div/h3)
 msgid "Administrate"
@@ -1211,8 +1211,8 @@ msgid ""
 "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent "
 "announcements."
 msgstr ""
-"Las consultas de prensa se deben enviaar a <_:a-1/>. <br/> Consulte la <_:"
-"a-2/> sobre anuncios recientes."
+"Las consultas de prensa se deben enviaar a <_:a-1/>. <br/> Consulte la <_:a-"
+"2/> sobre anuncios recientes."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
@@ -1389,10 +1389,12 @@ msgid ""
 "GNOME is a large, fun community, and we all work pretty hard to get this "
 "software out to our users. If you like GNOME, <_:a-1/>?"
 msgstr ""
+"GNOME es una comunidad grande, divertida, y todos trabajamos muy duro para "
+"conseguir este software para nuestros usuarios. Si le gusta GNOME, ¿<_:a-1/>?"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:458(post/title)
 msgid "Legal and Trademarks"
-msgstr ""
+msgstr "Legal y marcas"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(p/a)
 msgid "contact"
@@ -1404,10 +1406,13 @@ msgid ""
 "use of your personal information, please feel free to <_:a-1/> us by e-mail "
 "or by post."
 msgstr ""
+"Si tiene alguna pregunta acerca de cualquiera de estas prácticas o del uso "
+"de su información personal de la Fundación GNOME, no dude en <_:a-1/> con "
+"nosotros por correo-e o por correo postal."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:461(html/h2)
 msgid "<_:a-1/>Board Confidentiality Policy"
-msgstr ""
+msgstr "<_:a-1/>Política de confidencialidad de la junta"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:462(html/p)
 msgid ""
@@ -1418,6 +1423,12 @@ msgid ""
 "time to time and in the regular course of business, be made aware of "
 "confidential and sensitive information."
 msgstr ""
+"Parte del propósito de la Fundación es la de ser un organismo neutral e "
+"independiente que las organizaciones pueden utilizar como un punto de "
+"contacto inicial antes de estar cada vez más involucrado con el proyecto "
+"GNOME. A través de esta y otras actividades, los miembros de la junta y "
+"empleados y agentes de la Fundación, de vez en cuando y en el curso normal "
+"del negocio, deberán ser conscientes de información confidencial y sensible."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:463(html/p)
 msgid ""
@@ -1428,10 +1439,17 @@ msgid ""
 "or that individuals came to know through other means is not covered by this "
 "provision. Confidential information must be marked confidential."
 msgstr ""
+"Los miembros de la junta se comprometen después de su elección y de la "
+"publicación de esta adenda a mantener esta información confidencial. Los "
+"empleados y agentes se comprometen a la contratación o publicación de esta "
+"adenda a mantener esta información confidencial, en riesgo de terminación. "
+"La información que es de conocimiento público o que los individuos llegan a "
+"conocer a través de otros medios no están cubiertos por esta disposición. La "
+"información confidencial se debe calificar como confidencial."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:464(html/h2)
 msgid "<_:a-1/>Trademark Licensing"
-msgstr ""
+msgstr "<_:a-1/>Licencias de marca"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(p/a)
 msgid "licensing@gnome.org"
@@ -1446,10 +1464,17 @@ msgid ""
 "These cover many common situations; if you need permission to use the GNOME "
 "trademarks in other ways or have other questions, please contact <_:a-1/>."
 msgstr ""
+"Una de las funciones que proporciona la fundación GNOME es actuar como el "
+"propietario legal de los bienes del proyecto GNOME como el nombre GNOME y el "
+"pie de GNOME. Debemos proteger estas marcas con el fin de mantenerlas. Por "
+"lo tanto, tenemos algunas pautas para su uso y un acuerdo estándar para "
+"grupos de usuarios. Estas cubren muchas situaciones comunes; si necesita "
+"permiso para utilizar las marcas de GNOME de otras formas o tiene otras "
+"preguntas, contáctenos <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:466(html/p)
 msgid "The GNOME trademarks are:"
-msgstr ""
+msgstr "Las marcas de GNOME son:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:468(ul/li)
 msgid "The word GNOME™"
@@ -1457,19 +1482,19 @@ msgstr "La palabra GNOME™"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:469(li/img@alt)
 msgid "GNOME Foot Logo"
-msgstr ""
+msgstr "Logotipo del pie de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:469(ul/li)
 msgid "The GNOME foot logo: <_:img-1/>"
-msgstr ""
+msgstr "El logotipo del pie de GNOME: <_:img-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:471(html/h3)
 msgid "Third-party usage guidelines"
-msgstr ""
+msgstr "Pautas de uso de terceros"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:472(p/a)
 msgid "GNOME Foundation trademark usage guidelines for third parties"
-msgstr ""
+msgstr "pautas de uso de marca de la fundación GNOME para terceros"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:472(html/p)
 msgid ""
@@ -1477,10 +1502,14 @@ msgid ""
 "typically may be used without permission in magazine and book reviews). "
 "The <_:a-1/> describe what is appropriate fair use of the GNOME trademarks."
 msgstr ""
+"Conforme a la ley, el «uso justo» de las marcas está permitido (por ejemplo, "
+"las marcas normalmente se pueden utilizar sin permiso en comentarios de "
+"revistas y libros). Las <_:a-1/> describen lo que es un uso justo apropiado "
+"de las marcas de GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:473(html/h3)
 msgid "User group license agreement"
-msgstr ""
+msgstr "Acuerdo de licencia de grupos de usuarios"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:474(html/p)
 msgid ""
@@ -1492,34 +1521,50 @@ msgid ""
 "be a group of developers working on an open source GNOME application or many "
 "similar non-commerical uses.)"
 msgstr ""
+"Los grupos de usuarios son una parte muy importante de la comunidad de "
+"GNOME. Los grupos de usuarios tienen la necesidad de hacer uso de las marcas "
+"de GNOME en formas tales como la creación y distribución de materiales de "
+"marketing o la creación de sitios web. (El uso del término grupo de usuarios "
+"aquí es amplio: el ejemplo canónico sería un grupo de personas que utilizan "
+"y promocionan GNOME en una localidad específica, pero también podría ser un "
+"grupo de desarrolladores trabajando en una aplicación de GNOME de código "
+"abierto o muchos usos no comerciales similares.)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:475(p/a)
 msgid "GNOME user group license agreement"
-msgstr ""
+msgstr "acuerdo de licencia de grupos de usuarios de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:475(html/p)
 msgid ""
 "By agreeing to the <_:a-1/> a user group obtains permission to use the GNOME "
 "trademarks under certain conditions."
 msgstr ""
+"Al aceptar el <_:a-1/>, un grupo de usuarios obtiene el permiso para "
+"utilizar las marcas de GNOME bajo ciertas condiciones."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:476(html/h3)
 msgid ""
 "<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
 "weight: bold;\">Sharing Your Personal Information</span>"
 msgstr ""
+"<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-"
+"weight: bold;\">Compartiendo su información personal</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:477(html/p)
 msgid ""
 "Unless you assent, GNOME Foundation will never share the personal "
 "information you provide to us except as described below."
 msgstr ""
+"A menos que lo consienta, la Fundación GNOME nunca compartirá la información "
+"personal que nos proporcione excepto como se describe a continuación."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:478(html/p)
 msgid ""
 "GNOME Foundation may disclose your personal information to third parties "
 "under any of the following circumstances:"
 msgstr ""
+"La fundación GNOME puede revelar su información personal a terceros bajo "
+"cualquiera de las siguientes circunstancias:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:480(ul/li)
 msgid ""
@@ -1527,6 +1572,10 @@ msgid ""
 "processing, to provide service, and for e-mail housing (as a consequence of "
 "uses already described in this Privacy Statement)."
 msgstr ""
+"Como puede ser necesario para cumplir órdenes, para llevar a cabo "
+"facturación/procesamiento de tarjetas de crédito, para proporcionar "
+"servicios, y para el alojamiento de correo electrónico (como consecuencia de "
+"los usos ya descritos en esta declaración de privacidad)."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:481(ul/li)
 msgid ""
@@ -1538,31 +1587,46 @@ msgid ""
 "services to current and prospective partners and other third parties, and is "
 "not used to contact the subjects of the report.)"
 msgstr ""
+"Como requiere la ley (tal como responder a una citación válida, garantía, "
+"auditoría, o acción de agencia, o para prevenir fraude). La información "
+"agregada se puede distribuir por los propósitos de caracterización de la "
+"comunidad GNOME y la planificación de eventos futuros. Todos los datos "
+"personales se eliminarán de dicha información agregada (como información "
+"agregada se utiliza para describir nuestros servicios a los socios actuales "
+"y probables y otros terceros, y no se utiliza para ponerse en contacto con "
+"los asuntos del informe)."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:483(html/h2)
 msgid "<_:a-1/>Pro Bono Counsel"
-msgstr ""
+msgstr "<_:a-1/>Consejo pro bono"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:484(html/p)
 msgid ""
 "The GNOME Foundation thanks <_:a-1/> and the <_:a-2/> for their ongoing "
 "service as pro bono counsels to the Foundation."
 msgstr ""
+"La fundación GNOME agradece a <_:a-1/> y la <_:a-2/> por sus servicios en "
+"curso como consejos pro bono para la Fundación."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:485(html/h2)
 msgid ""
 "<_:a-1/>Employer Identification Number / Federal Tax Identification Number"
 msgstr ""
+"<_:a-1/> Número de identificación del empleador / Número de identificación "
+"de impuesto federal"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:486(html/p)
 msgid ""
 "The Employer Identification Number (EIN) of the GNOME Foundation, also known "
 "as Federal Tax Identification Number, is 043572618."
 msgstr ""
+"El número de identificación del empleador (EIN) de la fundación GNOME, "
+"también conocido como el número de identificación de impuesto federal, es "
+"043572618."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:491(post/title)
 msgid "Support GNOME"
-msgstr ""
+msgstr "Soporte para GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:493(html/p)
 msgid ""
@@ -1570,15 +1634,21 @@ msgid ""
 "organise events, pay for equipment, and have a small amount of staffing. The "
 "GNOME Foundation takes care of the project’s financial affairs."
 msgstr ""
+"GNOME cuenta con el apoyo de individuos y empresas. Esto nos permite "
+"organizar eventos, pagar por el equipo, y tener una pequeña cantidad de "
+"personal. La Fundación GNOME se encarga de los asuntos financieros del "
+"proyecto."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:494(html/p)
 msgid ""
 "There are many ways that individuals and organisations can support GNOME."
 msgstr ""
+"Hay muchas maneras en que los individuos y organizaciones pueden apoyar a "
+"GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:495(html/h2)
 msgid "Individuals"
-msgstr ""
+msgstr "Individuos"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:497(li/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:497(li/a)
@@ -1590,6 +1660,8 @@ msgid ""
 "The <_:a-1/> scheme allows regular or one time donations to the GNOME "
 "Foundation. The scheme includes great benefits for benefactors."
 msgstr ""
+"El esquema de <_:a-1/> permite donaciones regulares o de un tiempo a la "
+"fundación GNOME. El esquema incluye grandes beneficios para benefactores."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:498(li/a@title)
 msgid "The GNOME Store"
@@ -1763,8 +1835,7 @@ msgstr "Imagen «live» de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a)
 msgid "<span style=\"color: #ff6600;\">Live Images Available Here</span>"
-msgstr ""
-"<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
+msgstr "<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(html/h2)
 msgid "Try GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
@@ -2348,8 +2419,8 @@ msgstr "Amazon Canadá"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(html/p)
 msgid ""
-"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:"
-"a-5/> <_:a-6/>"
+"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-"
+"5/> <_:a-6/>"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:715(post/title)
