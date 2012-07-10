@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-06-08 15:49+0700\n"
+"PO-Revision-Date: 2012-07-10 14:19+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:131(div/p)
 msgid "GNOME’s new desktop takes elegance to a new level. We’ve swept away the clutter and made a simple and easy-to-use desktop, and we’ve made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
-msgstr ""
+msgstr "Desktop baru GNOME membawa keanggunan ke tingkat yang baru. Kami telah menyapu keberserakan dan membuat sebuah desktop yang sederhana dan mudah digunakan, dan kami telah membuat ini desktop GNOME paling indah yang pernah ada, dengan tema visual baru, fonta baru yang diperhalus dan animasi yang dibuat dengan hati-hati."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:142(div/h2)
 msgid "An overview at a glance"
@@ -300,7 +300,7 @@ msgstr "Sekilas ringkasan"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:143(div/p)
 msgid "The Activities Overview is the portal to all your computing activities. Quickly accessible using the top-left hot corner or windows key, it provides a single place to access windows, applications and even messages. The dash allows you to see which applications are currently running and the workspace switcher can be used to group windows."
-msgstr ""
+msgstr "Ringkasan Aktivitas adalah portal ke semua aktivitas komputasi Anda. Dapat diakses secara cepat memakai pojok panas kiri atas atau tombol jendela, ia menyediakan satu tempat untuk mengakses jendela, aplikasi, dan bahkan pesan. Dash memungkinkan Anda melihat aplikasi mana yang sedang berjalan dan penukar ruang kerja dapat dipakai untuk mengelompokkan jendela."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:150(div/h2)
 msgid "Everything at your fingertips"
@@ -308,7 +308,7 @@ msgstr "Segalanya di ujung jari Anda"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:151(div/p)
 msgid "Search is central to the GNOME desktop. Applications, windows, documents and even settings can all be quickly and easily searched for from one place. Accessing GNOME’s desktop search is as simple as pressing the windows key and starting to type. This is a great feature for people who like things to happen fast."
-msgstr ""
+msgstr "Pencarian adalah pusat bagi desktop GNOME. Aplikasi, jendela, dokumen, dan bahkan pengaturan dapat dicari dengan cepat dan mudah dari satu tempat. Mengakses pencarian desktop GNOME sesederhana menekan tombol jendela dan mulai mengetik. Ini adalah fitur hebat bagi orang yang suka kecepatan."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:154(strong/a)
 msgid "Accessing Apps Quickly"
@@ -317,7 +317,7 @@ msgstr "Mengakses App Secara Cepat"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:154(ul/li)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:187(ul/li)
 msgid "<span class=\"inline\">Watch the video<br/><strong><_:a-1/></strong></span>"
-msgstr ""
+msgstr "<span class=\"inline\">Lihat video<br/><strong><_:a-1/></strong></span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:162(div/h2)
 msgid "Web enabled"
@@ -325,7 +325,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:163(div/p)
 msgid "The web is seamlessly integrated into GNOME 3. Our software connects your applications with your online accounts, so that you can easily access documents and contacts that you have stored on the web. Web applications are also first-class citizens in GNOME 3, and can be used like any other application that you have installed."
-msgstr ""
+msgstr "Web dengan mulus dipadukan ke dalam GNOME 3. Perangkat lunak kami menyambungkan aplikasi Anda dengan akun daring Anda, sehingga Anda dapat dengan mudah mengakses dokumen dan kontak yang telah Anda simpan di web. Aplikasi web juga menjadi warga kelas satu dalam GNOME 3, dan dapat dipakai seperti aplikasi lain yang telah Anda pasang."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:170(div/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:390(div/h2)
@@ -334,7 +334,7 @@ msgstr "Termasuk baterai "
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:171(div/p)
 msgid "GNOME 3 comes with a suite of stylish applications. These allow the full range of activities you expect from a modern operating system, including browsing the web, viewing and storing documents, instant messaging and video chat, playing music, watching videos, and much more. GNOME 3 also includes a full compliment of utilities, such as a file browser, calculator and text editor."
-msgstr ""
+msgstr "GNOME 3 hadir dengan keluarga aplikasi yang bergaya. Ini memungkinkan berbagai kegiatan yang Anda harapkan dari sebuah sistem operasi modern, termasuk meramban web, melihat dan menyimpan dokumen, pesan instan dan obrolan video, memutar musik, menonton video, dan banyak lagi. GNOME 3 juga mencakup utilitas yang lengkap, seperti peramban berkas, kalkulator, dan penyunting teks."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:183(div/h2)
 msgid "Integrated messaging"
@@ -342,7 +342,7 @@ msgstr "Perpesanan terintegrasi"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:184(div/p)
 msgid "GNOME 3 incorporates a unique, built-in messaging system. Messages can be directly responded to from notification popups, and you can access your previous communications from the Messaging Tray which is always available from the bottom of the screen. This means that holding a conversation does not require repeated window switching."
-msgstr ""
+msgstr "GNOME 3 menyertakan sistem perpesanan bawaan yang unik. Pesan dapat langsung ditanggapi dari popup pemberitahuan, dan Anda dapat mengakses komunikasi sebelumnya dari Baki Pesan yang selalu tersedia dari bagian bawah layar. Ini berarti bahwa untuk menahan percakapan tidak perlu berulang kali beralih jendela."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:187(strong/a)
 msgid "Fewer interruptions"
@@ -362,7 +362,7 @@ msgstr "Ikut Terlibat"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:201(html/p)
 msgid "The GNOME Project is a diverse international community which involves hundreds of contributors, many of whom are volunteers. Anyone can contribute to GNOME: the project involves a wide range of activities, not just programming."
-msgstr ""
+msgstr "Projek GNOME adalah komunitas internasional yang berragam, melibatkan ratusan kontributor, banyak diantaranya yang sukarelawan. Siapa saja dapat berkontribusi untuk GNOME: projek melibatkan berbagai kegiatan, bukan hanya pemrograman."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:203(html/h2)
 msgid "So, what do you want to do?"
@@ -423,7 +423,7 @@ msgstr "Inisiatif Cinta GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:224(div/p)
 msgid "There are plenty of ways to get started programming for GNOME. The <_:a-1/> provides advice for newcomers."
-msgstr ""
+msgstr "Ada banyak cara untuk memulai pemrograman untuk GNOME. <_:a-1/> Memberikan saran bagi pendatang baru."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:228(div/h3)
 msgid "Test"
@@ -431,7 +431,7 @@ msgstr "Tes"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:229(div/p)
 msgid "Making high quality software requires lots of testing. Reporting errors or possible improvements is a valuable way to help with the project and is a great way to start out. If you like living dangerously, you can also run our latest development code and help to provide feedback on changes as they happen."
-msgstr ""
+msgstr "Membuat perangkat lunak berkualitas tinggi membutuhkan banyak pengujian. Pelaporan kesalahan atau perbaikan yang mungkin adalah cara yang berharga untuk membantu projek dan merupakan cara terbaik untuk memulai. Jika Anda suka mengambil risiko, Anda juga dapat menjalankan kode pengembangan terbaru kami dan membantu untuk memberikan umpan balik pada perubahan saat mereka terjadi."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(p/a)
 msgid "JHBuild, the GNOME build tool"
@@ -439,7 +439,7 @@ msgstr "JHBuild, perkakas pembangunan GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
-msgstr ""
+msgstr "Cara terbaik untuk menguji kode pengembangan GNOME adalah dengan menggunakan <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:233(div/h3)
 msgid "Administrate"
@@ -447,11 +447,11 @@ msgstr "Administratif"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:234(div/p)
 msgid "Have system administration skills? The GNOME Project hosts a range of different kinds of development infrastructure, all of which require maintenance and development. The GNOME Sysadmin team is a great place to work and contains a huge amount of expertise."
-msgstr ""
+msgstr "Memiliki kemampuan sistem administrasi? Projek GNOME mengoperasikan berbagai jenis infrastruktur pengembangan, yang semuanya membutuhkan pemeliharaan dan pengembangan. Tim GNOME Sysadmin adalah tempat yang tepat untuk bekerja dan memuat sejumlah sangat banyak keahlian."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:235(p/a)
 msgid "Start helping with sysadmin tasks"
-msgstr ""
+msgstr "Mulai membantu tugas sysadmin"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:238(html/h2)
 msgid "More information"
@@ -463,7 +463,7 @@ msgstr "halaman tim"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:240(ul/li)
 msgid "The <_:a-1/> provides further details on the range of activities involved in the GNOME Project as well as links to information on getting started."
-msgstr ""
+msgstr "<_:a-1/> menyediakan rincian lebih lanjut tentang berbagai kegiatan dalam Projek GNOME serta taut ke informasi tentang bagaimana memulai."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:241(li/a)
 msgid "GNOME Love"
@@ -471,7 +471,7 @@ msgstr "Cinta GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:241(ul/li)
 msgid "The <_:a-1/> initiative provides information and support for those wanting to become GNOME contributors."
-msgstr ""
+msgstr "Inisiatif <_:a-1/> menyediakan informasi dan dukungan bagi mereka yang ingin menjadi kontributor GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:242(li/a)
 msgid "Google Summer of Code"
@@ -479,36 +479,36 @@ msgstr "Google Summer of Code"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:242(ul/li)
 msgid "GNOME regularly participates in the <_:a-1/> internship program."
-msgstr ""
+msgstr "GNOME secara teratur berpartisipasi dalam program magang <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:251(div/p)
 msgid "The GNOME Foundation is an non-profit organization that furthers the goals of the GNOME Project, helping it to create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use."
-msgstr ""
+msgstr "GNOME Foundation adalah suatu organisasi nirlaba yang memajukan tujuan Projek GNOME, membantunya membuat suatu platform komputasi perangkat lunak bebas bagi khalayak ramai yang dirancang agar elegan, efisien, dan mudah dipakai."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:262(div/h2)
 msgid "How it works"
-msgstr ""
+msgstr "Cara kerjanya"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:263(div/p)
 msgid "While the many GNOME contributors develop code, smash bugs, write documentation, and help users, the Foundation acts as a guiding hand in the process and provides resources and infrastructure. It steers releases, determines what software is officially part of the Project, and acts as the official face of the GNOME Project to the outside world, though it delegates most of its authority to specialized teams."
-msgstr ""
+msgstr "Sementara GNOME banyak kontributor mengembangkan kode, memperbaiki bug, menulis dokumentasi, dan membantu pengguna, Foundation bertindak sebagai tangan pembimbing dalam proses dan menyediakan sumber daya dan infrastruktur. Dia mengarahkan rilis, menentukan perangkat lunak apa yang menjadi bagian resmi dari projek, dan bertindak sebagai muka resmi dari Projek GNOME ke dunia luar, meskipun  mendelegasikan sebagian besar wewenang kepada tim-tim khusus."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:264(p/a)
 msgid "GNOME Foundation membership"
-msgstr ""
+msgstr "Keanggotaan GNOME Foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:264(div/p)
 msgid "But that face, like the face of GNOME itself, is made by you. The <_:a-1/> is open to all GNOME contributors, and every member of the Board of Directors is a contributing member of the GNOME community. Becoming a member of the Foundation strengthens your voice in the Project and gives you an opportunity to vote on goals that will steer the GNOME Project into the future."
-msgstr ""
+msgstr "Tapi muka itu, seperti wajah GNOME itu sendiri, dibuat oleh Anda. <_:a-1/> terbuka untuk semua kontributor GNOME, dan setiap anggota Direksi adalah anggota kontributor dari komunitas GNOME. Menjadi anggota Foundation memperkuat suara Anda dalam Projek dan memberi Anda kesempatan untuk memilih pada tujuan yang akan mengarahkan Projek GNOME ke masa depan."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:719(p/a)
 msgid "Become a GNOME Foundation Member"
-msgstr ""
+msgstr "Menjadi Anggota GNOME Foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(p/a)
 msgid "Read the list of Foundation Members"
-msgstr ""
+msgstr "Baca daftar Anggota Foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:265(div/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(div/p)
@@ -612,7 +612,7 @@ msgstr "Wilson Sonsini Goodrich &amp; Rosati"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:311(html/p)
 msgid "Pro bono legal services provided by <_:a-1/> and the <_:a-2/>."
-msgstr ""
+msgstr "Layanan hukum pro bono disediakan oleh <_:a-1/> dan <_:a-2/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:313(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:315(p/a)
@@ -624,12 +624,12 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:315(div/p)
 msgid "The GNOME Foundation is run by a <_:a-1/>, which is elected annually by the GNOME community, as the GNOME Membership, to carry out much of the GNOME Foundation’s tasks."
-msgstr ""
+msgstr "GNOME Foundation dijalankan oleh <_:a-1/>, yang dipilih setiap tahun oleh komunitas GNOME, sebagai Keanggotaan GNOME, untuk melaksanakan banyak tugas GNOME Foundation."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:316(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:735(p/a)
 msgid "foundation-list mailing list"
-msgstr ""
+msgstr "milis foundation-list"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:316(p/a)
 msgid "Minutes wiki"
@@ -655,7 +655,7 @@ msgstr "Hukum &amp; Merk Dagang"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:317(div/p)
 msgid "Read more about Foundation’s <_:a-1/>, <_:a-2/> and <_:a-3/>."
-msgstr ""
+msgstr "Baca lebih lanjut tentang <_:a-1/>, <_:a-2/>, dan <_:a-3/> Foundation."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:321(ul/li)
 msgid "<_:img-1/> Brian Cameron"
@@ -695,7 +695,7 @@ msgstr "Aplikasi"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:339(html/p)
 msgid "Hundreds of applications are available for GNOME. They enable people to engage in a vast range of activities, including everything from playing media and editing photos to system administration. And the vast majority are freely available. Here are just some of the great applications that you can use on GNOME."
-msgstr ""
+msgstr "Ratusan aplikasi yang tersedia untuk GNOME. Mereka memungkinkan orang untuk terlibat dalam berbagai macam kegiatan, termasuk segala sesuatu dari memainkan media dan menyunting foto sampai administrasi sistem. Dan sebagian besar tersedia dengan gratis. Berikut adalah beberapa aplikasi hebat yang dapat Anda gunakan pada GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:343(h3/a)
 msgid "Banshee"
@@ -703,7 +703,7 @@ msgstr "Banshee"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:344(div/p)
 msgid "Banshee media player allows you to play your music and videos. Stay entertained and up to date with podcasts and video podcasts. Sync your Android, iPod, and other devices."
-msgstr ""
+msgstr "Banshee pemutar media memungkinkan Anda untuk memutar musik dan video. Tetap terhibur dan mutakhir dengan podcast dan podcast video. Selaraskan Android, iPod, dan perangkat lain milik Anda."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:348(h3/a)
 msgid "Cheese"
@@ -711,7 +711,7 @@ msgstr "Cheese"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:349(div/p)
 msgid "Cheese allows you to take photos and videos with a webcam. Gather all of your friends around, have some fun! When you’re done, share your photos and videos with ‘em!"
-msgstr ""
+msgstr "Cheese memungkinkan Anda untuk mengambil foto dan video dengan webcam. Kumpulkan semua teman Anda di sekitar, bersenang-senang! Setelah selesai, berbagi foto dan video Anda dengan mereka!"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:355(h3/a)
 msgid "Inkscape"
@@ -719,7 +719,7 @@ msgstr "Inkscape"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:356(div/p)
 msgid "Draw freely! A vector illustration application, Inkscape allows you to produce stunning graphics in the web standard SVG format."
-msgstr ""
+msgstr "Menggambar bebas! Sebuah aplikasi ilustrasi vektor, Inkscape memungkinkan Anda untuk menghasilkan grafis yang menakjubkan dalam format standar web SVG."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:360(h3/a)
 msgid "GIMP"
@@ -727,7 +727,7 @@ msgstr "GIMP"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:361(div/p)
 msgid "Can be used as a simple paint program, an expert quality photo retouching program, an online batch processing system, a mass production image renderer, or even an image format converter."
-msgstr ""
+msgstr "Dapat digunakan sebagai program gambar sederhana, program retouching foto dengan kualitas pakar, sistem pengolahan batch daring, perender gambar produksi massa, atau bahkan pengubah format gambar."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:367(h3/a)
 msgid "Simple Scan"
@@ -735,7 +735,7 @@ msgstr "Simple Scan"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:368(div/p)
 msgid "A really easy way to scan both documents and photos. You can crop out the bad parts of a photo and rotate it if it is the wrong way round. You can print your scans, export them to pdf, or save them in a range of image formats."
-msgstr ""
+msgstr "Sebuah cara yang sangat mudah untuk memindai dokumen maupun foto. Anda dapat memotong bagian-bagian buruk dari foto dan memutarnya jika salah arah. Anda dapat mencetak hasil pemindaian Anda, ekspor mereka ke pdf, atau menyimpannya dalam berbagai format gambar."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:372(h3/a)
 msgid "Shotwell"
@@ -743,7 +743,7 @@ msgstr "Shotwell"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:373(div/p)
 msgid "Organize, edit and publish your photos. It’s easy to crop, sharpen and fix the colors on your photos. You can also set multiple photos to desktop background slideshow."
-msgstr ""
+msgstr "Mengatur, mengedit dan mempublikasikan foto Anda. Sangat mudah untuk memotong, mempertajam dan memperbaiki warna pada foto Anda. Anda juga dapat mengatur beberapa foto untuk slideshow latar belakang desktop."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:379(h3/a)
 msgid "Tomboy"
@@ -751,7 +751,7 @@ msgstr "Tomboy"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:380(div/p)
 msgid "Tomboy is a note-taking application. Simple and easy to use, but with potential to help you organize the ideas and information you deal with every day."
-msgstr ""
+msgstr "Tomboy adalah aplikasi pengambilan catatan. Sederhana dan mudah digunakan, tetapi dengan potensi untuk membantu Anda mengatur ide-ide dan informasi yang Anda urus setiap hari."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:384(h3/a)
 msgid "Rhythmbox"
@@ -759,11 +759,11 @@ msgstr "Rhythmbox"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:385(div/p)
 msgid "Organize and listen to your music, rip CDs. Browse, preview, and download albums from Magnatune and Jamendo. Features Internet radio and last.fm. Has good support for mass storage music players."
-msgstr ""
+msgstr "Mengatur dan mendengarkan musik, menyalin CD. Ramban, pratilik, dan unduh album dari Magnatune dan Jamendo. Fitur Internet radio dan Last.fm. Memiliki dukungan yang baik untuk pemutar musik penyimpanan massal."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:391(div/p)
 msgid "GNOME 3 includes all the essential utilities you need, including a web browser,<br/> image viewer, movie player, text editor, calculator and more."
-msgstr ""
+msgstr "GNOME 3 mencakup semua utilitas penting yang Anda butuhkan, termasuk peramban web,<br/> penampil gambar, pemutar film, penyunting teks, kalkulator dan banyak lagi."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:402(post/title)
 msgid "Contact Us"
@@ -771,7 +771,7 @@ msgstr "Hubungi Kami"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:406(div/p)
 msgid "If you have a question or query that is not answered elsewhere on this website, you can contact us. We provide numerous means of contact, depending on your interest in GNOME."
-msgstr ""
+msgstr "Jika Anda memiliki pertanyaan atau permintaan yang tidak terjawab di tempat lain di situs web ini, Anda dapat menghubungi kami. Kami menyediakan berbagai sarana kontak, tergantung pada minat Anda pada GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:407(div/h2)
 msgid "User help"
@@ -779,15 +779,15 @@ msgstr "Bantuan pengguna"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:408(div/p)
 msgid "If you have a problem with GNOME software, it is recommended that you seek help through your distribution. The GNOME Project does provide a number of ways to get support using its software, however:"
-msgstr ""
+msgstr "Jika Anda memiliki masalah dengan perangkat lunak GNOME, disarankan agar Anda mencari bantuan melalui distribusi Anda. Namun Projek GNOME menyediakan sejumlah cara untuk mendapatkan dukungan saat menggunakan perangkat lunaknya:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:410(li/a)
 msgid "an extensive library of help documentation"
-msgstr ""
+msgstr "pustaka yang ekstensif atas dokumentasi bantuan"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:410(ul/li)
 msgid "User documentation: the GNOME Project has <_:a-1/> written to help you use our software. You can view this online or use the built in GNOME help browser."
-msgstr ""
+msgstr "Dokumentasi pengguna: Projek GNOME memiliki <_:a-1/> yang ditulis untuk membantu Anda memakai perangkat lunak Anda. Anda dapat melihatnya daring atau memakai peramban bantuan bawaan GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:411(li/a)
 msgid "our bug database"
@@ -816,11 +816,11 @@ msgstr "Milis GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:412(ul/li)
 msgid "Contact users, enthusiasts and developers: the GNOME Project provides several ways to make contact with users, enthusiasts and developers, including <_:a-1/> and <_:a-2/>. The <_:a-3/> and <_:a-4/> are the most general in scope: use these if you are unsure which list or channel to use."
-msgstr ""
+msgstr "Menghubungi para pengguna, penggemar, dan pengembang: Projek GNOME menyediakan beberapa cara untuk menghubungi para pengguna, penggemar, dan pengembangm termasuk <_:a-1/> dan <_:a-2/>. <_:a-3/> and <_:a-4/> adalah yang lingkupnya paling umum: gunakan ini jika Anda tak yakin milis atau kanal mana yang akan dipakai."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:414(div/h2)
 msgid "Partner organisations, sponsors and legal matters"
-msgstr ""
+msgstr "Organisasi mitra, sponsor, dan masalah hukum"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:415(p/a)
 msgid "GNOME Foundation site"
@@ -828,11 +828,11 @@ msgstr "Situs GNOME Foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:415(div/p)
 msgid "The GNOME Foundation serves as the interface between the GNOME Project and our partner companies and organisations. See the <_:a-1/> for further details."
-msgstr ""
+msgstr "GNOME Foundation melayani sebagai antar muka antara Projek GNOME dan perusahaan serta organisasi mitra kami. Lihat <_:a-1/> untuk rincian lebih lanjut."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:416(div/h2)
 msgid "Press"
-msgstr ""
+msgstr "Pemberitaan"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:417(p/a)
 msgid "gnome-press-contact@gnome.org"
@@ -841,27 +841,27 @@ msgstr "gnome-press-contact@gnome.org"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:418(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:547(post/title)
 msgid "Press Releases"
-msgstr ""
+msgstr "Rilis Berita"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:418(p/a)
 msgid "press releases page"
-msgstr ""
+msgstr "halaman rilis berita"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:417(div/p)
 msgid "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent announcements."
-msgstr ""
+msgstr "Pertanyaan pemberitaan mesti dikirim ke <_:a-1/>.<br/> Lihat <_:a-2/> untuk pengumuman terbaru."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
-msgstr ""
+msgstr "Masalah situs web"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:420(p/a)
 msgid "GNOME Website Development list"
-msgstr ""
+msgstr "Milis Pengembangan Situs Web GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:420(div/p)
 msgid "If you have discovered a problem with the GNOME web-site, or wish to help improve our web-pages, you can email the <_:a-1/>"
-msgstr ""
+msgstr "Jika Anda telah menemukan masalah dengan situs web GNOME, atau ingin membantu meningkatkan halaman web kami, Anda dapat mengirim surel ke <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:421(div/h2)
 msgid "Reporting security issues"
@@ -873,7 +873,7 @@ msgstr "security@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(div/p)
 msgid "Potential security issues should be reported to <_:a-1/>."
-msgstr ""
+msgstr "Potensi masalah keamanan mesti dilaporkan ke <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:428(post/title)
 msgid "Source"
@@ -881,7 +881,7 @@ msgstr "Sumber"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:431(div/p)
 msgid "All the GNOME source code is centralized in the GNOME Git repository. Keep up with the latest changes, add features you want, or test your applications with the newest code."
-msgstr ""
+msgstr "Semua kode sumber GNOME dipusatkan di repositori Git GNOME. Mengikuti perubahan terakhir, menambahkan fitur yang Anda inginkan, atau menguji aplikasi Anda dengan kode terbaru."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:432(div/h2)
 msgid "Choose the right direction"
@@ -893,7 +893,7 @@ msgstr "memasang GNOME pada suatu distribusi"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:433(div/p)
 msgid "While you can easily <_:a-1/>, in some cases you will prefer to enjoy the wild terminal screen and build GNOME from source. If you are a developer, programmer, scientist or interested somehow, you are in the right place."
-msgstr ""
+msgstr "Meskipun Anda dapat dengan mudah <_:a-1/>, dalam beberapa kasus, Anda akan lebih suka menikmati layar terminal yang liar dan membangun GNOME dari sumber. Jika Anda seorang pengembang, programmer, ilmuwan atau entah bagaimana tertarik, Anda berada di tempat yang tepat."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:434(div/h2)
 msgid "Understanding the versioning scheme"
@@ -901,11 +901,11 @@ msgstr "Memahami skema versi"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:435(div/p)
 msgid "GNOME’s versioning scheme uses three numbers: major, minor, and bug fixes. For a version number of <strong>2.28.1</strong>, <strong>2</strong> is the major version number, <strong>28</strong> is the minor version number, and <strong>1</strong> is the bug fix number. As a rule, stable versions have even minor numbers and development versions have odd minor numbers."
-msgstr ""
+msgstr "Skema versi GNOME menggunakan tiga nomor: besar, kecil, dan perbaikan bug. Untuk sejumlah versi <strong>2.28.1</strong>, <strong>2</strong> adalah nomor versi mayor, <strong>28</strong> adalah nomor versi minor, dan <strong>1</strong> adalah nomor perbaikan bug. Sebagai aturan, versi stabil memiliki nomor minor genap dan versi pengembangan memiliki nomor minor ganjil."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:436(div/p)
 msgid "GNOME releases a new stable version every six months, usually in March and September. If you want thoroughly tested software and a stable developer platform, the stable version is what you want. The current stable version is <strong>GNOME 3.0</strong>, released in April 2011."
-msgstr ""
+msgstr "GNOME merilis versi stabil baru setiap enam bulan, biasanya dalam bulan Maret dan September. Jika Anda ingin perangkat lunak benar-benar teruji dan platform pengembang stabil, versi stabil adalah apa yang Anda inginkan. Versi stabil saat ini adalah <strong>GNOME 3.0</strong>, dirilis pada bulan April 2011."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:437(p/a)
 msgid "GNOME 3.0 Release Notes"
@@ -913,11 +913,11 @@ msgstr "Catatan Rilis GNOME 3.0"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:437(div/p)
 msgid "To get more information about GNOME 3.0, check out the <_:a-1/>."
-msgstr ""
+msgstr "Untuk mendapatkan informasi lebih lanjut tentang GNOME 3.0, periksalah <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:438(div/p)
 msgid "Between stable releases, the GNOME developers hack on the <strong>development or ‘unstable’ branch</strong> of GNOME, where lots of fun happens, but also occasionally experimental and unstable things happen. If you are interested in testing the newest features, or want to develop GNOME software, this is the release for you. The current development branch is <strong>GNOME 3.1</strong>, due for release in the last quarter of 2011."
-msgstr ""
+msgstr "Antara rilis stabil, para pengembang GNOME melakukan hacking pada <strong>branch pengembangan atau 'unstable'</strong> dari GNOME, dimana banyak hal menyenangkan terjadi, tetapi juga hal-hal eksperimental dan tidak stabil kadang-kadang terjadi. Jika Anda tertarik untuk menguji fitur-fitur terbaru, atau ingin mengembangkan perangkat lunak GNOME, ini adalah rilis untuk Anda. Cabang pembangunan saat ini adalah <strong>GNOME 3.1</strong>, akan dirilis pada kuartal terakhir tahun 2011."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:439(div/h2)
 msgid "Use a Build tool"
@@ -929,15 +929,15 @@ msgstr "JHBuild"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:440(div/p)
 msgid "<_:a-1/> is a tool developed and used to build the whole GNOME desktop from the Git source. It can also be used to build other projects creating a moduleset for it. Unlike some build scripts, JHBuild lets you specify what modules you want and it will build those modules including dependencies. We recommend using JHBuild to build GNOME from source."
-msgstr ""
+msgstr "<_:a-1/> adalah alat yang dikembangkan dan digunakan untuk membangun seluruh desktop GNOME dari sumber Git. Ini juga dapat digunakan untuk membangun projek lain dengan membuat moduleset untuk itu. Tidak seperti beberapa skrip build, JHBuild memungkinkan Anda menentukan apa modul yang Anda inginkan dan akan membangun modul tersebut termasuk dependensinya. Sebaiknya gunakan JHBuild untuk membangun GNOME dari sumber."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:441(div/h2)
 msgid "Explore the Git modules"
-msgstr ""
+msgstr "Jelajahi modul-modul Git"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:442(div/p)
 msgid "Git is a powerful method of allowing many developers to work on the same source code. It is used extensively within the GNOME project and often proves to be the first hurdle for new developers that are attracted to the GNOME project."
-msgstr ""
+msgstr "Git adalah metode yang kuat yang memungkinkan banyak pengembang untuk bekerja pada kode sumber yang sama. Hal ini digunakan secara ekstensif dalam projek GNOME dan sering terbukti menjadi rintangan pertama untuk pengembang baru yang tertarik dengan projek GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:443(p/a)
 msgid "Discover more about Git"
@@ -965,23 +965,23 @@ msgstr "kontak"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:460(html/p)
 msgid "If you have any questions about any of these practices or GNOME Foundation’s use of your personal information, please feel free to <_:a-1/> us by e-mail or by post."
-msgstr ""
+msgstr "Jika Anda memiliki pertanyaan tentang salah satu praktek atau penggunaan GNOME Foundation atas informasi pribadi Anda, jangan ragu untuk <_:a-1/> kami melalui surel atau melalui pos."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:461(html/h2)
 msgid "<_:a-1/>Board Confidentiality Policy"
-msgstr ""
+msgstr "<_:a-1/>Kebijakan Kerahasiaan Board"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:462(html/p)
 msgid "Part of the Foundation’s purpose is to be a neutral, independent body which organizations can use as an initial touchpoint before becoming more deeply involved with The GNOME Project. Through this and other activities, the members of the Board and employees and agents of the Foundation shall, from time to time and in the regular course of business, be made aware of confidential and sensitive information."
-msgstr ""
+msgstr "Bagian dari tujuan Foundation adalah menjadi tubuh yang netral dan independen yang  dapat digunakan oleh organisasi sebagai titik sentuh awal sebelum terlibat lebih jauh dengan Projek GNOME. Melalui kegiatan ini dan lainnya, anggota Dewan dan karyawan dan agen dari Foundation akan, dari waktu ke waktu dan dalam rangka usaha normal, akan diberi tahu tentang informasi rahasia dan sensitif."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:463(html/p)
 msgid "Members of the board pledge upon their election and upon the publication of this addendum to keep this information confidential. Employees and agents pledge upon hiring or publication of this addendum to keep this information confidential, at risk of termination. Information that is public knowledge or that individuals came to know through other means is not covered by this provision. Confidential information must be marked confidential."
-msgstr ""
+msgstr "Anggota dewan berjanji pada pemilihan mereka dan setelah penerbitan addendum ini untuk merahasiakan informasi ini. Karyawan dan agen berjanji pada saat perekrutan atau penerbitan addendum ini untuk merahasiakan informasi ini, dengan risiko diberhentikan. Informasi yang menjadi pengetahuan umum atau bahwa orang datang untuk mengetahui melalui cara lain tidak tercakup oleh ketentuan ini. Informasi rahasia harus ditandai rahasia."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:464(html/h2)
 msgid "<_:a-1/>Trademark Licensing"
-msgstr ""
+msgstr "<_:a-1/>Lisensi Merk Dagang"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(p/a)
 msgid "licensing@gnome.org"
@@ -989,7 +989,7 @@ msgstr "licensing@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:465(html/p)
 msgid "One of the functions that the GNOME Foundation provides is to act as the legal owner for such GNOME project assets as the GNOME name and the GNOME foot. We must protect these trademarks in order to keep them. Therefore, we have some guidelines for their use and a standard agreement for user groups. These cover many common situations; if you need permission to use the GNOME trademarks in other ways or have other questions, please contact <_:a-1/>."
-msgstr ""
+msgstr "Salah satu fungsi yang disediakan oleh GNOME Foundation adalah untuk bertindak sebagai pemilik yang sah bagi aset projek GNOME seperti nama GNOME dan kaki GNOME. Kita harus melindungi merek dagang tersebut untuk menjaga mereka. Oleh karena itu, kami memiliki beberapa panduan cara penggunaan mereka dan perjanjian standar untuk kelompok pengguna. Ini mencakup banyak situasi umum; jika Anda perlu izin untuk menggunakan merek dagang GNOME dengan cara lain atau mempunyai pertanyaan lain, silakan hubungi <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:466(html/p)
 msgid "The GNOME trademarks are:"
@@ -1025,7 +1025,7 @@ msgstr "Perjanjian lisensi grup pengguna"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:474(html/p)
 msgid "User groups are a very important part of the GNOME community. User groups have a need to make use of the GNOME trademarks in such ways as creating and distributing marketing materials or creating web sites. (The usage of the term user group here is broad: the canonical example would be a group of people using and promoting GNOME in a specific locality, but it could also be a group of developers working on an open source GNOME application or many similar non-commerical uses.)"
-msgstr ""
+msgstr "Kelompok pengguna adalah bagian sangat penting dari komunitas GNOME. Kelompok pengguna memiliki kebutuhan untuk menggunakan merek dagang GNOME dengan berbagai cara seperti membuat dan mendistribusikan materi pemasaran atau membuat situs web. (Penggunaan istilah kelompok pengguna di sini adalah luas: contoh kanonik adalah sekelompok orang yang menggunakan dan mempromosikan GNOME di suatu tempat tertentu, tetapi bisa juga sekelompok pengembang bekerja pada sebuah aplikasi sumber terbuka GNOME atau banyak penggunaan non komersial yang serupa.)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:475(p/a)
 msgid "GNOME user group license agreement"
@@ -1033,7 +1033,7 @@ msgstr "Perjanjian lisensi grup pengguna GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:475(html/p)
 msgid "By agreeing to the <_:a-1/> a user group obtains permission to use the GNOME trademarks under certain conditions."
-msgstr ""
+msgstr "Dengan menyetujui <_:a-1/> suatu grup pengguna memperoleh izin untuk menggunakan merek dagang GNOME dalam kondisi tertentu."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:476(html/h3)
 msgid "<_:a-1/><span class=\"Apple-style-span\" style=\"font-size: 20px; font-weight: bold;\">Sharing Your Personal Information</span>"
@@ -1395,7 +1395,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:606(p/a)
 msgid "GNOME 3.2 Release Planning page"
-msgstr ""
+msgstr "Halaman Perencanaan Rilis GNOME 3.2"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:606(html/p)
 msgid "To get more information about GNOME 3.2, check out the <_:a-1/>, which includes calendars, some feature notes, and other information."
@@ -1748,7 +1748,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:746(html/p)
 msgid "The <_:a-1/> lists all directors elected in previous years."
-msgstr ""
+msgstr "<_:a-1/> memuat daftar semua direktur yang dipilih pada tahun-tahun sebelumnya."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:747(html/h2)
 msgid "Executive Director"
@@ -1802,11 +1802,11 @@ msgstr "Kontak"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:780(html/p)
 msgid "There are several ways to contact the GNOME Foundation."
-msgstr ""
+msgstr "Ada beberapa cara untuk menghubungi GNOME Foundation."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:781(html/p)
 msgid "<strong/><span class=\"Apple-style-span\" style=\"font-size: 20px;\">Email</span>"
-msgstr ""
+msgstr "<strong/><span class=\"Apple-style-span\" style=\"font-size: 20px;\">Surel</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:784(li/a)
 msgid "Foundation Membership Committee"
@@ -1838,7 +1838,7 @@ msgstr "Milis Pengumuman yayasan"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:790(ul/li)
 msgid "<_:a-1/> (Posts are held for moderator’s approval)"
-msgstr ""
+msgstr "<_:a-1/> (Posting ditahan untuk persetujuan moderator)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:792(html/h3)
 msgid "Telephone"
@@ -1846,11 +1846,11 @@ msgstr "Telepon"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:793(html/p)
 msgid "Voice message for the foundation board and administrators can be left at <strong>+1-617-206-3947.**</strong>"
-msgstr ""
+msgstr "Pesan suara untuk board Foundation dan administrator dapat ditinggalkan pada <strong>+1-617-206-3947. **</strong>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:794(html/p)
 msgid "<strong>Fraudulent checks</strong> – The Foundation rarely sends out checks, and never without prior discussion with the recipient. Those checks are usually for travel or other reimbursements for GNOME contributors. If you have received a check in the mail from the GNOME Foundation that you were not already expecting, it is likely fraudulent."
-msgstr ""
+msgstr "<strong>Penipuan cek</ strong> - Foundation jarang mengirimkan cek, dan tidak pernah tanpa diskusi sebelumnya dengan penerima. Cek-cek tersebut biasanya untuk perjalanan atau penggantian biaya lainnya untuk kontributor GNOME. Jika Anda menerima cek dalam surat dari GNOME Foundation yang tidak Anda harapkan, kemungkinan itu adalah penipuan."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:795(html/h3)
 msgid "Address"
