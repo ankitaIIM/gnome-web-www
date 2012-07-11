@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-10 17:54+0200\n"
+"PO-Revision-Date: 2012-07-11 16:52+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -550,7 +550,7 @@ msgstr ""
 "del proyecto GNOME. Puede ayudar a diseñar interfaces de usuario y con ello "
 "hacer del software de GNOME fácil, satisfactorio y eficiente de utilizar. "
 "También puede ayudar a nuestros diseñadores en la creación de iconos, sitios "
-"web, ropa y otras elementos de «merchandising»."
+"web, ropa y otros elementos de «merchandising»."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:213(p/a)
 msgid "Get involved in GNOME Design"
@@ -2055,6 +2055,10 @@ msgid ""
 "platform, the stable version is what you want. The current stable version of "
 "GNOME is GNOME 3.2, released in April 2011."
 msgstr ""
+"GNOME lanza una nueva versión estable cada seis meses, por lo general en "
+"marzo y septiembre. Si quiere software probado a fondo y una plataforma de "
+"desarrollo estable, la versión estable es lo que busca. La versión estable "
+"actual es GNOME 3.2, publicada en abril de 2011."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:602(p/a)
 msgid "Foresight Linux"
@@ -2084,6 +2088,12 @@ msgid ""
 "Therefore, after a few weeks, you can get the latest stable version of GNOME "
 "by simply installing the latest version of your favorite distribution."
 msgstr ""
+"La última versión estable de GNOME se incluye generalmente después de sólo "
+"unos pocos días en la versión de desarrollo de la mayoría de las "
+"distribuciones, como <_:a-1/>, <_:a-2/>, <_:a-3/>, <_:a-4/>, <_:a-5/> y <_:a-"
+"6/>, pero también <_:a-7/> o <_:a-8/>. Por lo tanto, después de algunas "
+"semanas, puede conseguir la última versión estable de GNOME, simplemente "
+"instalando la última versión de su distribución favorita."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:603(p/a)
 msgid "GNOME 3.2"
@@ -2094,6 +2104,8 @@ msgid ""
 "To get more information about what is new in GNOME 3.2, and how to get it, "
 "read the <_:a-1/> start page."
 msgstr ""
+"Para obtener más información acerca de lo que es nuevo en GNOME 3.2, y cómo "
+"conseguirlo, lea la página de inicio de <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:604(html/h3)
 msgid "Development GNOME"
@@ -2108,22 +2120,33 @@ msgid ""
 "you. The current development branch is GNOME 3.3, due for release in April "
 "2012."
 msgstr ""
+"Entre las versiones estables, los desarrolladores de GNOME hackean en el "
+"desarrollo o rama «inestable» de GNOME, donde pasan muchas cosas divertidas, "
+"pero también de vez en cuando suceden cosas horribles e inestables. Si está "
+"interesado en probar nuevas características, o si quiere desarrollar "
+"software de GNOME, esta la versión correcta. La rama de desarrollo actual es "
+"GNOME 3.3, que se lanzará en abril de 2012."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:606(p/a)
 msgid "GNOME 3.2 Release Planning page"
-msgstr ""
+msgstr "Página de planificación de lanzamientos de GNOME 3.2"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:606(html/p)
 msgid ""
 "To get more information about GNOME 3.2, check out the <_:a-1/>, which "
 "includes calendars, some feature notes, and other information."
 msgstr ""
+"Para obtener más información acerca de lo que es nuevo en GNOME 3.2, revise "
+"la <_:a-1/>, la cual incluye calendarios, algunas notas de características y "
+"otra información."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:607(html/p)
 msgid ""
 "If you’ve read up, and are ready to take the plunge, see our page on "
 "building and installing development versions of GNOME."
 msgstr ""
+"Si ha leído, y está dispuesto a dar el paso decisivo, consulte nuestra "
+"página en las versiones de desarrollo de construcción e instalación de GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:608(html/h2)
 msgid "Getting Involved"
@@ -2139,6 +2162,10 @@ msgid ""
 "software out to our users. If you’d like to join us and help advance free, "
 "usable desktop software, we have some information on how to start <_:a-1/>."
 msgstr ""
+"GNOME es una comunidad grande, divertida, y todos trabajamos muy duro para "
+"conseguir este software para nuestros usuarios. Si quiere unirse a nosotros "
+"y ayudar al avance del software libre de escritorio usable, tenemos "
+"información sobre cómo <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:614(post/title)
 msgid "Become a Friend of GNOME"
@@ -2164,6 +2191,16 @@ msgid ""
 "showing employers that I am capable of working and of being an asset to "
 "whichever of them will give me a chance at a job."
 msgstr ""
+"Mi nombre es Robert Cole. Tengo veintisiete años y actualmente resido en "
+"Modesto, California; nací y crecí en una pequeña ciudad de Ohio. Estoy muy "
+"interesado en la informática y en tecnologías de la información. Voy "
+"conseguir un título de asociado en sistemas informáticos así como un "
+"certificado de especialista de aplicaciones informáticas del Modesto Junior "
+"College después de este semestre que termina la próxima semana. A pesar de "
+"que es sólo un grado de asociado, tengo grandes esperanzas de que voy a "
+"recorrer un largo camino para demostrar a los jefes que soy capaz de "
+"trabajar y de ser un activo para cualquiera de ellos que me dará la "
+"oportunidad en un trabajo."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:623(html/p)
 msgid ""
@@ -2173,6 +2210,11 @@ msgid ""
 "my goal is to pursue a career which will allow me to provide for them and "
 "meet all of their needs."
 msgstr ""
+"Llevo casado con mi esposa Gloria desde hace más de siete años (ocho años en "
+"junio de 2012); tenemos un hijo de dos años y medio de edad llamado R.J. así "
+"como otro niño pequeño alrededor del 17 de marzo. Mi familia lo es todo para "
+"mí, y mi objetivo es seguir una carrera que me permita satisfacer todas sus "
+"necesidades."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:624(html/p)
 msgid ""
@@ -2189,6 +2231,19 @@ msgid ""
 "poverty level; I had few friends because many of the children my age were "
 "afraid to even be around me as I was ‘different’."
 msgstr ""
+"Yo nací con un defecto visual llamado microftalmia, que es una gran palabra "
+"que simplemente significa que mis ojos no se desarrollaron completamente y "
+"por tanto son alrededor de un tercio del tamaño de un ojo humano normal. Yo "
+"no puedo ver nada en mi ojo izquierdo, y tengo una agudeza visual de 20/2000 "
+"en mi ojo derecho, que básicamente significa que mi visión es muy limitada. "
+"A lo largo de mi infancia, mi madre (que era una madre soltera que tuvo la "
+"tarea de criar a cuatro hijos, incluyéndome a mi) así como los demás a mi "
+"alrededor no tenía idea de qué hacer conmigo porque yo era la única persona "
+"con discapacidad visual (que yo supiese) en la ciudad en la que residía. Por "
+"hablar menos de mi infancia, mi madre hizo todo lo posible para criarnos, "
+"pero hemos vivido muy por debajo del nivel de pobreza; tenía pocos amigos "
+"porque muchos de los niños de mi edad tenían miedo de estar alrededor de mí "
+"porque era «diferente»."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:625(html/p)
 msgid ""
@@ -2205,6 +2260,19 @@ msgid ""
 "computers. In 2002, I earned a certification of completion from a local "
 "vocational school as well as a Honors Diploma from my local high school."
 msgstr ""
+"Empecé en la informática en 1998 durante mi año de octavo grado. Me sentí "
+"completamente desesperado al tratar de ver la pantalla en el laboratorio de "
+"informática de mi escuela intermedia. El sistema que corría era Windows 98, "
+"y me sentí como un completo fracaso porque sentía como si nunca podría "
+"utilizar un sistema informático. Compré mi primer equipo (con dinero que "
+"gané durante muchos meses) en 2001. Esta máquina corría Windows ME, y es "
+"necesario decir que… todavía me sentía como si nunca pudiera utilizar un "
+"sistema informático. Conforme pasó el tiempo conocí un software comercial de "
+"tecnología de asistencia como la lupa de pantalla ZoomText (producido por "
+"AiSquared) y el lector de pantalla JAWS (producido por Freedom Scientific). "
+"Finalmente sentí que podía hacer algo con los equipos. En 2002, obtuve un "
+"certificado de terminación de una escuela local vocacional así como un "
+"diploma de honor de mi escuela secundaria local."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:626(html/p)
 msgid ""
@@ -2215,6 +2283,12 @@ msgid ""
 "function as well on my updated computer system with frozen assistive "
 "technologies."
 msgstr ""
+"Gracias a una agencia estatal, adquirí JAWS y ZoomText sin coste alguno, y "
+"me sentí mucho más productivo en el uso de un sistema informático. Entonces "
+"sucedió: tiempo para las actualizaciones (que no eran en ningún modo libres) "
+"no podía costearlas, y la agencia estatal no las autorizó. Las cosas "
+"simplemente no funcionan tan bien en mi sistema informático actualizado con "
+"las tecnologías de asistencia congeladas."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:627(html/p)
 msgid ""
@@ -2227,6 +2301,14 @@ msgid ""
 "Fedora Core 5 and I passed the class with a perfect score. During that class "
 "I fell in love with Linux and GNOME."
 msgstr ""
+"En el 2006 recibí una clase de GNU/Linux en una universidad local. Tenía "
+"miedo de qué sucedería, ya que nunca había usado Linux, aunque lo había "
+"investigado mucho antes de la clase. La clase usaba Fedora Core 5 en ese "
+"momento, y yo no tenía idea de lo que estaba disponible para Linux en el "
+"ámbito de la accesibilidad. El profesor de la clase hizo una investigación y "
+"me señaló Gnopernicus. Gracias a la ampliación de pantalla disponible en "
+"Gnopernicus yo era capaz de usar Fedora Core 5 y pasé la clase con una "
+"puntuación perfecta. Durante esa clase me enamoré de Linux y de GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:628(html/p)
 msgid ""
@@ -2238,6 +2320,14 @@ msgid ""
 "finally completely switch to Linux! I have been a happy Linux/GNOME user "
 "ever since."
 msgstr ""
+"No me cambié del todo a GNU/Linux hasta el 2007, pero durante el 2005 "
+"trabajé mucho con un «live» CD de Ubuntu para hacer un seguimiento de lo "
+"lejos que había llegado en la accesibilidad; a pesar de que era muy útil, "
+"Gnopernicus no satisfacía plenamente mis necesidades. En 2007 empecé a "
+"trabajar con la lupa de GNOME (gnome-mag) así como el complemento de Compiz "
+"eZoom. La accesibilidad había recorrido un largo camino, y finalmente pude "
+"cambiar por completo a Linux. He sido un usuario feliz de Linux/GNOME desde "
+"entonces."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:629(html/p)
 msgid ""
@@ -2251,6 +2341,14 @@ msgid ""
 "pleasant as I will be able to read with a negative contrast (white text on a "
 "black background)."
 msgstr ""
+"En los últimos meses, mis ojos han empezado a cansarse mucho más rápido, por "
+"lo que también he estado trabajando con el lector de pantalla Orca más y más "
+"para reducir la tensión del ojo. También uso el complemento para Aunque "
+"GNOME 3.x no funciona con Compiz, ofrece una muy buena opción de ampliación "
+"usando la característica de ampliación incorporada. También hay una "
+"característica de contraste inverso que se está desarrollando, lo que hará "
+"de mi experiencia de GNOME 3 mucho más agradable ya que seré capaz de leer "
+"con un contraste negativo (texto blanco en un fondo negro)."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:630(html/p)
 msgid ""
@@ -2262,6 +2360,13 @@ msgid ""
 "running outdated commercial assistive technology software on an up-to-date "
 "operating system."
 msgstr ""
+"Estoy simplemente sorprendido de lo lejos que ha llegado la accesibilidad en "
+"de GNU/Linux y GNOME. Ciertamente puedo testificar que yo no podría haber "
+"llegado tan lejos como ahora sin el trabajo que se ha hecho en GNOME en lo "
+"relacionado a la accesibilidad. Sin todo el trabajo que se ha hecho en cosas "
+"como ampliación de pantalla y el lector de pantalla Orca, todavía estaría "
+"atascado con software comercial de tecnología de asistencia obsoleta en un "
+"sistema operativo hasta hoy."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:631(html/p)
 msgid ""
@@ -2278,6 +2383,19 @@ msgid ""
 "software, I would truly be at a loss. This is why further development and "
 "maintenance of accessible software is so important to me."
 msgstr ""
+"Quiero dar las gracias personalmente a todos los desarrolladores que tienen "
+"en cuenta la accesibilidad. Mi más sincero deseo es el de ver prosperar este "
+"tipo de software en el mundo del código abierto. Las tecnologías de "
+"accesibilidad y de asistencia son vitales porque la población de usuarios "
+"con discapacidad está creciendo rápidamente. A partir del 2006, había "
+"aproximadamente más de 21 millones de adultos ciegos solo en los Estados "
+"Unidos. Para mí eso significa mucho, ya que sé lo que puede ser querer ser "
+"capaz de utilizar un sistema informático para muchas cosas, pero no hay "
+"dinero disponible para comprar software comercial (a menudo cuesta lo mismo "
+"que comprar dos o más equipos). Para mí, GNU/Linux y GNOME igualan la "
+"libertad, y sin todo el trabajo duro que se ha puesto en todo este "
+"maravilloso software, realmente sería una pérdida. Es por esto que un mayor "
+"desarrollo y mantenimiento del software accesible es tan importante para mí."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:632(html/p)
 msgid ""
@@ -2286,6 +2404,10 @@ msgid ""
 "it when I say that without your hard work, I would not be where I am today! "
 "Thanks for everything which all of you do to make GNOME work!"
 msgstr ""
+"Gracias el duro trabajo; ha cambiado mi vida enormemente, y es algo que no "
+"he dado por sentado. ¡Realmente significa que, cuando digo que sin su duro "
+"trabajo, yo no estaría donde estoy ahora! ¡Gracias por todo lo que todos "
+"ustedes hacen para que GNOME funcione!"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:633(p/a)
 msgid "Creative Commons BY-NC-ND 3.0"
@@ -2297,15 +2419,15 @@ msgstr "(c) 2011 Robert Cole, Licenciado bajo <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:638(post/title)
 msgid "List of Previous Donors"
-msgstr ""
+msgstr "Lista de donantes anteriores"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:642(post/title)
 msgid "Promote GNOME- Put a Badge on Your Website"
-msgstr ""
+msgstr "Promover GNOME; ponga un distintivo en su sitio web"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:646(post/title)
 msgid "Support GNOME by Shopping at Amazon!"
-msgstr ""
+msgstr "Apoyar a GNOME comprando en Amazon"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@alt)
@@ -2320,7 +2442,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(a/img@alt)
 msgid "canada"
-msgstr ""
+msgstr "canadá"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(p/a@title)
@@ -2439,11 +2561,13 @@ msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgstr ""
+"Enviar un cheque a nombre de «GNOME Foundation, Inc.» a:<br/> Fundación "
+"GNOME<br/> PO Box 101 <br/> Groton, MA 01450<br/> USA"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:662(html/h4)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:853(html/h4)
 msgid "Or by Bank Wire Transfer:"
-msgstr ""
+msgstr "O por transferencia bancaria:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:663(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:854(html/p)
@@ -2452,16 +2576,19 @@ msgid ""
 "Address: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: 011500120<br/> "
 "Account: 1310181397<br/> SWIFT: CTZIUS33"
 msgstr ""
+"Nombre de cuenta: Fundación GNOME<br/> Nombre de banco: Citizens Bank<br/> "
+"Dirección del banco: 1 Citizens Dr., Riverside, RI 02915<br/> ABA: "
+"011500120<br/> Cuenta: 1310181397<br/> SWIFT: CTZIUS33"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:669(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:860(html/h2)
 msgid "Corporate Sponsorship"
-msgstr ""
+msgstr "Patrocinio corporativo"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:670(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:861(p/a)
 msgid "GNOME Advisory Board"
-msgstr ""
+msgstr "Junta asesora de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:670(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:861(html/p)
@@ -2469,6 +2596,8 @@ msgid ""
 "Do you as a company want to sponsor GNOME and take a seat in the <_:a-1/>? "
 "Please contact &lt;fundraising at gnome dot org&gt;"
 msgstr ""
+"¿Usted como una empresa quiere patrocinar GNOME y formar parte de la <_:a-1/"
+">? Contacte con &lt;fundraising at gnome dot org&gt;"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:675(post/title)
 msgid "Amazon Canada"
@@ -2483,6 +2612,8 @@ msgid ""
 "Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-"
 "5/> <_:a-6/>"
 msgstr ""
+"Seleccione una de estas tiendas de Amazon: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/"
+"> <_:a-5/> <_:a-6/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:715(post/title)
 msgid "Foundation Members"
