@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-11 16:52+0200\n"
+"PO-Revision-Date: 2012-07-12 16:31+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:4(bloginfo/name)
@@ -2625,6 +2625,9 @@ msgid ""
 "member of the Board of Directors is a contributing member of the GNOME "
 "community."
 msgstr ""
+"La afiliación a la Fundación GNOME está abierta a todos los colaboradores de "
+"GNOME, y cada miembro de la junta directiva es un miembro activo de la "
+"comunidad GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:718(html/p)
 msgid ""
@@ -2634,6 +2637,11 @@ msgid ""
 "Directors, and suggest referenda. The membership process is overseen by the "
 "Membership and Elections Committee."
 msgstr ""
+"Los miembros son todos los colaboradores de GNOME que quieren formar parte "
+"de los miembros y pasar por el proceso de selección. Los miembros pueden "
+"participar en la elección de la junta directiva, votar en las elecciones "
+"para la junta directiva, y proponer referendos. El proceso de membresía lo "
+"supervisa el comité de miembros y elecciones."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:720(p/a)
 msgid "membership-committee@gnome.org"
@@ -2641,19 +2649,19 @@ msgstr "membership-committee@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:720(html/p)
 msgid "Send comments, questions, and updates to <_:a-1/>."
-msgstr ""
+msgstr "Enviar comentarios, preguntas y actualizaciones a <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:726(post/title)
 msgid "Become a Foundation member"
-msgstr ""
+msgstr "Conviértase en un miembro de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:732(p/a)
 msgid "GNOME Foundation Charter"
-msgstr ""
+msgstr "acta fundacional de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:732(p/a)
 msgid "GNOME Foundation By-laws"
-msgstr ""
+msgstr "estatutos de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:732(html/p)
 msgid ""
@@ -2663,6 +2671,11 @@ msgid ""
 "process for the GNOME Foundation. The <_:a-2/> (PDF) document the policies "
 "and procedures of the Foundation as a non-profit group."
 msgstr ""
+"La Fundación GNOME se compone de una serie de órganos: la junta directiva, "
+"el director ejecutivo, la junta asesora y los miembros de GNOME. El <_:a-1/> "
+"describe el propósito general, la estructura y el proceso para la Fundación "
+"GNOME. Los <_:a-2/> (PDF) documenta las políticas y procedimientos de la "
+"Fundación como un grupo sin ánimo de lucro."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:733(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:804(post/title)
@@ -2679,7 +2692,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:735(p/a)
 msgid "Minutes wiki page"
-msgstr ""
+msgstr "página de Minutos wiki"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:735(html/p)
 msgid ""
@@ -2691,10 +2704,17 @@ msgid ""
 "meetings are posted publicly on the <_:a-1/> and on the <_:a-2/> for easier "
 "access."
 msgstr ""
+"La Fundación GNOME está dirigida por una junta directiva, que se elije "
+"anualmente por la comunidad de GNOME; como miembro de GNOME, para llevar a "
+"cabo la mayor parte de las tareas de la Fundación GNOME. La junta directiva "
+"se reúne cada dos semanas en una conferencia telefónica para discutir "
+"diversos temas relacionados con las actividades regulares de la Fundación "
+"GNOME y de GNOME. Los minutos de estas reuniones se publican en los <_:a-1/> "
+"y en la <_:a-2/> para facilitar el acceso."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:736(html/p)
 msgid "The Board of Directors from July 2011 to June 2012 is:"
-msgstr ""
+msgstr "La junta directiva desde julio de 2011 a junio de 2012 es:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:738(ul/li)
 msgid "Brian Cameron"
@@ -2726,11 +2746,11 @@ msgstr "Germán Póo-Caamaño"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:746(p/a)
 msgid "history of the Board of Directors"
-msgstr ""
+msgstr "histórico de la junta directiva"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:746(html/p)
 msgid "The <_:a-1/> lists all directors elected in previous years."
-msgstr ""
+msgstr "El <_:a-1/> lista a todos los directores de años anteriores."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:747(html/h2)
 msgid "Executive Director"
@@ -2743,11 +2763,15 @@ msgid ""
 "as an organization. Working with the Board of Directors, Advisory Board, and "
 "the GNOME Foundation members."
 msgstr ""
+"Karen Sandler es la directora ejecutiva de la Fundación GNOME. El director "
+"ejecutivo se encarga de administrar y hacer crecer la Fundación GNOME como "
+"una organización. Trabaja en colaboración con la junta directiva, la junta "
+"asesora y los miembros de la Fundación GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:749(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:750(p/a)
 msgid "Advisory Board"
-msgstr ""
+msgstr "Junta asesora"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:750(html/p)
 msgid ""
@@ -2756,12 +2780,19 @@ msgid ""
 "for its members to communicate with the Board of Directors and help the "
 "Directors guide the overall direction of GNOME and the GNOME Foundation."
 msgstr ""
+"La <_:a-1/> se compone de organizaciones y empresas que apoyan GNOME. La "
+"junta asesora no tiene autoridad para tomar decisiones pero proporciona un "
+"vehículo para sus miembros para comunicarse con la junta directiva y ayudar "
+"a los directores a guiar la dirección general de GNOME y de la Fundación "
+"GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:751(html/p)
 msgid ""
 "The Advisory Board consists of representatives from the following GNOME "
 "Foundation member corporations and projects:"
 msgstr ""
+"La junta asesora consta de representantes de las siguientes empresas "
+"miembros de la Fundación GNOME y proyectos:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:755(ul/li)
 msgid "Debian Project"
@@ -2773,18 +2804,20 @@ msgstr "Google"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:771(p/a)
 msgid "Advisory Board wiki page"
-msgstr ""
+msgstr "wiki de la junta asesora"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:771(html/p)
 msgid ""
 "Each Advisory Board member has up to three representatives. An up-to-date "
 "list of representatives is maintained on the <_:a-1/>."
 msgstr ""
+"Cada miembro de la junta asesora tiene un máximo de tres representantes. Se "
+"mantiene una lista actualizada de los representantes en el <_:a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:772(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:773(p/a)
 msgid "GNOME Foundation Membership"
-msgstr ""
+msgstr "miembros de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:773(html/p)
 msgid ""
@@ -2792,6 +2825,9 @@ msgid ""
 "can run for election to the Board of Directors, vote in the elections for "
 "the Board of Directors, and suggest referenda."
 msgstr ""
+"Los <_:a-1/> son todos contribuyentes al proyecto GNOME. Los miembros pueden "
+"participar en la elección de la junta directiva, votar en las elecciones "
+"para la junta directiva, y proponer referendos."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:778(post/title)
 msgid "Contacts"
@@ -2811,11 +2847,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:784(li/a)
 msgid "Foundation Membership Committee"
-msgstr ""
+msgstr "Comité de miembros de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:785(li/a)
 msgid "Foundation Elections Committee"
-msgstr ""
+msgstr "Comité de elecciones de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:787(html/h3)
 msgid "Mailing lists"
@@ -2823,7 +2859,7 @@ msgstr "Listas de correo"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(li/a)
 msgid "Foundation mailing list"
-msgstr ""
+msgstr "Lista de correo de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:789(li/a)
 msgid "subscription"
@@ -2887,7 +2923,7 @@ msgstr "2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:810(li/a)
 msgid "Q4 2011 Report"
-msgstr ""
+msgstr "Informe del cuatro trimestre de 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:811(li/a)
 msgid "Q3 2011 Report"
@@ -3002,4 +3038,4 @@ msgstr "Gracias"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:870(post/title)
 msgid "diegosanchez"
-msgstr ""
+msgstr "diegosanchez"
