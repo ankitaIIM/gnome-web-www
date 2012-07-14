@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-12 16:31+0200\n"
+"PO-Revision-Date: 2012-07-14 19:13+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:4(bloginfo/name)
@@ -635,8 +635,8 @@ msgstr "JHBuild, la herramienta de construcción de GNOME"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:230(div/p)
 msgid "The best way to test GNOME’s development code is to use <_:a-1/>."
 msgstr ""
-"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:a-"
-"1/>."
+"La mejor manera de comprobar el código de desarrollo de GNOME es usando <_:"
+"a-1/>."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:233(div/h3)
 msgid "Administrate"
@@ -1211,8 +1211,8 @@ msgid ""
 "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent "
 "announcements."
 msgstr ""
-"Las consultas de prensa se deben enviaar a <_:a-1/>. <br/> Consulte la <_:a-"
-"2/> sobre anuncios recientes."
+"Las consultas de prensa se deben enviaar a <_:a-1/>. <br/> Consulte la <_:"
+"a-2/> sobre anuncios recientes."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
@@ -1883,7 +1883,8 @@ msgstr "Imagen «live» de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(span/a)
 msgid "<span style=\"color: #ff6600;\">Live Images Available Here</span>"
-msgstr "<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
+msgstr ""
+"<span style=\"color: #ff6600;\">Imágenes «live» disponibles aquí</span>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:558(html/h2)
 msgid "Try GNOME 3.4 – <span style=\"color: #ff6600;\"><_:a-1/></span>"
@@ -1944,7 +1945,8 @@ msgid ""
 "Fedora provides GNOME 3 straight out of the box – just install or try it "
 "live."
 msgstr ""
-"Fedora ofrece GNOME 3 directamente; sólo instálelo o pruebe la versión «live»."
+"Fedora ofrece GNOME 3 directamente; sólo instálelo o pruebe la versión "
+"«live»."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:574(h3/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:575(p/a@title)
@@ -2090,8 +2092,8 @@ msgid ""
 msgstr ""
 "La última versión estable de GNOME se incluye generalmente después de sólo "
 "unos pocos días en la versión de desarrollo de la mayoría de las "
-"distribuciones, como <_:a-1/>, <_:a-2/>, <_:a-3/>, <_:a-4/>, <_:a-5/> y <_:a-"
-"6/>, pero también <_:a-7/> o <_:a-8/>. Por lo tanto, después de algunas "
+"distribuciones, como <_:a-1/>, <_:a-2/>, <_:a-3/>, <_:a-4/>, <_:a-5/> y <_:"
+"a-6/>, pero también <_:a-7/> o <_:a-8/>. Por lo tanto, después de algunas "
 "semanas, puede conseguir la última versión estable de GNOME, simplemente "
 "instalando la última versión de su distribución favorita."
 
@@ -2609,8 +2611,8 @@ msgstr "Amazon Canadá"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(html/p)
 msgid ""
-"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:a-"
-"5/> <_:a-6/>"
+"Select one of these Amazon Stores: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/> <_:"
+"a-5/> <_:a-6/>"
 msgstr ""
 "Seleccione una de estas tiendas de Amazon: <_:a-1/> <_:a-2/> <_:a-3/> <_:a-4/"
 "> <_:a-5/> <_:a-6/>"
@@ -2871,11 +2873,13 @@ msgstr "<_:a-1/> (Requiere <_:a-2/>)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:790(li/a)
 msgid "Foundation Announce mailing list"
-msgstr ""
+msgstr "Lista de correo de anuncios de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:790(ul/li)
 msgid "<_:a-1/> (Posts are held for moderator’s approval)"
 msgstr ""
+"<_:a-1/> (Las publicaciones se retienen a la espera de la aprobación del "
+"moderador)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:792(html/h3)
 msgid "Telephone"
@@ -2886,6 +2890,8 @@ msgid ""
 "Voice message for the foundation board and administrators can be left at "
 "<strong>+1-617-206-3947.**</strong>"
 msgstr ""
+"Se pueden dejar mensajes de voz para la junta de la fundación y los "
+"administradores en <strong>+1-617-206-3947.**</strong>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:794(html/p)
 msgid ""
@@ -2895,6 +2901,11 @@ msgid ""
 "have received a check in the mail from the GNOME Foundation that you were "
 "not already expecting, it is likely fraudulent."
 msgstr ""
+"<strong>Cheques fraudulentos</strong>: la Fundación rara vez envía cheques, "
+"y nunca comentarlo previamente con el destinatario. Esos cheques son, por lo "
+"general, para viajes u otros reembolsos para los colaboradores de GNOME. Si "
+"ha recibido un cheque en su correo de la Fundación GNOME que no estaba ya "
+"esperando, probablemente es fraudulento."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:795(html/h3)
 msgid "Address"
@@ -2910,12 +2921,18 @@ msgid ""
 "for the past quarter or year, including community programmes and events, and "
 "foundation development initiatives."
 msgstr ""
+"Los informes de la Fundación GNOME incluyen información sobre las "
+"actividades de la Fundación durante el último trimestre o el año, incluidos "
+"los programas y eventos de la comunidad y las iniciativas de desarrollo de "
+"la Fundación."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:807(html/p)
 msgid ""
 "The Reports are published each quarter, and a specific annual report is also "
 "published at the end of each year."
 msgstr ""
+"Los informes se publican cada trimestre, y también se publica un informe "
+"anual específico al final de cada año."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:808(html/h3)
 msgid "2011"
@@ -2927,15 +2944,15 @@ msgstr "Informe del cuatro trimestre de 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:811(li/a)
 msgid "Q3 2011 Report"
-msgstr ""
+msgstr "Informe del tercer trimestre de 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:812(li/a)
 msgid "Q2 2011 Report"
-msgstr ""
+msgstr "Informe del segundo trimestre de 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:813(li/a)
 msgid "Q1 2011 Report"
-msgstr ""
+msgstr "Informe del primer trimestre de 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:815(html/h3)
 msgid "2010"
@@ -2943,19 +2960,19 @@ msgstr "2010"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:817(li/a)
 msgid "Q4 2010 Report"
-msgstr ""
+msgstr "Informe del cuatro trimestre de 2010"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:818(li/a)
 msgid "Q3 2010 Report"
-msgstr ""
+msgstr "Informe del tercer trimestre de 2010"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:819(li/a)
 msgid "Q2 2010 Report"
-msgstr ""
+msgstr "Informe del segundo trimestre de 2010"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:820(li/a)
 msgid "Q1 2010 Report"
-msgstr ""
+msgstr "Informe del primer trimestre de 2010"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:820(li/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:825(li/a)
@@ -2986,15 +3003,15 @@ msgstr "<_:a-1/> (PDF)"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:825(li/a)
 msgid "Q4 2009 Report"
-msgstr ""
+msgstr "Informe del cuatro trimestre de 2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:826(li/a)
 msgid "Q3 2009 Report"
-msgstr ""
+msgstr "Informe del tercer trimestre de 2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:827(li/a)
 msgid "Q2 2009 Report"
-msgstr ""
+msgstr "Informe del segundo trimestre de 2009"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:829(html/h3)
 msgid "2008"
@@ -3014,7 +3031,7 @@ msgstr "Informe anual de 2007"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(li/a)
 msgid "order a hard copy"
-msgstr ""
+msgstr "solicitar una copia impresa"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:835(ul/li)
 msgid "<_:a-1/> (PDF) (<_:a-2/>)"
