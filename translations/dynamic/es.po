@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-08-20 12:28+0200\n"
+"PO-Revision-Date: 2012-08-20 12:44+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -22,27 +22,27 @@ msgstr "guadec"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:8(post/title)
 msgid "ubuntu-icon"
-msgstr ""
+msgstr "icono-ubuntu"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:11(post/title)
 msgid "fedora-icon"
-msgstr ""
+msgstr "icono-fedora"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:14(post/title)
 msgid "opensuse-icon"
-msgstr ""
+msgstr "icono-opensuse"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:17(post/title)
 msgid "computer"
-msgstr ""
+msgstr "equipo"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:20(post/title)
 msgid "utilities-terminal"
-msgstr ""
+msgstr "terminal-utilidades"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:23(post/title)
 msgid "utilities-system-monitor"
-msgstr ""
+msgstr "monitor-utilidades-sistema"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:26(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:173(post/title)
@@ -51,16 +51,16 @@ msgstr "cheese"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:29(post/title)
 msgid "worldmap"
-msgstr ""
+msgstr "mapamundi"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:32(post/title)
 msgid "devices"
-msgstr ""
+msgstr "dispositivos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:35(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:38(post/title)
 msgid "apps"
-msgstr ""
+msgstr "aplicaciones"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:41(post/title)
 msgid "gimp"
@@ -80,7 +80,7 @@ msgstr "shotwell"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:53(post/title)
 msgid "simple-scan"
-msgstr ""
+msgstr "simple-scan"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:56(post/title)
 msgid "banshee"
@@ -96,27 +96,27 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:65(post/title)
 msgid "totem-screenshot"
-msgstr ""
+msgstr "pantalla-totem"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:68(post/title)
 msgid "eog-screenshot"
-msgstr ""
+msgstr "pantalla-eog"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:71(post/title)
 msgid "nautilus-screenshot"
-msgstr ""
+msgstr "pantalla-nautilus"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:74(post/title)
 msgid "gedit-screenshot"
-msgstr ""
+msgstr "pantalla-gedit"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:77(post/title)
 msgid "epiphany-screenshot"
-msgstr ""
+msgstr "pantalla-epiphany"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:80(post/title)
 msgid "foot"
-msgstr ""
+msgstr "pie"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:83(post/title)
 msgid "GNOME 3 screenshot"
@@ -201,7 +201,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:137(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:143(post/title)
 msgid "gnome-3-release"
-msgstr ""
+msgstr "publicación-gnome-3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:140(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:237(post/title)
@@ -236,7 +236,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:164(post/title)
 msgid "iamgnome"
-msgstr ""
+msgstr "yosoygnome"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:176(post/title)
 msgid "tomboy"
@@ -601,23 +601,23 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:447(post/title)
 msgid "postcard"
-msgstr ""
+msgstr "postal"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:450(post/title)
 msgid "poster"
-msgstr ""
+msgstr "póster"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:453(post/title)
 msgid "t-shirt"
-msgstr ""
+msgstr "camiseta"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:456(post/title)
 msgid "a11y-banner-2012"
-msgstr ""
+msgstr "banner-a11y-2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:459(post/title)
 msgid "canada"
-msgstr ""
+msgstr "Canadá"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:462(post/title)
 msgid "de"
@@ -646,7 +646,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:480(post/title)
 msgid "a11y_logo"
-msgstr ""
+msgstr "logo_a11y"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:483(post/title)
 msgid "CreativeCommons_by"
@@ -718,7 +718,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:531(post/title)
 msgid "accessibility"
-msgstr ""
+msgstr "accesibilidad"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:534(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3879(a/img@title)
@@ -733,7 +733,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:540(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3879(a/img@title)
 msgid "video-chat"
-msgstr ""
+msgstr "video-chat"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:543(post/title)
 msgid "gnome-3.4"
@@ -753,7 +753,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:567(post/title)
 msgid "contacts"
-msgstr ""
+msgstr "contactos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:570(post/title)
 msgid "contacts-thumb"
@@ -761,7 +761,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:573(post/title)
 msgid "documents"
-msgstr ""
+msgstr "documentos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:579(post/title)
 msgid "documents-420x263"
@@ -773,7 +773,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:585(post/title)
 msgid "utilities"
-msgstr ""
+msgstr "utilidades"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:588(post/title)
 msgid "utilities-thumb"
@@ -812,7 +812,7 @@ msgstr "gnome-3.4-940x400"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:621(post/title)
 msgid "heart_foot"
-msgstr ""
+msgstr "pie_corazón"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:624(post/title)
 msgid "facebook"
@@ -7628,7 +7628,7 @@ msgstr "http://www.gnome.org/foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2018(ul/li)
 msgid "GNOME Foundation: <_:a-1/>"
-msgstr ""
+msgstr "Fundación GNOME: <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2019(li/a)
 msgid "http://ev.kde.org/"
@@ -7660,7 +7660,7 @@ msgstr "http://www.osl.ull.es"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2022(ul/li)
 msgid "ULL: <_:a-1/>"
-msgstr ""
+msgstr "ULL: <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2023(li/a)
 msgid "http://www.eslic.es"
@@ -9643,7 +9643,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3691(html/h1)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3821(html/h2)
 msgid "Localization"
-msgstr ""
+msgstr "Localización"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2555(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2677(html/h2)
@@ -15475,7 +15475,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3867(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3961(p/a@title)
 msgid "The GNOME Foundation"
-msgstr ""
+msgstr "La Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3734(p/a)
 msgid "its webpages"
@@ -15501,7 +15501,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3742(html/h4)
 msgid "By: Karen Sandler"
-msgstr ""
+msgstr "Por: Karen Sandler"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3743(html/p)
 msgid ""
@@ -15974,19 +15974,19 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a@title)
 msgid "GNOME Summer of Code 2012"
-msgstr ""
+msgstr "«Google Summer of Code» 2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a)
 msgid "GNOME Summer of Code page"
-msgstr ""
+msgstr "Página del «Google Summer of Code»"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a@title)
 msgid "Google Summer of Code"
-msgstr ""
+msgstr "«Google Summer of Code»"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a)
 msgid "Google Summer of Code website"
-msgstr ""
+msgstr "Página web del «Google Summer of Code»"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(html/p)
 msgid ""
@@ -16131,7 +16131,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3867(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3961(p/a)
 msgid "the GNOME Foundation"
-msgstr ""
+msgstr "la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3867(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3914(p/a)
@@ -16243,7 +16243,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3883(p/a@title)
 msgid "Getting GNOME"
-msgstr ""
+msgstr "Obtener GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3883(p/a)
 msgid "about how to get GNOME 3"
@@ -16266,7 +16266,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3891(p/a)
 msgid "GNOME Foundation"
-msgstr ""
+msgstr "Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3891(p/a)
 msgid "2012 Outreach Program for Women"
