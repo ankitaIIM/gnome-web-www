@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-08-20 12:44+0200\n"
+"PO-Revision-Date: 2012-08-24 17:36+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -124,39 +124,39 @@ msgstr "Captura de pantalla de GNOME 3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:86(post/title)
 msgid "equation"
-msgstr ""
+msgstr "ecuación"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:89(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:234(post/title)
 msgid "app_list"
-msgstr ""
+msgstr "lista_app"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:92(post/title)
 msgid "chat_notify"
-msgstr ""
+msgstr "notificación_chat"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:95(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:255(post/title)
 msgid "chat_reply"
-msgstr ""
+msgstr "respuesta_chat"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:98(post/title)
 msgid "fallback_mode"
-msgstr ""
+msgstr "modo_alternativo"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:101(post/title)
 msgid "file_management"
-msgstr ""
+msgstr "gestión_archivos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:104(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:167(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:228(post/title)
 msgid "media"
-msgstr ""
+msgstr "multimedia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:107(post/title)
 msgid "music_player"
-msgstr ""
+msgstr "reproductor_música"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:110(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:231(post/title)
@@ -206,18 +206,18 @@ msgstr "publicación-gnome-3"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:140(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:237(post/title)
 msgid "cc-all"
-msgstr ""
+msgstr "cc-all"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:146(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:161(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:170(post/title)
 msgid "3.0-release"
-msgstr ""
+msgstr "3.0-lanzamiento"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:149(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:243(post/title)
 msgid "cc-backgrounds"
-msgstr ""
+msgstr "cc-fondos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:152(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:249(post/title)
@@ -227,12 +227,12 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:155(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:240(post/title)
 msgid "cc-date-time"
-msgstr ""
+msgstr "cc-dia-hora"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:158(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:252(post/title)
 msgid "cc-date-time-thumb"
-msgstr ""
+msgstr "cc-dia-hora-miniatura"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:164(post/title)
 msgid "iamgnome"
@@ -246,7 +246,7 @@ msgstr "tomboy"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2879(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2879(a/img@alt)
 msgid "Winning entry by Davit Kurniawan"
-msgstr ""
+msgstr "Entrada ganadora por David Kurniawan"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:180(post/excerpt)
 msgid "By Davit Kurniawan (Lampung, Indonesia)"
@@ -256,7 +256,7 @@ msgstr "Por Davit Kurniawan (Lampung, Indonesia)"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2881(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2881(a/img@alt)
 msgid "Runner up: Tualatrix Chou"
-msgstr ""
+msgstr "Finalista: Tualatrix Chou"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:184(post/excerpt)
 msgid "By Tualatrix Chou (HZ Lug, China)"
@@ -266,7 +266,7 @@ msgstr "Por Tualatrix Chou (HZ Lug, China)"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2882(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2882(a/img@alt)
 msgid "Runner up: Sílvia Mira"
-msgstr ""
+msgstr "Finalista: Sílvia Mira"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:188(post/excerpt)
 msgid "Sílvia Mira (Barcelona, Spain)"
@@ -276,7 +276,7 @@ msgstr "Sílvia Mira (Barcelona, España)"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2883(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2883(a/img@alt)
 msgid "Runner up: Henry Addo"
-msgstr ""
+msgstr "Finalista: Henry Addo"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:192(post/excerpt)
 msgid "By Henry Addo (Nairobi, Kenya)"
@@ -286,7 +286,7 @@ msgstr "Por Henry Addo (Nairobi, Kenia)"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2884(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2884(a/img@alt)
 msgid "Runner up: Ana Rey"
-msgstr ""
+msgstr "Finalista: Ana Rey"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:196(post/excerpt)
 msgid "By Ana Rey (Granada, Spain)"
@@ -300,7 +300,7 @@ msgstr "Karen, Mark, Michael y Bradley"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:200(post/excerpt)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3065(html/h2)
 msgid "Copyright Assignment Panel"
-msgstr ""
+msgstr "Grupo de Asignación de Derechos de Autor"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:203(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3072(a/img@alt)
@@ -311,11 +311,12 @@ msgstr "Una audiencia completa para el debate"
 msgid "A full audience for the debate..."
 msgstr "Una audiencia completa para el debate…"
 
+# Keynote speaker se puede traducir como ponente principal, al buscar en google la cadena comprobé que fué orador en el Desktop Summit 2011.
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:207(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:208(post/excerpt)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3061(a/img@alt)
 msgid "Dirk Hohndel keynoting"
-msgstr ""
+msgstr "Ponencia principal de Dirk Hohndel"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:211(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:212(post/excerpt)
@@ -336,7 +337,7 @@ msgstr "Grupo fotográfico del «Desktop Summit» de 2011"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:222(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3129(a/img@title)
 msgid "Outreach Program for Women Poster"
-msgstr ""
+msgstr "Póster de «Outreach Program for Women»"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:225(post/title)
 msgid "gnome 3.2"
@@ -580,24 +581,24 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:432(post/title)
 msgid "foundation_balloon"
-msgstr ""
+msgstr "fundacion_globo"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:435(post/title)
 msgid "foundation_back_balloons"
-msgstr ""
+msgstr "fundacion_globos_atras"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:438(post/title)
 msgid "bylaws"
-msgstr ""
+msgstr "reglamentos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:441(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3334(a/img@title)
 msgid "WebKitGtk+ Hackfest"
-msgstr ""
+msgstr "«Hackfest» de WebKitGtk+"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:444(post/title)
 msgid "mousepad"
-msgstr ""
+msgstr "Alfombrilla de ratón"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:447(post/title)
 msgid "postcard"
