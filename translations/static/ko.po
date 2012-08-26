@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-site.static.master.ko.po\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-07-28 16:15+0900\n"
-"Last-Translator: Seong-ho, Cho <darkcircle.0426@gmail.com>\n"
+"PO-Revision-Date: 2012-07-29 21:30+0900\n"
+"Last-Translator: Seong-ho Cho <darkcircle.0426@gmail.com>\n"
 "Language-Team: gnome-kr <gnome-kr@googlegroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,7 @@ msgstr "데스크톱 서밋"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:13(terms/term)
 msgid "footer"
-msgstr ""
+msgstr "꼬리말"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:14(terms/term)
 msgid "globalnav"
@@ -880,8 +880,7 @@ msgstr "법적 고지 및 상표"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:317(div/p)
 msgid "Read more about Foundation’s <_:a-1/>, <_:a-2/> and <_:a-3/>."
-msgstr ""
-"재단에 대해 더 알아보시려면 <_:a-1/>, <_:a-2/>, <_:a-3/>를 읽어보십시오."
+msgstr "재단에 대해 더 알아보시려면 <_:a-1/>, <_:a-2/>, <_:a-3/>를 읽어보세요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:321(ul/li)
 msgid "<_:img-1/> Brian Cameron"
@@ -1146,7 +1145,7 @@ msgid ""
 "details."
 msgstr ""
 "그놈 재단은 그놈 프로젝트, 파트너 회사, 단체간의 연락 창구를 제공합니다. 더 "
-"자세한 내용은 <_:a-1/>를 참조하십시오."
+"자세한 내용은 <_:a-1/>를 참조하세요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:416(div/h2)
 msgid "Press"
@@ -1170,8 +1169,8 @@ msgid ""
 "Press queries should be sent to <_:a-1/>.<br/> See the <_:a-2/> for recent "
 "announcements."
 msgstr ""
-"언론 보도 요청은 <_:a-1/>에 보내주십시오.<br/> 최근 발표내용을 보시려면 <_:"
-"a-2/>"
+"언론 보도 요청은 <_:a-1/>에 보내주세요.<br/> 최근 발표내용을 보시려면 <_:a-2/"
+">"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:419(div/h2)
 msgid "Website matters"
@@ -1199,7 +1198,7 @@ msgstr "security@gnome.org"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:422(div/p)
 msgid "Potential security issues should be reported to <_:a-1/>."
-msgstr "잠재적인 보안 문제는 <_:a-1/>에 알려주십시오."
+msgstr "잠재적인 보안 문제는 <_:a-1/>에 알려주세요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:428(post/title)
 msgid "Source"
@@ -2017,7 +2016,7 @@ msgid ""
 "read the <_:a-1/> start page."
 msgstr ""
 "그놈 3.2의 새로운 점과 어떻게 받는지에 대한 더 많은 정보를 얻으시려면 <_:a-1/"
-"> 시작 페이지를 읽어보십시오."
+"> 시작 페이지를 읽어보세요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:604(html/h3)
 msgid "Development GNOME"
@@ -2048,15 +2047,15 @@ msgid ""
 "includes calendars, some feature notes, and other information."
 msgstr ""
 "그놈 3.2에 대한 더 많은 정보를 보시려면, 달력과 기능 기록 등에 대한 정보가 담"
-"긴 <_:a-1/>을(를) 참조하십시오."
+"긴 <_:a-1/>을(를) 참조하세요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:607(html/p)
 msgid ""
 "If you’ve read up, and are ready to take the plunge, see our page on "
 "building and installing development versions of GNOME."
 msgstr ""
-"다 읽으셨고 뛰어들 준비가 되셨다면 그놈 개발버전 빌드, 설치하기 페이지를 보십"
-"시오."
+"다 읽으셨고 뛰어들 준비가 되셨다면 그놈 개발버전 빌드, 설치하기 페이지를 보세"
+"요."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:608(html/h2)
 msgid "Getting Involved"
@@ -2135,16 +2134,16 @@ msgid ""
 "poverty level; I had few friends because many of the children my age were "
 "afraid to even be around me as I was ‘different’."
 msgstr ""
-"저는 단어가 꽤 길지만 안구가 완전히 발달하지 않아서 일반사람 안구의 1/3 정도 "
-"되는 크기인 microphthalmia(소형안구증) 이라는 약시를 가지고 태어났습니다. 제 "
-"왼쪽 눈으로는 아무것도 보이지 않고, 오른쪽눈으로는 20/2000의 시야도를 지니고 "
-"있는데, 이 말은 그러니까 제 시야가 극도로 제한되어 있다는 의미입니다. 어린시"
-"절동안 제 주변 사람들 뿐만 아니라 우리 엄마(저를 포함해서 네 아이를 기르던 싱"
-"글맘이었습니다)조차도 우리가 사는 동네에서 (제가 아는 한) 제가 유일한 장님이"
-"었어서 저에게 뭘 어떻게 해야 할지 몰랐었습니다. 제 어린시절에 대해 최소한 얘"
-"기하자면, 제 엄마는 저를 키우는데 최선을 다했지만 가난한 것 치고는 참 잘 살았"
-"습니다. 제가 '유별'난만큼 제 주변에 있는 것을 두려워해서 친구가 거의 없었습니"
-"다."
+"저는 단어가 꽤 길지만 간단히 말해 안구가 완전히 발달하지 않아서 일반사람 안구"
+"의 1/3 정도 되는 크기인 microphthalmia(소형안구증) 이라는 약시를 가지고 태어"
+"났습니다. 제 왼쪽 눈으로는 아무것도 보이지 않고, 오른쪽눈으로는 20/2000의 시"
+"야도를 지니고 있는데, 이 말은 그러니까 제 시야가 극도로 제한되어 있다는 의미"
+"입니다. 어린시절동안 제 주변 사람들 뿐만 아니라 우리 엄마(저를 포함해서 네 아"
+"이를 기르던 싱글맘이었습니다)조차도 우리가 사는 동네에서 (제가 아는 한) 제가 "
+"유일한 장님이었어서 저에게 뭘 어떻게 해야 할지 몰랐었습니다. 제 어린시절에 대"
+"해 최소한 얘기하자면, 제 엄마는 저를 키우는데 최선을 다했지만 가난한 것 치고"
+"는 참 잘 살았습니다. 제가 '유별'난만큼 제 주변에 있는 것을 두려워해서 친구가 "
+"거의 없었습니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:625(html/p)
 msgid ""
@@ -2182,11 +2181,11 @@ msgid ""
 "function as well on my updated computer system with frozen assistive "
 "technologies."
 msgstr ""
-"저를 위해 JAWS, ZoomText를 비용이 한푼도 안들어가도록 구매해주신 주정부 기관"
+"저를 위해 JAWS, ZoomText를 비용이 한 푼도 안들어가도록 구매해주신 주정부 기관"
 "에 감사드리며 저는 컴퓨터 시스템을 사용하는데 생산성이 더 좋아짐을 느꼈습니"
-"다. 그 다음 업그레이드 시간(공짜를 의미하는게 아니었습니다)이 생겼습니다! 업"
+"다. 그 다음 업그레이드 할 때가(공짜를 의미하는게 아니었습니다) 되었습니다! 업"
 "그레이드를 할 여유가 없었고, 주정부 기관에서는 이를 승인해주지 않았습니다. 도"
-"움되는 기술이 동작하지 않는 제 업데이트 된 컴퓨터 처럼 기능을 다하지 못했습니"
+"움되는 기술이 동작하지 않는 제 업데이트 된 컴퓨터처럼 기능을 다하지 못했습니"
 "다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:627(html/p)
@@ -2204,7 +2203,7 @@ msgstr ""
 "꽤 많이 연구했지만서도 리눅스를 전혀 사용하지 않아서 어떻게 돌아갈지 겁이 났"
 "습니다. 해당 과목시간에는 페도라 코어 5를 사용했음에도, 접근성 영역에 있어서 "
 "리눅스에서 뭘 할 수 있는지에 대한 실마리를 발견하지 못했습니다. 이 과목 교수"
-"님은 약간의 연구를 하시곤 제게  Gnopernicus를 사용하라고 하셨습니다. "
+"님은 약간의 연구를 하시더니 제게 Gnopernicus를 사용해보라고 하셨습니다. "
 "Gnopernicus에서 화면 돋보기를 사용할 수 있음에 감사하며 페도라 코어 5를 사용"
 "할 수 있었고 완벽한 점수로 과목을 이수했습니다. 이 과목을 수강하는 동안 리눅"
 "스와 그놈에 맛을 들였습니다."
@@ -2219,12 +2218,12 @@ msgid ""
 "finally completely switch to Linux! I have been a happy Linux/GNOME user "
 "ever since."
 msgstr ""
-"2007년까지는 GNU/Linux로 완전히 갈아타지 못했지만 2005년 동안에는 매우 많은 "
-"도움이 되었지만 Gnopernicus에서는 제가 필요한 기능을 보지 못했다더라도, 그만"
-"한 접근성을 담긴 상태를 유지한 우분투 라이브 CD로 많은 것들을 했습니다. 2007"
-"년에는 컴피즈 eZoom 플러그인 같은 그놈 돋보기(gnome-mag)로 일을 시작했습니"
-"다. 접근성에 그토록 바라던 수단이 딸려왔고, 그제서야 저는 리눅스로 완전히 전"
-"환했습니다! 그 이후 저는 행복한 리눅스/그놈 사용자가 되었습니다."
+"2007년까지는 GNU/Linux로 완전히 갈아타지 못했지만 2005년 동안에는 상당히 도움"
+"을 주었던 Gnopernicus에서 제가 필요한 기능을 보지 못했다더라도, 그만큼 접근성"
+"을 프로그램 들을 유지한 우분투 라이브 CD로 많은 일 들을 했습니다. 2007년에는 "
+"컴피즈 eZoom 플러그인 같은 그놈 돋보기(gnome-mag)로 일을 시작했습니다. 접근"
+"성 기반에 그토록 바라던 것이 들어왔고, 그제서야 저는 리눅스로 완전히 전환했습"
+"니다! 그 이후 저는 행복한 리눅스/그놈 사용자가 되었습니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:629(html/p)
 msgid ""
@@ -2238,13 +2237,13 @@ msgid ""
 "pleasant as I will be able to read with a negative contrast (white text on a "
 "black background)."
 msgstr ""
-"최근 몇달새에 제 눈은 매우 빨리 피곤해지기 시작했습니다. 그래서 눈의 피로를 "
-"훨씬 더 줄이기 위해 오르카 스크린 리더로 일하는 중입니다. 또한 제 눈으로 더 "
-"쉽게 화면을 볼 수 있게 하는 리눅스 11 시스템의 그놈 2.32에 있는 컴피즈 네거티"
-"브 플러그인을 사용하기도 합니다. 비록 그놈 3.x가 컴피즈와 동작하지 않지만, 내"
-"장 확대 기능을 사용하여 상당히 좋은 확대 옵션을 제공합니다. 아직은 개발중인 "
-"고대비 반전 기능도 있습니다. 이는 고대비 반전(검은 바탕에 흰색 글씨)으로 볼 "
-"수 있을 것에 상당히 기쁜 그놈 3 경험을 만들어 줄 것입니다."
+"최근 몇 달 새에 제 눈은 매우 빨리 피곤해지기 시작했습니다. 그래서 눈의 피로"
+"를 훨씬 더 줄이기 위해 오르카 스크린 읽기 프로그램으로 일하는 중입니다. 또한 "
+"제 눈으로 더 쉽게 화면을 볼 수 있게 하는 리눅스 11 시스템의 그놈 2.32에 있는 "
+"컴피즈 네거티브 플러그인을 사용하기도 합니다. 비록 그놈 3.x가 컴피즈와 동작하"
+"지 않지만, 내장 확대 기능을 사용하여 상당히 좋은 확대 옵션을 제공합니다. 아직"
+"은 개발 중인 고대비 반전 기능도 있습니다. 고대비 반전(검은 바탕에 흰색 글씨)"
+"으로 볼 수 있는 만큼 상당히 기쁜 그놈3 경험이 될 것입니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:630(html/p)
 msgid ""
@@ -2257,10 +2256,10 @@ msgid ""
 "operating system."
 msgstr ""
 "전 GNU/리눅스와 그놈에서 이렇게 많은 접근성이 딸려온다는 것에 그냥 놀랐습니"
-"다. 접근성과 관련한만큼 그놈에서 해낸 것 없이는 제가 이렇게 할 수 없었다고 확"
-"실히 증언할 수 있습니다. 화면 돋보기와 오르카 스크린 리더같은 것들이랑 함께"
-"한 이런 모든 일이 없었다면 최신 버전의 운영체제에서 한물 간 상업 보조 기술 프"
-"로그램에 아직도 매달렸을지도 모릅니다."
+"다. 접근성과 관련된 만큼 그놈에서 이렇게 해낸 것이 없었을 때까지는 제가 이렇"
+"게 할 수 없었다고 확실히 증언할 수 있습니다. 화면 돋보기와 오르카 스크린 리더"
+"같은 것들이랑 함께한 이런 모든 일이 없었다면 최신 버전의 운영체제에서 한물 "
+"간 상업 보조 기술 프로그램에 아직도 매달렸을지도 모릅니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:631(html/p)
 msgid ""
@@ -2277,6 +2276,16 @@ msgid ""
 "software, I would truly be at a loss. This is why further development and "
 "maintenance of accessible software is so important to me."
 msgstr ""
+"계정 안에 접근성을 넣어준 모든 개발자들에게 개인적으로 감사드리고 싶습니다. "
+"제가 가장 진심으로 바가는것은 오픈소스 세계에서 이런 방식의 프로그램이 번창하"
+"는 것을 보는 것입니다. 접근성과 보조 기술은 급속도로 늘어나는 지체 부자유자분"
+"들의 수만큼 필수적입니다. 2006년경에 미국에 대략 2100만의 성인 시각 장애우가 "
+"있었습니다. 제게 이것이 의미하는 것은, 제가 알기론 다양한 목적을 위해 컴퓨터 "
+"시스템을 사용하고 싶어했을때, 상업 프로그램을 구매하기 위한 돈이 없었다는 것"
+"입니다 (종종 컴퓨터 시스템 두 대 이상 정도 되는 구매비용과 맞먹었습니다). 저"
+"를 위해 GNU/Linux와 자유 그 자체인 그놈, 그리고 이 굉장한 프로그램 모두를 리"
+"눅스에 올려놓기 위한 모든 노고가 없었다면, 상실감에 빠졌을지도 모릅니다. 이"
+"게 바로 접근성 기반의 개발과 관리가 제게 매우 중요한 이유입니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:632(html/p)
 msgid ""
@@ -2285,10 +2294,10 @@ msgid ""
 "it when I say that without your hard work, I would not be where I am today! "
 "Thanks for everything which all of you do to make GNOME work!"
 msgstr ""
-"모든 노고에 감사드립니다. 제 생에에 엄청난 변화를 가져왔고, 어떤 것은 제가 허"
-"락받지 못했던 것도 있습니다. 사실은 노고 없이는 제가 오늘날 이곳에 있지 않았"
-"을 것이라는 의미입니다! 그놈이 동작할 수 있게 한 여러분의 모든 일들에 감사드"
-"립니다!"
+"모든 노고에 감사드립니다. 제 생에에 엄청난 변화를 가져왔고, 어떤 것은 제게 허"
+"용되지 않았던 것도 있습니다. 사실은 여러분들의 노고 없이는 제가 오늘날 이 자"
+"리에 있지 않았을 것이라는 의미입니다! 그놈이 동작할 수 있게 한 여러분의 모든 "
+"일들에 감사드립니다!"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:633(p/a)
 msgid "Creative Commons BY-NC-ND 3.0"
@@ -2304,7 +2313,7 @@ msgstr "이전 기부자 명단"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:642(post/title)
 msgid "Promote GNOME- Put a Badge on Your Website"
-msgstr "그놈 알리기- 여러분의 웹사이트에 뱃지를 걸어주세요"
+msgstr "그놈 알리기 - 여러분의 웹사이트에 뱃지를 걸어주세요"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:646(post/title)
 msgid "Support GNOME by Shopping at Amazon!"
@@ -2333,7 +2342,7 @@ msgstr "캐나다"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:707(post/title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon Germany"
-msgstr "아마존 독"
+msgstr "아마존 독일"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -2371,7 +2380,7 @@ msgstr "fr"
 #: /srv/http/www.gnome.org/html/wppo/static.xml:701(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:709(p/a@title)
 msgid "Amazon Japan"
-msgstr "아마존 저"
+msgstr "아마존 저팬"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:648(a/img@title)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:677(a/img@title)
@@ -2424,7 +2433,7 @@ msgid ""
 "Select one of these Amazon Stores: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/> <_:"
 "a-5/> <_:a-6/>"
 msgstr ""
-"이 아마존 상점 중 한 곳을 선택하십시오: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/"
+"이 아마존 상점 중 한 곳을 선택하세요: <_:a-1/>    <_:a-2/> <_:a-3/> <_:a-4/"
 "> <_:a-5/> <_:a-6/>"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:654(post/title)
@@ -2442,13 +2451,13 @@ msgid ""
 "Send a check payable to “GNOME Foundation, Inc.” to:<br/> GNOME "
 "Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 msgstr ""
-"지불 가능한 수표를 \"그놈 재단\" 으로 보내시려면 다음 주소로 보내주십시오:"
-"<br/> GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
+"지불 가능한 수표를 \"그놈 재단\" 으로 보내시려면 다음 주소로 보내주세요:<br/"
+"> GNOME Foundation<br/> PO Box 101<br/> Groton, MA 01450<br/> USA"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:662(html/h4)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:853(html/h4)
 msgid "Or by Bank Wire Transfer:"
-msgstr "은행 온라인 송금:"
+msgstr "또는 은행 온라인으로 송금해주세요:"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:663(html/p)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:854(html/p)
@@ -2756,7 +2765,9 @@ msgstr "전화"
 msgid ""
 "Voice message for the foundation board and administrators can be left at "
 "<strong>+1-617-206-3947.**</strong>"
-msgstr "재단 음성 메시지"
+msgstr ""
+"재단 이사진이나 관리자에게 보낼 음성 메시지는 <strong>+1-617-206-3947.**</"
+"strong>로 남기실 수 있습니다."
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:794(html/p)
 msgid ""
