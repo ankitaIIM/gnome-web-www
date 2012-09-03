@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-08-30 10:56+0200\n"
+"PO-Revision-Date: 2012-09-03 16:25+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -549,35 +549,35 @@ msgstr "brian_cameron"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:408(post/title)
 msgid "gnome-annual-report-2006"
-msgstr ""
+msgstr "informe-anual-gnome-2006"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:411(post/title)
 msgid "gnome-annual-report-2007"
-msgstr ""
+msgstr "informe-anual-gnome-2007"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:414(post/title)
 msgid "gnome-report-2009-Q2"
-msgstr ""
+msgstr "informe-gnome-2009-Q2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:417(post/title)
 msgid "gnome-report-2009-Q3"
-msgstr ""
+msgstr "informe-gnome-2009-Q3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:420(post/title)
 msgid "gnome-report-2009-Q4"
-msgstr ""
+msgstr "informe-gnome-2009-Q4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:423(post/title)
 msgid "gnome-report-2010-Q1"
-msgstr ""
+msgstr "informe-gnome-2010-Q1"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:426(post/title)
 msgid "gnome-annual-report-2008"
-msgstr ""
+msgstr "informe-anual-gnome-2008"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:429(post/title)
 msgid "gnome-annual-report-2009"
-msgstr ""
+msgstr "informe-anual-gnome-2009"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:432(post/title)
 msgid "foundation_balloon"
@@ -715,7 +715,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:528(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3839(p/img@title)
 msgid "Google Summer of Code 2012"
-msgstr ""
+msgstr "«Google Summer of Code» 2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:531(post/title)
 msgid "accessibility"
@@ -742,7 +742,7 @@ msgstr "gnome-3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:546(post/title)
 msgid "application-view-420x263"
-msgstr ""
+msgstr "vista-aplicacion-420x263"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:561(post/title)
 msgid "chat-reply"
@@ -787,12 +787,12 @@ msgstr "web"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:594(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:615(post/title)
 msgid "web-app"
-msgstr ""
+msgstr "app-web"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:597(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:618(post/title)
 msgid "web-app-420x263"
-msgstr ""
+msgstr "app-web-420x263"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:600(post/title)
 msgid "web-thumb"
@@ -833,7 +833,7 @@ msgstr "Gplus32"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:636(post/title)
 msgid "robot_thanks"
-msgstr ""
+msgstr "robot_gracias"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:639(post/title)
 msgid "robot_thanks_banner"
@@ -1049,7 +1049,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:681(html/h3)
 msgid "KING OF THE BONGO"
-msgstr ""
+msgstr "REY DEL BONGO"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:682(html/p)
 msgid ""
@@ -1057,6 +1057,9 @@ msgid ""
 "affectionately known as “Bongo GNOME.” GNOME 1.2 is the latest stable "
 "release of the GNU desktop."
 msgstr ""
+"El equipo de GNOME se enorgullece de anunciar la disponibilidad de GNOME "
+"1.2, conocido afectivamente como «Bongo GNOME» GNOME 1.2 es el último "
+"lanzamiento estable del escritorio de GNU."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:683(html/p)
 msgid ""
@@ -1076,6 +1079,8 @@ msgid ""
 "End users will be able to impress their grandparents and younger siblings "
 "with the following large-scale changes to the GNOME desktop:"
 msgstr ""
+"Los usuarios finales podrán impresionar a sus abuelos y hermanos menores con "
+"los siguientes cambios de gran escala al escritorio GNOME:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:687(ul/li)
 msgid ""
@@ -1084,6 +1089,10 @@ msgid ""
 "The result is a lean, intuitive, and attractive desktop which just plain "
 "feels good."
 msgstr ""
+"<strong>Fácil de usar.</strong> En respuesta a la retroalimentación de "
+"nuestros usuarios, formamos el equipo «GNOME UI», centrado exclusivamente en "
+"mejorar la experiencia del usuario. El resultado es un escritorio limpio, "
+"intuitivo, y atractivo que simplemente se siente bien."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:688(ul/li)
 msgid ""
@@ -1154,7 +1163,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:701(html/h3)
 msgid "NEW WEB PAGE"
-msgstr ""
+msgstr "PÁGINA WEB NUEVA"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:702(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1352(p/a)
@@ -16103,7 +16112,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3864(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3881(p/a@title)
 msgid "GNOME 3.4 Release Notes"
-msgstr ""
+msgstr "Notas de publicación de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3864(html/p)
 msgid ""
@@ -16541,7 +16550,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3945(p/a)
 msgid "page"
-msgstr ""
+msgstr "página"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3945(html/p)
 msgid ""
