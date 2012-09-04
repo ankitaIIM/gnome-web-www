@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-09-03 16:25+0200\n"
+"PO-Revision-Date: 2012-09-04 11:17+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -695,7 +695,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:516(post/title)
 msgid "Red Hat Developer Conference 2012"
-msgstr ""
+msgstr "Conferencia de Desarrolladores de Red Hat 2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:519(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3024(ul/li)
@@ -1100,6 +1100,9 @@ msgid ""
 "documentation team, on-line documentation and user’s manuals are ubiquitous "
 "in GNOME 1.2."
 msgstr ""
+"<strong>Ayuda.</strong> Gracias al esfuerzo incansable del equipo de "
+"documentación de GNOME, la documentación en línea y los manuales para el "
+"usuario están por todas partes en GNOME 1.2."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:689(ul/li)
 msgid ""
@@ -1113,6 +1116,8 @@ msgid ""
 "<strong>Polyglot.</strong> Updated localization and documentation from our "
 "international team of translators and writers."
 msgstr ""
+"<strong>Políglota.</strong> Localización actualizada y documentación de "
+"nuestro equipo internacional de traductores y escritores."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:692(html/h3)
 msgid "GNOME 1.2 FOR HACKERS"
@@ -1153,6 +1158,8 @@ msgid ""
 "<strong>Documentation.</strong> The majority of the GNOME APIs are now fully "
 "documented."
 msgstr ""
+"<string>Documentación.</strong> La mayoría de las API de GNOME ahora están "
+"completamente documentadas."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:699(ul/li)
 msgid ""
@@ -1209,7 +1216,7 @@ msgstr "http://www.gnome.org/start/installing/"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:709(html/h3)
 msgid "READY-TO-INSTALL GNOME 1.2"
-msgstr ""
+msgstr "LISTO-PARA-INSTALAR GNOME 1.2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:710(html/p)
 msgid ""
@@ -1250,7 +1257,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:726(html/h3)
 msgid "SCREENSHOTS"
-msgstr ""
+msgstr "CAPTURAS DE PANTALLA"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:727(html/p)
 msgid ""
@@ -1333,7 +1340,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:740(html/p)
 msgid "Thanks to the free software community."
-msgstr ""
+msgstr "Gracias a la comunidad del software libre."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:741(html/pre)
 #, no-wrap
@@ -1424,7 +1431,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1686(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3540(html/h2)
 msgid "About the GNOME Foundation"
-msgstr ""
+msgstr "Acerca de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:756(html/p)
 msgid ""
@@ -1619,7 +1626,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:786(html/h3)
 msgid "About GNOME 2.0"
-msgstr ""
+msgstr "Acerca de GNOME 2.0"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:787(html/p)
 msgid ""
@@ -1678,7 +1685,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2964(html/h3)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3368(html/p)
 msgid "About GNOME and the GNOME Foundation"
-msgstr ""
+msgstr "Acerca de GNOME y de la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:791(html/p)
 msgid ""
@@ -2198,7 +2205,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:882(post/title)
 msgid "Tim Ney Joins GNOME Foundation"
-msgstr ""
+msgstr "Tim Ney se une a la Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:884(html/p)
 msgid ""
@@ -3866,7 +3873,7 @@ msgstr "Tabla de contenido"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1211(html/h3)
 msgid "ABOUT THE AUTHOR"
-msgstr ""
+msgstr "ACERCA DEL AUTOR"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1212(html/p)
 msgid ""
@@ -3878,7 +3885,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1213(html/h3)
 msgid "ABOUT THE TRANSLATOR"
-msgstr ""
+msgstr "ACERCA DEL TRADUCTOR"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1214(html/p)
 msgid ""
@@ -3904,7 +3911,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1217(html/h3)
 msgid "ABOUT THE GNOME FOUNDATION"
-msgstr ""
+msgstr "ACERCA DE LA FUNDACIÓN GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1218(html/p)
 msgid ""
@@ -3997,7 +4004,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1237(p/a)
 msgid "Registration for GUADEC"
-msgstr ""
+msgstr "Inscripción en la GUADEC"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1237(html/p)
 msgid ""
@@ -4016,7 +4023,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1253(html/p)
 msgid "Kristiansand, Norway – June 29, 2004"
-msgstr ""
+msgstr "Kristiansand, Norway: 29 de Junio de 2004"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1254(html/p)
 msgid ""
@@ -7843,7 +7850,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2064(html/h2)
 msgid "International"
-msgstr ""
+msgstr "Internacional"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2065(html/p)
 msgid ""
@@ -7893,7 +7900,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2072(html/h2)
 msgid "A community"
-msgstr ""
+msgstr "Una comunidad"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2073(html/p)
 msgid ""
@@ -7987,7 +7994,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2092(ul/li)
 msgid "… and more."
-msgstr ""
+msgstr "… y más."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2094(html/p)
 msgid ""
@@ -8717,6 +8724,12 @@ msgid ""
 "Sugar Learning Platform. Sugar Labs is supported by donations and is seeking "
 "funding to accelerate development."
 msgstr ""
+"Sugar Labs, es una organización, sin ánimo de lucro, un proyecto miembro del "
+"«Software Freedom Conservancy». Parte del proyecto One Laptop Per Child "
+"originalmente, Sugar Labs coordina voluntarios de todo el mundo apasionados "
+"en brindar oportunidades educativas a niños a través del Entorno de "
+"aprendizaje Sugar. Sugar Labs se apoya en donaciones y está buscando "
+"financiación para acelerar el desarrollo."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2297(p/a)
 msgid "http://www.sugarlabs.org/"
@@ -9173,7 +9186,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2444(html/h2)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3035(html/h2)
 msgid "About the Desktop Summit"
-msgstr ""
+msgstr "Acerca del «Desktop Summit»"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2445(html/p)
 msgid ""
@@ -9541,7 +9554,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2531(ul/li)
 msgid "Ritesh Khadgaray"
-msgstr ""
+msgstr "Ritesh Khadgaray"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:2532(ul/li)
 msgid "Friedel Wolff"
@@ -16326,7 +16339,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3899(post/title)
 msgid "New GNOME Foundation Members for March"
-msgstr ""
+msgstr "Nuevos miembros de la Fundación GNOME para marzo."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3901(html/p)
 msgid ""
@@ -16395,6 +16408,8 @@ msgid ""
 "If you contribute to GNOME, you too can become a member of the Foundation. "
 "<_:a-1/>."
 msgstr ""
+"Si contribuye con GNOME, también puede convertirse en miembro de la "
+"Fundación. <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3920(post/title)
 msgid "Official Announcement and Invitation to GNOME.Asia 2012"
