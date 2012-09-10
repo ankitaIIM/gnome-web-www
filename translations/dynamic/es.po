@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-09-04 11:17+0200\n"
+"PO-Revision-Date: 2012-09-10 11:33+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -15675,19 +15675,19 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3771(ul/li)
 msgid "Michael Hill 2011-10-19"
-msgstr ""
+msgstr "Michael Hill 19/10/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3772(ul/li)
 msgid "Jim Campbell 2011-11-10"
-msgstr ""
+msgstr "Jim Campbell 10/11/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3773(ul/li)
 msgid "David Nielsen 2011-11-10"
-msgstr ""
+msgstr "David Nielsen 10/11/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3774(ul/li)
 msgid "Karen Sandler 2011-11-10"
-msgstr ""
+msgstr "Karen Sandler 10/11/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3775(ul/li)
 msgid "Nilamdyuti Goswami 2011-11-10"
@@ -15790,7 +15790,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3794(html/h4)
 msgid "Development for GNOME 3.4"
-msgstr ""
+msgstr "Desarrollo para GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3796(ul/li)
 msgid ""
@@ -15830,7 +15830,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3806(html/h4)
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3808(ul/li)
 msgid ""
@@ -15856,7 +15856,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3813(html/h4)
 msgid "by: Emily Gonyer"
-msgstr ""
+msgstr "por: Emily Gonyer"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3814(html/p)
 msgid ""
@@ -15945,7 +15945,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3827(html/h4)
 msgid "by: Andreas Nilsson and Vinicius Depizzol"
-msgstr ""
+msgstr "por: Andreas Nilsson y Vinicius Depizzol"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3829(ul/li)
 msgid ""
@@ -15997,7 +15997,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a@title)
 msgid "Summer of Code Ideas 2012"
-msgstr ""
+msgstr "Ideas del «Google Summer of Code» 2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3842(p/a@title)
 msgid "GNOME Summer of Code 2012"
@@ -16164,7 +16164,7 @@ msgstr "la Fundación GNOME"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3914(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3961(p/a@title)
 msgid "Foundation Members"
-msgstr ""
+msgstr "Miembros de la Fundación"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3867(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3961(p/a)
@@ -16186,11 +16186,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3868(p/a@title)
 msgid "GNOME 3.4 Screenshots"
-msgstr ""
+msgstr "Capturas de pantalla de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3868(p/a)
 msgid "are available to download"
-msgstr ""
+msgstr "están disponibles para descargar"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3868(html/p)
 msgid "Official screenshot packs of the release <_:a-1/>."
@@ -16198,11 +16198,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3873(post/title)
 msgid "GNOME 3.4 Released"
-msgstr ""
+msgstr "GNOME 3.4 Publicado"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3876(p/a)
 msgid "has announced the availability of GNOME 3.4"
-msgstr ""
+msgstr "ha anunciado la disponibilidad de GNOME 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3876(html/p)
 msgid ""
@@ -16253,11 +16253,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3882(p/a)
 msgid "you can join us"
-msgstr ""
+msgstr "puede unirse a nosotros"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3882(p/a@title)
 msgid "Friends of GNOME"
-msgstr ""
+msgstr "Amigos de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3882(html/p)
 msgid ""
@@ -16316,7 +16316,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3892(p/a)
 msgid "full details and application requirements"
-msgstr ""
+msgstr "detalles completos y requisitos de la aplicación"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3892(html/p)
 msgid ""
@@ -16346,10 +16346,13 @@ msgid ""
 "Last month, GNOME Foundation have had more members to join its warm family. "
 "We are happy to announce that the new members are as follows:"
 msgstr ""
+"El último mes, la fundación GNOME añadió más miembros a su cálida familia. "
+"Estamos felices de anunciar que los miembros nuevos son los siguientes:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3903(ul/li)
 msgid "Dan Vrátil (Evolution’s porting to WebKit, Bugzilla contributions)"
 msgstr ""
+"Dan Vrátil (Migración de Evolution a WebKit, contribuciones a Bugzilla)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3904(ul/li)
 msgid "Stefano Candori (GNOME Activity Journal maintainer and Zeitgeist"
@@ -16380,6 +16383,8 @@ msgid ""
 "Yuri Myasoedov (Coordinator of the Russian translation team, also maintain "
 "the GNOME russian website, gnome.org.ru)"
 msgstr ""
+"Yuri Myasoedov (Coordinador del equipo ruso de traducciones, también "
+"mantiene el sitio web ruso de Gnome, gnome.org.ru)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3910(ul/li)
 msgid ""
@@ -16392,6 +16397,8 @@ msgid ""
 "Chris Lord (Contributions to some GNOME projects, as Clutter, Pinpoint, "
 "grilo, libsoup, gtkhtml2, libjana, contacts, dates)"
 msgstr ""
+"Chris Lord (Contribuciones a algunos projectos de GNOME, como Clutter, "
+"Pinpoint, grilo, libsoup, gtkhtml2, libjana, contacts, dates)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3912(ul/li)
 msgid "Susanna Huhtanen (GNOME’s OPW internship, GNOME Documentation)"
@@ -16413,7 +16420,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3920(post/title)
 msgid "Official Announcement and Invitation to GNOME.Asia 2012"
-msgstr ""
+msgstr "Anuncio Oficial de la Invitación a GNOME.Asia 2012"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3923(html/p)
 msgid ""
@@ -16459,7 +16466,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3933(p/a)
 msgid "helped GNOME improve"
-msgstr ""
+msgstr "ayudó a mejorar GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3933(html/p)
 msgid ""
@@ -16690,3 +16697,12 @@ msgid ""
 "deployments, and the project’s developer technologies are utilized in a "
 "large number of popular mobile devices."
 msgstr ""
+"GNOME se inició en 1997 por dos estudiantes universitarios por aquel "
+"entonces, Miguel de Icaza y Federico Mena Quintero. Su objetivo: producir un "
+"entorno de escritorio libre (como en libertad). Desde entonces, GNOME se ha "
+"convertido en una empresa exitosa. Usado por millones de personas en todo el "
+"mundo, es el entorno más popular para GNU/Linux y los sistemas operativos de "
+"tipo UNIX. El software de GNOME se utilizó en exitosos despliegues de gran "
+"escala públicos y a cargo de empresas, y las tecnologías de los "
+"desarrolladores del proyecto se utilizan en un gran número de dispositivos "
+"móviles populares."
