@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-09-10 11:33+0200\n"
+"PO-Revision-Date: 2012-09-27 14:33+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -1706,7 +1706,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:792(html/h3)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:956(html/h3)
 msgid "About Sun Microsystems, Inc."
-msgstr ""
+msgstr "Acerca de Sun Microsystems, Inc."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:793(html/p)
 msgid ""
@@ -2359,6 +2359,8 @@ msgid ""
 "The GNOME Accessibility Framework is available now, please visit:<br/> <_:a-"
 "1/>"
 msgstr ""
+"El entorno de trabajo de accesibilidad de GNOME ya está disponible, visite:"
+"<br/> <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:912(p/a)
 msgid "http://projects.gnome.org/accessibility"
@@ -15084,7 +15086,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3638(html/p)
 msgid "<strong>New Users Group</strong>"
-msgstr ""
+msgstr "<strong>Grupos nuevos de usuarios</strong>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3639(html/p)
 msgid ""
@@ -15107,6 +15109,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3643(ul/li)
 msgid "New users group in New Delhi, India, initiated by Manish Yadav"
 msgstr ""
+"Nuevo grupo de usuarios en Nueva Delhi, India, iniciado por Manish Yadav"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3644(ul/li)
 msgid "New users group in Hungarian, initiated by András Bognár"
@@ -15195,7 +15198,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3661(p/a)
 msgid "Aline Bessa"
-msgstr ""
+msgstr "Aline Bessa"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3661(html/p)
 msgid ""
@@ -15319,7 +15322,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3697(html/h1)
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3698(html/h2)
 msgid "Allan Day"
@@ -15391,7 +15394,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3709(html/h1)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3826(html/h2)
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3710(html/h2)
 msgid "Andreas Nilsson and Vinicius Depizzol"
@@ -15470,7 +15473,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3727(ul/li)
 msgid "Felipe Erias Morandeira (GNOME Design and UI development)"
-msgstr ""
+msgstr "Felipe Erias Morandeira (Diseño y desarrollo de la UI de GNOME)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3728(ul/li)
 msgid "Erick Pérez Castellanos (GNOME Contacts App code contributions)"
@@ -15496,7 +15499,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3732(ul/li)
 msgid "Juan Suarez (contributions to Epiphany, Totem, Glib)"
-msgstr ""
+msgstr "Juan Suarez (contribuciones a Epiphany, Totem, Glib)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3734(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3867(p/a@title)
@@ -15506,11 +15509,11 @@ msgstr "La Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3734(p/a)
 msgid "its webpages"
-msgstr ""
+msgstr "sus páginas web"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3734(p/a@title)
 msgid "GNOME Foundation - Become a member"
-msgstr ""
+msgstr "Fundación GNOME: convertirse en miembro"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3734(p/a)
 msgid "the membership page"
@@ -15630,7 +15633,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3761(html/h4)
 msgid "by: FredericPeters"
-msgstr ""
+msgstr "por: FredericPeters"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3762(html/p)
 msgid ""
@@ -15667,11 +15670,11 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3769(ul/li)
 msgid "Maciej Piechotka 2011-10-05"
-msgstr ""
+msgstr "Maciej Piechotka 05/10/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3770(ul/li)
 msgid "Antoine Jacoutot 2011-10-05"
-msgstr ""
+msgstr "Antoine Jacoutot 05/10/2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3771(ul/li)
 msgid "Michael Hill 2011-10-19"
@@ -15814,7 +15817,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3801(html/h4)
 msgid "Friends of GNOME Campaign"
-msgstr ""
+msgstr "Campaña de amigos de GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3803(ul/li)
 msgid ""
@@ -15852,7 +15855,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3812(html/h2)
 msgid "Montréal Summit 2011"
-msgstr ""
+msgstr "«Montréal Summit» 2011"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3813(html/h4)
 msgid "by: Emily Gonyer"
@@ -15901,7 +15904,7 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3820(p/a)
 msgid "GNOME Love mentors page"
-msgstr ""
+msgstr "Página de mentores de GNOME Love"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3820(p/a)
 msgid "next round of the OPW internships"
@@ -15970,7 +15973,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3831(ul/li)
 msgid ""
 "Planning of various websites that needs to be migrated to the new design."
-msgstr ""
+msgstr "Plan de varios sitios web que necesitan migrarse al nuevo diseño."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3837(post/title)
 msgid "GNOME to Participate in Google Summer of Code 2012"
@@ -16031,15 +16034,15 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3848(post/title)
 msgid "GNOME 3.4 Release Candidate Finalized"
-msgstr ""
+msgstr "Candidato a publicación de GNOME 3.4 terminado"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3850(p/a@title)
 msgid "GNOME 3.3.92 Release Candidate released!"
-msgstr ""
+msgstr "¡Candidato a la versión 3.3.92 de GNOME publicado!"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3850(p/a)
 msgid "announced the availability of the 3.4 Release Candidate yesterday"
-msgstr ""
+msgstr "ayer anunció la disponibilidad del candidato a publicación 3.4"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3850(html/p)
 msgid ""
@@ -16222,6 +16225,12 @@ msgid ""
 "application menus, which are located on the top bar, provide a useful way to "
 "access application options and actions."
 msgstr ""
+"GNOME 3.4 introduce un rango de características nuevas. Una búsqueda nueva y "
+"fácil de documentos que permite acceso rápido al contenido guardado en tanto "
+"en su dispositivo como en la red. Deslizamiento suave significa que el paso "
+"a través de contenidos es liso y elegante. Los nuevos menús de las "
+"aplicaciones, que se ubican en la barra superior, dan una forma útil de "
+"acceder a las opciones y acciones de la aplicación."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3878(html/p)
 msgid ""
@@ -16391,14 +16400,16 @@ msgid ""
 "Tim Waugh (CUPS printing system, GNOME Control Center and Gtk+ printing "
 "framework)"
 msgstr ""
+"Tim Waugh (sistema de impresión CUPS, centro de control de GNOME y entorno "
+"de trabajo de impresión de GTK+)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3911(ul/li)
 msgid ""
 "Chris Lord (Contributions to some GNOME projects, as Clutter, Pinpoint, "
 "grilo, libsoup, gtkhtml2, libjana, contacts, dates)"
 msgstr ""
-"Chris Lord (Contribuciones a algunos projectos de GNOME, como Clutter, "
-"Pinpoint, grilo, libsoup, gtkhtml2, libjana, contacts, dates)"
+"Chris Lord (contribuciones a algunos proyectos de GNOME, como Clutter, "
+"Pinpoint, grilo, libsoup, gtkhtml2, libjana, contactos, fechas)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:3912(ul/li)
 msgid "Susanna Huhtanen (GNOME’s OPW internship, GNOME Documentation)"
