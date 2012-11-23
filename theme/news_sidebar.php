@@ -25,6 +25,12 @@
                     Facebook
                 </a>
             </li>
+            <li>
+                <a href="https://plus.google.com/108054458791366257368/posts">
+                    <img src="<?php bloginfo('template_url')?>/images/social_networks/gplus.png" alt="GNOME on Google+" rel="publisher" />
+                    Google+
+                </a>
+            </li>
         </ul>
     </div>
 </div>
