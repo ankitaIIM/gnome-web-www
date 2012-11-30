@@ -1,12 +1,13 @@
 #
 # S. Daniel Francis <francis@sugarlabs.org>, 2012.
+# Angelo Córdova <acordinz@gmail.com>, 2012.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2012-11-21 17:41+0100\n"
+"PO-Revision-Date: 2012-11-30 10:32+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -425,11 +426,11 @@ msgstr "suse"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:315(post/title)
 msgid "GNOME2009-budget-with-actuals"
-msgstr ""
+msgstr "GNOME2009-presupuesto-datos-reales"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:318(post/title)
 msgid "gnome-foundation-accountant-03"
-msgstr ""
+msgstr "fundación-gnome-contabilidad-03"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:321(post/title)
 msgid "gnome-foundation-budget-2004"
@@ -1145,6 +1146,9 @@ msgid ""
 "available to you in GNOME 1.2. We have worked hard to preserve source- and "
 "binary-compatibility everywhere."
 msgstr ""
+"<strong>Estabilidad.</strong> Las mismas API usadas en GNOME 1.0 aún están "
+"disponibles en GNOME 1.2. Hemos trabajado duramente para preservar las "
+"fuentes y compatibilidad binaria en todos lados."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:696(ul/li)
 msgid ""
@@ -1154,12 +1158,20 @@ msgid ""
 "interfaces. And non-programmers can contribute to the development process by "
 "designing interfaces which can be dropped wholesale into an existing project."
 msgstr ""
+"<strong>Simplicidad.</strong> La herramienta de diseño de IU «Glade» ha "
+"mejorado mucho el soporte para GNOME, y ahora es una parte oficial del "
+"proyecto GNOME. Gracias a Glade, incluso el programador más inexperto puede "
+"construir interfaces de usuario bonitas. Y los usuarios no programadores "
+"pueden contribuir al proceso de desarrollo diseñando interfaces que pueden "
+"incorporarse al por mayor en un proyecto existente."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:697(ul/li)
 msgid ""
 "<strong>Power.</strong> The robustness and utility of the GNOME libraries "
 "and development tools has been improved across the board."
 msgstr ""
+"<strong>Poder.</strong> La robusticidad y utilidad de las biblioteca y "
+"herramientas de desarrollo de GNOME se han mejorado en todos los ámbitos."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:698(ul/li)
 msgid ""
@@ -1175,6 +1187,9 @@ msgid ""
 "variety of resources for those individuals and companies that use the GNOME "
 "development platform."
 msgstr ""
+"<strong>Soporte.</strong> El sitio web developer.gnome.org contiene una "
+"amplia variedad de recursos para aquellos individuos y compañías que usan la "
+"plataforma de desarrollo GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:701(html/h3)
 msgid "NEW WEB PAGE"
@@ -1193,6 +1208,8 @@ msgid ""
 "The introduction of GNOME 1.2 is accompanied by a new web site design. Check "
 "it out at<_:a-1/>"
 msgstr ""
+"La introducción de GNOME 1.2 está acompañada por un diseño nuevo del sitio "
+"web. Consúltela en <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:703(p/a)
 msgid "http://gnotices.gnome.org/gnome-news/"
@@ -1201,6 +1218,8 @@ msgstr "http://gnotices.gnome.org/gnome-news/"
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:703(html/p)
 msgid "Updates and news the GNOME community are available daily from <_:a-1/>"
 msgstr ""
+"Hay actualizaciones y noticias de la comunidad GNOME disponibles diariamente "
+"en  <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:704(html/h3)
 msgid "SOURCE CODE AVAILABILITY"
@@ -1235,6 +1254,8 @@ msgid ""
 "Helix Code provides easy-to-install packages for GNOME 1.2. Installation "
 "instructions can be found here:"
 msgstr ""
+"«Helix Code» proporciona paquetes de instalación fácil para GNOME 1.2. Las "
+"instrucciones de instalación se pueden encontrar en:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:711(p/a)
 msgid "http://www.helixcode.com/desktop/download.php3"
@@ -1242,7 +1263,7 @@ msgstr "http://www.helixcode.com/desktop/download.php3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:712(html/p)
 msgid "An extensive set of platforms are supported:"
-msgstr ""
+msgstr "Se soporta un conjunto extenso de plataformas"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:713(html/p)
 msgid ""
@@ -1250,22 +1271,29 @@ msgid ""
 "TurboLinux 6.0<br/> Red Hat Linux 6.0, 6.1 and 6.2<br/> Linux Mandrake 6.1, "
 "7.0<br/> Caldera OpenLinux eDesktop 2.4<br/> SuSE 6.3 (6.4 coming soon)"
 msgstr ""
+"<strong>Linux/Intel:</strong><br/> Debian GNU/Linux (Woody, Potato)<br/> "
+"TurboLinux 6.0<br/> Red Hat Linux 6.0, 6.1 y 6.2<br/> Linux Mandrake 6.1, "
+"7.0<br/> Caldera OpenLinux eDesktop 2.4<br/> SuSE 6.3 (pronto 6.4)"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:720(html/p)
 msgid ""
 "<strong>Linux/PPC</strong><br/> LinuxPPC 2000<br/> Yellow Dog Linux Champion "
 "Server 1.2"
 msgstr ""
+"<strong>Linux/PPC</strong><br/> LinuxPPC 2000<br/> Yellow Dog Linux Champion "
+"Server 1.2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:723(html/p)
 msgid "<strong>SPARC:</strong><br/> Solaris 2.7 on UltraSparc"
-msgstr ""
+msgstr "<strong>SPARC:</strong><br/> Solaris 2.7 en UltraSparc"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:725(html/p)
 msgid ""
 "Helix Code’s web site uses Akamai to ensure that downloads are speedy from "
 "every corner of the planet."
 msgstr ""
+"El sitio web de «Helix Code» usa «Akamai» para asegurar que las descargas sean "
+"rápidas desde cualquier punto del planeta."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:726(html/h3)
 msgid "SCREENSHOTS"
@@ -1276,6 +1304,8 @@ msgid ""
 "If you want to see just how beautiful a desktop can be before downloading "
 "GNOME 1.2, check out:"
 msgstr ""
+"Para ver lo bonito que puede ser un escritorio antes de descargar GNOME 1.2, "
+"consulte:"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:728(p/a)
 msgid "http://www.helixcode.com/desktop/screenshots.php3"
