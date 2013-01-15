@@ -83,9 +83,6 @@ if (array_key_exists('submit', $_POST)) {
 
                     <h2 style="text-align: center;">Application Form</h2>
 
-We are currently experiencing some issues with our hardware, so the database is currently offline. We are therefore unable to process new applications. Please stop by soon again!
-
-<!--
                     <form action="" method="post" id="application_form">
 
                         <style type="text/css">
@@ -199,7 +196,6 @@ We are currently experiencing some issues with our hardware, so the database is 
                         </div>
                         
                     </form>
--->                    
                 <?php endif; ?>
                 
                 <br />
