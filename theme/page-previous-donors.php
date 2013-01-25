@@ -37,8 +37,6 @@ require_once("header.php"); ?>
             <?php require_once('inc/page-title.php'); ?>
             
             <div class="content without_sidebar">
-            <?php while ( have_posts() ) : the_post(); ?>
-                <?php the_content(); ?>
                 
                 <?php
                 
@@ -62,6 +60,9 @@ require_once("header.php"); ?>
                 }
                 ?>
                 
+            <?php while ( have_posts() ) : the_post(); ?>
+                <?php the_content(); ?>
+
             <?php endwhile; // End the loop. Whew. ?>
                 <br />
                 <div class="clear"></div>
