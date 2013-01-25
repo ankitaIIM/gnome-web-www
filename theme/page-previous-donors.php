@@ -27,7 +27,7 @@ foreach (array(
             $donors_file = file_get_contents($url);
 
             // keeps a 24-hour cache until another HTTP request
-            $set_transient($cache_name, $donors, 60*60*24);
+            set_transient($cache_name, $donors, 60*60*24);
         }
         $donors[$year][$level] = array();
 
