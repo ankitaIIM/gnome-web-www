@@ -21,17 +21,18 @@ foreach (array(
     $donors[$year] = array();
     
     foreach ($fname_dispname_map as $level => $disp_name) {
-        if (false === ($donors_file = get_transient("friends_of_gnome_{$year}_{$level}"))) {
+        $cache_name = "fog_donors_{$year}_{$level}";
+        if (false === ($donors_file = get_transient($cache_name))) {
             $url = "http://people.gnome.org/~tobiasmue/fog/{$year}-{$level}.txt";
             $donors_file = file_get_contents($url);
+
+            // keeps a 24-hour cache until another HTTP request
+            $set_transient($cache_name, $donors, 60*60*24);
         }
         $donors[$year][$level] = array();
 
         $donors[$year][$level] = explode("\n", $donors_file);
 
-        // keeps a 24-hour cache until another HTTP request
-        // to get the members list
-        set_transient("friends_of_gnome_{$year}_{$level}", $donors, 60*60*24);
     }
 }
 
