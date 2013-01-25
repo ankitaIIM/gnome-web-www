@@ -2,7 +2,17 @@
 
 $donors = array();
 
+/* A simple mapping for the internal and the display name */
+$fname_dispname_map = array(
+        'adopt-a-hacker-annual' => 'Adopt a Hacker - Annual',
+        'adopt-a-hacker-monthly' => 'Adopt a Hacker - Monthly',
+        'philanthropist' => 'Philanthropist',
+        'sponsor' => 'Sponsor',
+        'associate' => 'Associate',
+    );
+
 foreach (array(
+    2013,
     2012,
     2011,
     2010,
@@ -10,7 +20,7 @@ foreach (array(
     
     $donors[$year] = array();
     
-    foreach (array('philanthropist', 'sponsor', 'associate') as $level) {
+    foreach ($fname_dispname_map as $level => $disp_name) {
         if (false === ($donor_file = get_transient("friends_of_gnome_{$year}_{$level}"))) {
             $url = "http://people.gnome.org/~tobiasmue/fog/{$year}-{$level}.txt";
             $donors_file = file_get_contents($url);
@@ -46,7 +56,7 @@ require_once("header.php"); ?>
                     foreach ($level_array as $level => $donor_array) {
                         $level_count = count($donor_array);
                         if ($level_count > 1) { // The count behaves weirdly for me. Always +1.
-                            echo "<h4>$level</h4>\n";
+                            echo "<h4>$fname_dispname_map[$level]</h4>\n";
                             echo '<ul style="list-style-type: disc;">'."\n";
                             foreach ($donor_array as $donor_line) {
                                 $donor = trim($donor_line, "\x00..\x20");
