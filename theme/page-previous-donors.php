@@ -24,10 +24,12 @@ foreach (array(
         $cache_name = "fog_donors_file_{$year}_{$level}";
         if (false === ($donors_file = get_transient($cache_name))) {
             $url = dirname(__FILE__) . "/fog_donors/{$year}-{$level}.txt";
-            $donors_file = file_get_contents($url);
-
-            // keeps a 24-hour cache until another HTTP request
-            set_transient($cache_name, $donors_file, 60);
+            if (false === ($donors_file = file_get_contents($url))) {
+                continue;
+            } else {
+                // keeps an hour cache
+                set_transient($cache_name, $donors_file, 60*60*1);
+            }
         }
         $donors[$year][$level] = array();
 
