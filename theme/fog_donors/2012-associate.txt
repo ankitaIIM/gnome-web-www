@@ -2,6 +2,7 @@ Aaron Honeycut
 Adam Stovicek
 Aditya Naga Hemanth Kumar Veluguri
 Ahmad Mouri Sardarabadi
+Alan Morgan
 Albert Hopkins
 Alessio Dessi
 Alexander Bandukwala
@@ -23,7 +24,6 @@ Aurimas Fiseras
 Baron Schwartz
 Bart Ratgers
 Bastian Ilsø Hougaard
- because we happen to be 
 Ben Kelsey
 Benoit Puel
 Borut Hadzialic
@@ -49,7 +49,9 @@ Dagfinn Reiakvam
 Daniel Aleksandersen
 Daniel Glassey
 Daniel Melendro Garcia
+Daniel Quinn
 Daniil Ustinov
+Dan Scott
 David Balogh
 Davide Bisaschi
 Dillon Gilmore
@@ -73,6 +75,8 @@ Ethan Isaacson
 Evan Derickson
 Fabio Moriondo
 Fanen Ahua
+Faron Anslow
+Florian Bäuerle
 Francisco de la Peña Fernández
 Frank Groeneveld
 FREDERIC BOULET
@@ -94,6 +98,7 @@ Hektor Gibson
 Henry-Nicolas Tourneur
 HIPERIA TECH
 Hubert lósarski
+Igor Milhit
 Igor Tarasov
 Ilja Sekler
 Ilya Ryabinkin
@@ -111,8 +116,11 @@ Jeremie Laval
 Jim Patterson
 Jochen Kirchner
 Jochen Temmen
+Joel Dimbernat
+Joel Luellwitz
 Joel Zamboni
 john abbott
+John Tuke
 Joseph Braddock
 jose rojas echenique
 Jose Velez
@@ -134,12 +142,14 @@ Kevin Anderson
 Kobbe SUN
 Kootenay Networks I.T.
 Lars Brunke
+Laurent GUILLOUX
 Leano Benefico
 Lennart Reuther
 Leonard Evens
 Levis Kimotho
 Lezhenin Ilia
 Lilianne Dupuis
+Luca Daghino
 Luigi Maselli
 Luke Benstead
 Maciej Kaniewski
@@ -167,6 +177,8 @@ Matt Piermarini
 Max Ehrlich
 Michael Catanzaro
 Michael Lange
+Michael Lewis
+Michael Linksvayer
 Michael Schmid
 Michael Smolle
 Michel Machado
@@ -208,6 +220,7 @@ Robert Emerson
 Roberto Revelli
 Robinson P Tryon
 Rob Middleton
+Rodrigo Silva
 Romain Failliot
 Roxerio Roxo Carrillo
 Rudieri Turchiello Colbek
@@ -234,13 +247,15 @@ Stefano Zamuner
 Stefan Schindler
 Stefan Tirel
 Stef de Zeeuw
-Stephan Hooft
 Stéphane Laurière
+Stephan Hooft
 Sven Meier
 Sven Pilz
 Terrall R Salentine
+Terry Smith
 Thomas Repetti
 thomas wheeler
+Thor Morten Skogrand
 Tijn Schuurmans
 Tim Anderson
 Timothy Hartlage
@@ -252,6 +267,7 @@ VASILY KOTIKOV
 Verkhoturov Dmitry
 Vincent Untz
 Waldemar WebWare
+Waldir Leoncio
 William Söderberg
 ZHU XUN
 Zolotorev Sergey
