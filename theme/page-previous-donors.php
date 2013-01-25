@@ -21,7 +21,7 @@ foreach (array(
     $donors[$year] = array();
     
     foreach ($fname_dispname_map as $level => $disp_name) {
-        if (false === ($donor_file = get_transient("friends_of_gnome_{$year}_{$level}"))) {
+        if (false === ($donors_file = get_transient("friends_of_gnome_{$year}_{$level}"))) {
             $url = "http://people.gnome.org/~tobiasmue/fog/{$year}-{$level}.txt";
             $donors_file = file_get_contents($url);
         }
