@@ -108,7 +108,7 @@ require_once("header.php"); ?>
                     
                         <?php
                         
-                        query_posts (array('post_type' => 'post', 'posts_per_page' => 3, 'cat' => '-4'));
+                        query_posts (array('post_type' => 'post', 'posts_per_page' => 3));
                         
                         while ( have_posts() ) : the_post();
                         ?>
