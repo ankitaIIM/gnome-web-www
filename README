@@ -1,27 +1,16 @@
-PLEASE READ BEFORE COMMITTING CHANGES TO WWW.GNOME.ORG
+READ CAREFULLY: PLEASE ASK FOR PERMISSION TO EITHER THE GNOME
+SYSADMIN TEAM OR THE GNOME WEBSITE TEAM BEFORE COMMITTING ANYTHING
+TO THIS REPOSITORY, ESPECIALLY FOR THE FILES UNDER THE THEME/ DIRECTORY.
 
-The gnome-web-www's repository currently has two branches:
+TRANSLATORS CAN IMPORT THE .PO FILES INTO THE TRANSLATIONS/ DIRECTORY.
+
+Repository structure:
+
+The gnome-web-www's repository currently has one main branch:
 
 - master (linked to www.gnome.org) 
-- wptest (linked to wptest.gnome.org)
 
-As you can see, each branch is linked to a git's hook that automatically
-updates a relevant GNOME website by grabbing the latest content from the
-above repositories. Wptest exists as a testing bed for changes to be made at wgo.
+As you can see, the master branch is linked to a git's hook that automatically
+updates the website hosted at www.gnome.org by grabbing the latest content from the
+above repositories.
 
-That said, if you want to test your changes before deploying them on the main wgo website,
-please commit them to the wptest branch first, but how can you do that? There are two ways to
-handle that:
-
-1. git clone -b wptest ssh://USERNAME@git.gnome.org/git/gnome-web-www
-2. git clone ssh://USERNAME@git.gnome.org/git/gnome-web-www ; git checkout wptest
-
-The first command will directly clone the wptest branch itself, then you'll
-just have to edit something, commit it and push it with a simple git push. (i.e without
-specifying branch's name) From there, once your changes have been tested, by looking at the changes on wptest.gnome.org, and approved, you will need to add the changes to the master branch by:
-1. git checkout master
-2. git merge wptest
-
-The second command will clone the entire repository and switch you to the
-wptest branch, you can then move to edit files, commit, merge from master
-and push to the desired branch.
