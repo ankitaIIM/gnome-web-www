@@ -61,3 +61,29 @@
     margin-bottom: 0;
 }
 
+/*
+Custom hacks for civicrm
+This file gets applied after everything else, so this is why we put the code here.
+FIXME move this code out of here at a later date and put it in a better place.
+Possibly civicrm.css
+ */
+
+#crm-container div#printer-friendly {
+	display: none;
+}
+
+#home_banner #crm-container {
+	text-align: left;
+}
+
+#crm-container .crm-section .content, .crm-section .content {
+	margin-left: 10px;
+}
+
+.auto-renew .content {
+	margin-left: 16%;
+}
+
+.crm-auto-renew-cancel-info {
+	display: block;
+}
