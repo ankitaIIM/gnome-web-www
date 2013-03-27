@@ -61,8 +61,10 @@ The GNOME Project is a diverse international community which involves hundreds o
 ?>
 
         <div class="grid_4">
-            <strong><?php the_title(); ?></strong>
-	    <?php echo strip_tags(get_the_excerpt()); ?>
+            <a href="<?php the_permalink(); ?>">
+                <strong><?php the_title(); ?></strong>
+	        <?php echo strip_tags(get_the_excerpt()); ?>
+            </a>
         </div>
 
 <?php
