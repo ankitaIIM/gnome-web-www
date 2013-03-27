@@ -23,13 +23,13 @@ require_once("header.php"); ?>
     <div class="crafted_content">
         <div class="section image-left">
             <div class="image">
-                <a href="/wp-content/uploads/2013/03/window-selection-3-8.png"><img src="/wp-content/uploads/2013/03/window-selection-3-8-420x236.png" alt=""></a></div>
-                <div class="text">
-                    <h3>GNOME 3: Ease, comfort and control</h3>
-                    <p>GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.</p>
+                <a href="/wp-content/uploads/2013/03/window-selection-3-8.png"><img src="/wp-content/uploads/2013/03/window-selection-3-8-420x236.png" alt=""></a>
+            </div>
+            <div class="text">
+                <h3>GNOME 3: Ease, comfort and control</h3>
+                <p>GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.</p>
 
-                    <p style="text-align: center;"><a class="action_button" href="gnome-3">Discover GNOME 3</a></p>
-                </div>
+                <p style="text-align: center;"><a class="action_button" href="gnome-3">Discover GNOME 3</a></p>
             </div>
         </div>
     </div>
@@ -66,13 +66,12 @@ The GNOME Project is a diverse international community which involves hundreds o
    endwhile;
 ?>
 
-</div>
-
 <!-- END container -->
                
         <?php require_once("footer_art.php"); ?>
         </div>
     </div>
+</div>
     
     <div class="clearfix"></div>
     
