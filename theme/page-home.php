@@ -60,7 +60,10 @@ The GNOME Project is a diverse international community which involves hundreds o
     while ( have_posts() ) : the_post();
 ?>
 
-        <div class="grid_4">
+        <div class="grid_4 news">
+            <span class="date">
+                <?php the_date(); ?>
+            </span>
             <a href="<?php the_permalink(); ?>">
                 <strong><?php the_title(); ?></strong>
 	        <?php echo strip_tags(get_the_excerpt()); ?>
