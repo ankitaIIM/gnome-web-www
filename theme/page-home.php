@@ -52,7 +52,7 @@ The GNOME Project is a diverse international community which involves hundreds o
 <!-- news -->
 
     <h2>Latest news</h2>
-    <div class="news-list">
+    <div class="news_list">
 <?php
 
     query_posts (array('post_type' => 'post', 'posts_per_page' => 3));

@@ -698,11 +698,10 @@ dl.icon_list dt img {
  */
 
 .news_list {
-    background: red;
 }
+
 .news_list .news {
     margin-bottom: 20px;
-    background: blue;
 }
 .news_list .news .date {
     font-family: 'Droid Serif', 'DejaVu Serif', Cambria, Georgia, serif;
