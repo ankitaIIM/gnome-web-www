@@ -700,9 +700,8 @@ dl.icon_list dt img {
 .news_list {
 }
 
-.news:first-child {
+.grid_4.news:first-child {
     margin-left: 0;
-    background: red;
 }
 
 .news_list .news strong {
