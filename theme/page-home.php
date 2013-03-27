@@ -48,8 +48,11 @@ The GNOME Project is a diverse international community which involves hundreds o
 
     <hr class="top_shadow"/>
 
-    <h2>Latest news</h2>
 
+<!-- news -->
+
+    <h2>Latest news</h2>
+    <div class="news-list">
 <?php
 
     query_posts (array('post_type' => 'post', 'posts_per_page' => 3));
@@ -57,14 +60,18 @@ The GNOME Project is a diverse international community which involves hundreds o
     while ( have_posts() ) : the_post();
 ?>
 
-    <div class="grid_4">
-        <strong><?php the_title(); ?></strong>
-	<?php echo strip_tags(get_the_excerpt()); ?>
-    </div>
+        <div class="grid_4">
+            <strong><?php the_title(); ?></strong>
+	    <?php echo strip_tags(get_the_excerpt()); ?>
+        </div>
 
 <?php
    endwhile;
 ?>
+
+    </div>
+<!-- news -->
+
 
 <!-- END container -->
                
