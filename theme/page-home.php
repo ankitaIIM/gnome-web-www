@@ -74,6 +74,8 @@ The GNOME Project is a diverse international community which involves hundreds o
    endwhile;
 ?>
 
+    <p><a href="/news/" class="action_button">News Archives</a></p>
+
     </div>
 <!-- news -->
 
