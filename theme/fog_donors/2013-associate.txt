@@ -2,9 +2,11 @@ Albert Vernon
 Alexandre H Abdo
 Alexandre Savio
 Benjamin Lebsanft
+Botond Denes
 Che-Hsun Liu
 Christian Lucas
 Christopher Hanson
+Edgar Jimenez
 Francisco de la Peña
 HAJIME MIZUNO
 Jacob Larsen
@@ -17,6 +19,7 @@ Matj Tý
 Matthieu COUDERT
 Michael Lissner
 Peter Ulber
+Richard Bodo
 Roger Lancefield
 Simon Wenner
 Suresh Kadthan
