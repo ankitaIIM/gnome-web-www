@@ -700,6 +700,10 @@ dl.icon_list dt img {
 .news_list {
 }
 
+.news_list div:first {
+    margin-left: 0;
+}
+
 .news_list .news strong {
     display: block;
 }
