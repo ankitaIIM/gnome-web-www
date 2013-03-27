@@ -706,6 +706,7 @@ dl.icon_list dt img {
 
 .news_list .news strong {
     display: block;
+    min-height: 54px;
 }
 
 .news_list .news {
