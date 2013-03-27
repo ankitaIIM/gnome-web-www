@@ -731,6 +731,7 @@ dl.icon_list dt img {
 
 .news_list .action_button {
     float: right;
+    margin-bottom: 0.8em;
 }
 
 /* Page Navigation */
