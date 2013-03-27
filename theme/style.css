@@ -702,6 +702,7 @@ dl.icon_list dt img {
 
 .news_list:first-child {
     margin-left: 0;
+    background: red;
 }
 
 .news_list .news strong {
