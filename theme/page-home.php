@@ -41,7 +41,7 @@ require_once("header.php"); ?>
 Your donation will ensure that GNOME continues to be a free and open source desktop by providing resources to developers, software and education for end users, and promotion for GNOME worldwide.
     </div>
 
-    <div class="grid_6 omega">
+    <div class="grid_6 omega" style="margin-bottom: 0.8em;">
         <h4><a href="get-involved">Get involved!</a></h4>
 The GNOME Project is a diverse international community which involves hundreds of contributors, many of whom are volunteers. Anyone can contribute to the GNOME!
     </div>

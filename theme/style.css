@@ -729,7 +729,9 @@ dl.icon_list dt img {
     text-decoration: underline;
 }
 
-
+.news_list .action_button {
+    float: right;
+}
 
 /* Page Navigation */
 /* ========================================================================== */
