@@ -1080,8 +1080,9 @@ hr.bottom_shadow {
 	font-weight: bold;
 }
 
-.crm-section.content {
+.crm-section .content {
 	margin-left: 0;
+	background: red !important;
 }
 
 
