@@ -68,6 +68,7 @@ FIXME move this code out of here at a later date and put it in a better place.
 Possibly civicrm.css
  */
 
+/*
 #crm-container div#printer-friendly {
 	display: none;
 }
@@ -86,4 +87,19 @@ Possibly civicrm.css
 
 .crm-auto-renew-cancel-info {
 	display: block;
+}
+*/
+
+.crm-group legend {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.crm-section.content {
+	margin-left: 0;
+}
+
+
+.crm-section {
+	margin-bottom: 10px;
 }

@@ -61,8 +61,7 @@ if (is_single() || is_page()) {
         </ul>
     </div>
 
-<!--
-Donation ruler for when we run campaigns -->
+<!-- Donation ruler for when we run campaigns -->
 <script type="text/javascript" src="http://www-old.gnome.org/friends/ruler/ruler-privacy.js">  </script>
     
     <!-- global gnome.org domain bar -->
