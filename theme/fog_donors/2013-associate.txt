@@ -64,3 +64,6 @@ Stefan Schindler
 Christine Spang
 Brian Fagioli
 js darnell
+Bruno de Mello
+Adam Dingle
+Stanislaw Kulczycki
