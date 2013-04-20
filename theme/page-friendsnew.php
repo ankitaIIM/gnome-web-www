@@ -18,37 +18,8 @@ require_once("header.php"); ?>
             <?php endwhile; // End the loop. Whew. ?>
 
 
-   
-              <h4>Donate today to help make GNOME safer than ever!</h4>
-
-              GNOME was founded with the
-              goal of promoting software freedom. We remain committed to the empowerment of our
-              users, and are always looking for ways to improve our software. We want people to be
-              safe, in control, and enriched by the software they use. The GNOME community was
-              inspired by the keynote delivered by Jacob Applebaum on the topic of privacy at this
-              years' GUADEC and was reminded of our mission. To this end, GNOME is working on a new
-              campaign focused on privacy. Through this campaign, we aim to enhance GNOME 3 so that
-              it offers one of the most secure computing environments available. Proceeds from the
-              privacy fundraising campaign will be used to fund development efforts such as:
-            
-              <ul>
-                <li>application containment</li>
-            
-                <li>enhanced disk encryption support</li>
-            
-                <li>Tor integration</li>
-            
-                <li>user control over diagnostic reporting features</li>
-            
-                <li>robust VPN routing</li>
-            
-                <li>application integration with system-wide privacy settings</li>
-            
-                <li>controls for how GNOME devices are identified on local networks</li>
-            
-                <li>anti-phishing features for Web, GNOME's web browser</li>
-              </ul>
-            
+              <!-- Page content has finished, now it's the template -->
+              
               <div class="container_24">
                 <div class="grid_18">
                   <div id="boxes">
@@ -99,12 +70,37 @@ require_once("header.php"); ?>
             
                   <div id="below">
                     <p id="donation-details">Please select your donation level</p>
-            
-                    <form id="adopt-form" action="https://www.paypal.com/cgi-bin/webscr" method=
-                    "post" name="adopt-form">
+
+<?php
+function print_form_head($form_name, $product_name) {
+?>
+        <form id="<?php echo "$form_name";?>"
+            action="https://www.paypal.com/cgi-bin/webscr"
+            method="post" name="<?php echo "$form_name";?>">
+                <input type="hidden" name="business" value="friends@gnome.org" />
+                <input type="hidden" name="return" value="http://www.gnome.org/thank-you/" />
+                  <input type="hidden" name="item_name" value="<?php echo "$product_name"; ?>" />
+                  <input type="hidden" name="notify_url" value="https://muelli.cryptobitch.de/paypaltest/ipnhandler.php" /> 
+<?php } /* print_form_head */ ?>
+
+
+                    <?php print_form_head("adopt-form", "Friends of GNOME - Adopt a hacker monthly subscription"); ?>
+                      
+                      <!-- Specify a Subscribe button. -->
+                      <input type="hidden" name="cmd" value="_xclick-subscriptions" />
+
+                      <!-- Define the intervals between payments. "1" means every period. -->
+                      <input type="hidden" name="p3" value="1" />
+                      <!-- "t3" defines the period duration (D=days; W=weeks; M=months and Y=Years). -->
+                      <input id="t3" type="hidden" name="t3" value="M" />
+                      <!-- "src" with a value of "1" causes it to repeat for every interval. -->
+                      <input type="hidden" name="src" value="1" />
+                      <!-- Reattempt on failure. If a recurring payment fails, PayPal attempts to collect the payment two more times before canceling the subscription. See https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&#038;content_ID=developer/e_howto_html_Appx_websitestandard_htmlvariables -->
+                      <input type="hidden" name="sra" value="1" />
+
                       You have chosen to <strong>adopt a hacker</strong> for a monthly amount of:
                       <input id="amount" type="text" name="a3" size="5" value="10" />
-                      <!-- Alright, this is stupid. Wordpress inserts a br here *sigh* --><select name="currency_code">
+                      <select name="currency_code">
                         <option value="USD">
                           $ USD
                         </option>
@@ -112,8 +108,7 @@ require_once("header.php"); ?>
                         <option value="EUR">
                           &euro; EUR
                         </option>
-                      </select> <input type="hidden" name="notify_url" value=
-                      "https://muelli.cryptobitch.de/paypaltest/ipnhandler.php" />
+                      </select>
                       <small>Please increase the amount above if you want to make a larger difference.</small>
             
                       <p style="text-align: left;"><span style="color: #993300;">PLEASE NOTE</span>:
@@ -121,8 +116,8 @@ require_once("header.php"); ?>
                       you contact the <a href="http://www.gnome.org/foundation/">GNOME Foundation</a>
                       to cancel the payments.</p>
             
-                      <h5>Pick a hacker from whom you will receive a post card:</h5><input type=
-                      "hidden" name="on0" value="Favorite Hacker" />
+                      <h5>Pick a hacker from whom you will receive a post card:</h5>
+                      <input type="hidden" name="on0" value="Favorite Hacker" />
             
                       <div class="wrapper">
                         <ul>
@@ -195,41 +190,59 @@ require_once("header.php"); ?>
                         </ul>
                       </div>
             
-                      <h5>Do you want to receive a gift?:</h5><input type="hidden" name="on1" value=
-                      "Donation Gift" /> <input type="radio" checked="checked" name="os1" value=
-                      "Yes" />Yes <input type="radio" name="os1" value="No" />No <small>Your gifts
-                      will be mailed out after a year of monthly contributions or a single upfront
-                      annual payment. If you do not want to receive a gift, we will save the money
-                      for the gift and shipping and use it to further the mission of the GNOME
-                      Project, bringing a free desktop to the public.</small>
+<?php
+/*
+ * print_form_questions_gift_listname_note
+ * 
+ * Simply print form elements to ask whether a gift should be sent or the donor wants to be listed.
+ * And a free text area.
+ * It also sets option 4 ("variables_epoch") to "1". We'll see whether this will help
+ * processing IPNs. In the future, when the number or names of the options are changed
+ * and the epoch is bumped, a script could use that information to determine how to
+ * parse the IPN.
+ */
+function print_form_questions_gift_listname_note() {
+?>
+                      <h5>Do you want to receive a gift?</h5>
+                      <input type="hidden" name="on1" value="Donation Gift" />
+                      <input type="radio" checked="checked" name="os1" value="Yes" />Yes
+                      <input type="radio" name="os1" value="No" />No
+                      <small>If you do not want to receive a gift, we will save the money for the gift and shipping and
+                      use it to further the mission of the GNOME Project, bringing a free desktop to
+                      the public.</small>
             
-                      <h5>T-shirt size:</h5><input type="hidden" name="on3" value="T-shirt Size" />
-                      <input type="radio" name="os3" value="M" />M <input type="radio" checked=
-                      "checked" name="os3" value="L" />L <input type="radio" checked="checked" name=
-                      "os3" value="XL" />XL <input type="radio" name="os3" value="XXL" />XXL
+                      <h5>Do you want to have your name listed in the donors page?:</h5>
+                      <input type="hidden" name="on2" value="List name in the donors page" />
+                      <input type="radio" checked="checked" name="os2" value="Yes" />Yes
+                      <input type="radio" name="os2" value="No" />No
             
-                      <h5>Do you want to have your name listed in the donors page?:</h5><input type=
-                      "hidden" name="on2" value="List name in the donors page" /> <input type="radio"
-                      checked="checked" name="os2" value="Yes" />Yes <input type="radio" name="os2"
-                      value="No" />No
-            
+                      <input type="hidden" name="on4" value="variables_epoch" />
+                      <input type="hidden" name="os4" value="1" />
+
                       <h5>Additional comments or ideas on how we can improve the GNOME
                       Foundation:</h5>
-                      <textarea cols="88" name="custom" rows="7">
-            </textarea><input type="hidden" name="return" value=
-            "http://www.gnome.org/thank-you/" /><input type="hidden" name="business" value=
-            "friends@gnome.org" /><!-- Specify a Subscribe button. --><input type="hidden" name="cmd"
-                      value="_xclick-subscriptions" /><!-- Identify the subscription. --><input type=
-                      "hidden" name="item_name" value=
-                      "Friends of GNOME - Adopt a hacker monthly subscription" />
-                      <!-- Define the intervals between payments. "1" means every period. --><input type="hidden"
-                      name="p3" value="1" />
-                      <!-- "t3" defines the period duration (D=days; W=weeks; M=months and Y=Years). --><input id="t3"
-                      type="hidden" name="t3" value="M" />
-                      <!-- "src" with a value of "1" causes it to repeat for every interval. --><input type="hidden"
-                      name="src" value="1" />
-                      <!-- Reattempt on failure. If a recurring payment fails, PayPal attempts to collect the payment two more times before canceling the subscription. See https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&#038;content_ID=developer/e_howto_html_Appx_websitestandard_htmlvariables --><input type="hidden"
-                      name="sra" value="1" /><input type="hidden" name="currency_code" value="USD" />
+                      <textarea cols="88" name="custom" rows="7"> </textarea>
+<?php } /* print_form_questions_gift_listname_note */?>
+
+
+<?php
+/*
+ * print_form_shirts - Simply print form elements to ask for t-shirt size
+ *
+ */
+function print_form_shirts() {
+?>
+                      <h5>T-shirt size:</h5>
+                      <input type="hidden" name="on3" value="T-shirt Size" />
+                      <input type="radio" name="os3" value="M" />M
+                      <input type="radio" checked="checked" name="os3" value="L" />L
+                      <input type="radio" checked="checked" name="os3" value="XL" />XL
+                      <input type="radio" name="os3" value="XXL" />XXL
+<?php } /* print_form_shirts */?>
+
+                      <?php print_form_shirts(); ?>
+                      <?php print_form_questions_gift_listname_note(); ?>
+
                       <!-- Display the payment button. -->
                       <input type="image" alt="PayPal - The safer, easier way to pay online" name=
                       "submit" src=
@@ -238,13 +251,33 @@ require_once("header.php"); ?>
                       height="1" border="0" />
                     </form>
             
-                    <form id="associate-form" action="https://www.paypal.com/cgi-bin/webscr" method=
-                    "post" name="associate-form">
-                      <input type="hidden" name="notify_url" value=
-                      "https://muelli.cryptobitch.de/paypaltest/ipnhandler.php" /> You have chosen to
-                      become a <strong>associate</strong> for a one time amount of: <input id=
-                      "amount" type="text" name="amount" size="5" value="50" /> <select name=
-                      "currency_code">
+
+
+
+<?php
+/*
+ * A simple function that echos the standard FoG form to reduce redundancies
+ *
+ * level_name: Used for the id and name of the form as well as in the description text
+ *
+ * amount: The default value of the form
+ *
+ * product_name: A hidden option for PayPal to indicate the product name we are "selling".
+ *               We could probably get rid of that in favour of something generic like "GNOME Donation"
+ *               that would also make it much harder in the post processing to only depend on this product name
+ *               i.e. one would have to verify the amount of of money not the "product" that was sold. And
+ *               that is what should be done anyway as the amount is free form and lower bounds are not enforced.
+ */
+function printform($level_name, $amount, $product_name, $with_shirts=false) {
+?>
+                    <?php print_form_head($level_name, $product_name); ?>
+
+                      <input type="hidden" name="cmd" value="_xclick" />
+
+                      You have chosen to become a <strong><?php echo "$level_name";?></strong> for a one time amount of:
+
+                      <input id="amount" type="text" name="amount" size="5" value="<?php echo "$amount";?>" />
+                      <select name="currency_code">
                         <option value="USD">
                           $ USD
                         </option>
@@ -252,123 +285,25 @@ require_once("header.php"); ?>
                         <option value="EUR">
                           &euro; EUR
                         </option>
-                      </select> <small>Please increase the amount above if you want to make a larger
-                      difference.</small>
-            
-                      <h5>Do you want to receive a gift?</h5><input type="hidden" name="on1" value=
-                      "Donation Gift" /> <input type="radio" checked="checked" name="os1" value=
-                      "Yes" />Yes <input type="radio" name="os1" value="No" />No <small>If you do not
-                      want to receive a gift, we will save the money for the gift and shipping and
-                      use it to further the mission of the GNOME Project, bringing a free desktop to
-                      the public.</small>
-            
-                      <h5>Do you want to have your name listed in the donors page?:</h5><input type=
-                      "hidden" name="on2" value="List name in the donors page" /> <input type="radio"
-                      checked="checked" name="os2" value="Yes" />Yes <input type="radio" name="os2"
-                      value="No" />No
-            
-                      <h5>Additional comments or ideas on how we can improve the GNOME
-                      Foundation:</h5>
-                      <textarea cols="88" name="custom" rows="7">
-            </textarea><input type="hidden" name="business" value=
-                      "friends@gnome.org" /><input type="hidden" name="return" value=
-                      "http://www.gnome.org/thank-you/" /><input type="hidden" name="cmd" value=
-                      "_xclick" /><input type="hidden" name="item_name" value=
-                      "Friends of GNOME - Associate level donation ($25-500)" /><input type="image"
-                      alt="Donate" name="submit" src=
-                      "http://www.gnome.org/wp-content/themes/gnome-grass/images/donate-button.png" />
+                      </select>
+                      <small>Please increase the amount above if you want to make a larger difference.</small>
+
+                      <?php if ($with_shirts===true) {
+                        print_form_shirts();
+                      }
+                      ?>
+                      <?php print_form_questions_gift_listname_note(); ?>
+
+                      <input type="image" alt="Donate" name="submit" src="http://www.gnome.org/wp-content/themes/gnome-grass/images/donate-button.png" />
                       <small>You will be redirected to the Paypal website.</small>
                     </form>
-            
-                    <form id="sponsor-form" action="https://www.paypal.com/cgi-bin/webscr" method=
-                    "post" name="sponsor-form">
-                      <input type="hidden" name="notify_url" value=
-                      "https://muelli.cryptobitch.de/paypaltest/ipnhandler.php" /> You have chosen to
-                      become a <strong>sponsor</strong> for a one time amount of: <input id="amount"
-                      type="text" name="amount" size="5" value="500" />
-                      <!-- Alright, this is stupid. Wordpress inserts a br here *sigh* --><select name="currency_code">
-                        <option value="USD">
-                          $ USD
-                        </option>
-            
-                        <option value="EUR">
-                         &euro; EUR
-                        </option>
-                      </select> <small>Please increase the amount above if you want to make a larger
-                      difference.</small>
-            
-                      <h5>Do you want to receive a gift?</h5><input type="hidden" name="on1" value=
-                      "Donation Gift" /> <input type="radio" checked="checked" name="os1" value=
-                      "Yes" />Yes <input type="radio" name="os1" value="No" />No <small>If you do not
-                      want to receive a gift, we will save the money for the gift and shipping and
-                      use it to further the mission of the GNOME Project, bringing a free desktop to
-                      the public.</small>
-            
-                      <h5>Select a t-shirt size:</h5><input type="hidden" name="on3" value=
-                      "T-shirt Size" /> <input type="radio" name="os3" value="M" />M <input type=
-                      "radio" checked="checked" name="os3" value="L" />L <input type="radio" checked=
-                      "checked" name="os3" value="XL" />XL <input type="radio" name="os3" value=
-                      "XXL" />XXL
-            
-                      <h5>Do you want to have your name listed in the donors page?:</h5><input type=
-                      "hidden" name="on2" value="List name in the donors page" /> <input type="radio"
-                      checked="checked" name="os2" value="Yes" />Yes <input type="radio" name="os2"
-                      value="No" />No
-            
-                      <h5>Additional comments or ideas on how we can improve the GNOME
-                      Foundation:</h5>
-                      <textarea cols="88" name="custom" rows="7">
-            </textarea><input type="hidden" name="business" value=
-                      "friends@gnome.org" /><input type="hidden" name="return" value=
-                      "http://www.gnome.org/thank-you/" /><input type="hidden" name="cmd" value=
-                      "_xclick" /> <input type="hidden" name="item_name" value=
-                      "Friends of GNOME - Sponsor level donation ($500-1200)" /><input type="image"
-                      alt="Donate" name="submit" src=
-                      "http://www.gnome.org/wp-content/themes/gnome-grass/images/donate-button.png" />You
-                      will be redirected to the Paypal Site.
-                    </form>
-            
-                    <form id="philanthropist-form" action="https://www.paypal.com/cgi-bin/webscr"
-                    method="post" name="philanthropist-form">
-                      <input type="hidden" name="notify_url" value=
-                      "https://muelli.cryptobitch.de/paypaltest/ipnhandler.php" /> You have chosen to
-                      become a <strong>philanthropist</strong> for a one time amount: <input id=
-                      "amount" type="text" name="amount" size="5" value="1200" />
-                      <!-- Alright, this is stupid. Wordpress inserts a br here *sigh* --><select name="currency_code">
-                        <option value="USD">
-                          $ USD
-                        </option>
-            
-                        <option value="EUR">
-                          &euro; EUR
-                        </option>
-                      </select> <small>Please increase the amount above if you want to make a larger
-                      difference.</small>
-            
-                      <h5>Do you want to receive a gift?:</h5><input type="hidden" name="on1" value=
-                      "Donation Gift" /> <input type="radio" checked="checked" name="os1" value=
-                      "Yes" />Yes <input type="radio" name="os1" value="No" />No <small>If you do not
-                      want to receive a gift, we will save the money for the gift and shipping and
-                      use it to further the mission of the GNOME Project, bringing a free desktop to
-                      the public.</small>
-            
-                      <h5>Do you want to have your name listed in the donors page?:</h5><input type=
-                      "hidden" name="on2" value="List name in the donors page" /> <input type="radio"
-                      checked="checked" name="os2" value="Yes" />Yes <input type="radio" name="os2"
-                      value="No" />No
-            
-                      <h5>Additional comments or ideas on how we can improve the GNOME
-                      Foundation:</h5>
-                      <textarea cols="88" name="custom" rows="7">
-            </textarea> <input type="hidden" name="business" value="friends@gnome.org" />
-                      <input type="hidden" name="return" value="http://www.gnome.org/thank-you/" />
-                      <input type="hidden" name="cmd" value="_xclick" /> <input type="hidden" name=
-                      "item_name" value=
-                      "Friends of GNOME - Philanthropist level donation ($1200 or more)" />
-                      <input type="image" alt="Donate" name="submit" src=
-                      "http://www.gnome.org/wp-content/themes/gnome-grass/images/donate-button.png" />
-                       <small>You will be redirected to the Paypal website.</small>
-                    </form>
+
+<?php } /* printform */?>
+
+                    <?php printform("associate", "50", 'Friends of GNOME - Associate level donation ($25-500)');?>
+                    <?php printform("sponsor", "500", 'Friends of GNOME - Sponsor level donation ($500-1200)', $with_shirts=true);?>
+                    <?php printform("philanthropist", "1200", 'Friends of GNOME - Philanthropist level donation ($500-1200)');?>
+
                   </div>
             
                   <p style="text-align: center;"><small>GNOME Foundation is a 501(c)3 non-profit
