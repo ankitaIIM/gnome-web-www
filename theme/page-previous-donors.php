@@ -24,7 +24,8 @@ foreach (array(
         $cache_name = "fog_donors_file_{$year}_{$level}";
         if (false === ($donors_file = get_transient($cache_name))) {
             $url = dirname(__FILE__) . "/fog_donors/{$year}-{$level}.txt";
-            if (false === ($donors_file = file_get_contents($url))) {
+            if (false === ($donors_file = file_get_contents($url)) ||
+                strlen($donors_file) == 0) {
                 continue;
             } else {
                 // keeps an hour cache
