@@ -17,11 +17,14 @@ if (array_key_exists('submit', $_POST)) {
     }
     
     $summary = trim(stripslashes($_POST['summary']));
-    $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
-    $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
+	echo "<h1>";	
+	echo $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+	echo "<br>";
+    echo $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
+	echo "</h1>";
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
-    if (empty($full_name) || empty($email) || empty($summary)) {
+    if (empty($full_name) || empty($email) || empty($summary) || empty($gnome_mail_alias) || empty($gnome_jabber)) {
         $errors = true;
     }
     
@@ -34,8 +37,8 @@ if (array_key_exists('submit', $_POST)) {
                     "Email:     " . $obfuscated_email . "\n\n" .
 
 		    "Benefits\n" .
-                    "Mail alias: " . ($gnome_mail_alias == 'alias_checked' ? "Yes" : "No") . "\n".
-                    "Jabber Account: " . ($gnome_jabber == 'jabber_checked' ? "Yes" : "No") . "\n\n" .
+                    "Mail alias: " . ($gnome_mail_alias == 'on' ? "Yes" : "No") . "\n".
+                    "Jabber Account: " . ($gnome_jabber == 'on' ? "Yes" : "No") . "\n\n" .
                     
                     "Contributions Summary:\n" .
                     $summary . "\n\n" .
@@ -183,7 +186,7 @@ if (array_key_exists('submit', $_POST)) {
                             <tr>
                               <td colspan="2">
                                  <input type="checkbox" name="gnome_mail_alias"
-                                 <?php if ($gnome_mail_alias) { ?> checked="alias_checked" <?php } ?> />
+                                 <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> />
                                  @gnome.org Mail Alias
                               </td>
                             </tr>
@@ -193,7 +196,7 @@ if (array_key_exists('submit', $_POST)) {
                             <tr>
                               <td colspan="2">
                                  <input type="checkbox" name="gnome_jabber"
-                                 <?php if ($gnome_jabber) { ?> checked="jabber_checked" <?php } ?> />
+                                 <?php if ($gnome_jabber) { ?> checked="checked" <?php } ?> />
                                  Jabber Account
                               </td>
                             </tr>
