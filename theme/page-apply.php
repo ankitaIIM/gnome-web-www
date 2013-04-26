@@ -191,7 +191,7 @@ if (array_key_exists('submit', $_POST)) {
                               <td colspan="2">
                                  <input type="checkbox" name="gnome_mail_alias"
                                  <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> />
-                                 @gnome.org Mail Alias (in the form of uid@gnome.org, please read the username's policy at the following <a href="https://live.gnome.org/AccountNamePolicy">link</a>.
+                                 @gnome.org Mail Alias (in the form of uid@gnome.org, please read the username's policy at the following <a href="https://live.gnome.org/AccountNamePolicy">link</a>.)
                               </td>
                             </tr>
                         </table>
