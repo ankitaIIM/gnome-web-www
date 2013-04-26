@@ -179,7 +179,7 @@ if (array_key_exists('submit', $_POST)) {
                             </p>						
 
                         <div class="item">
-                            <label for="gnome_mail_alias">@gnome.org Mail Alias</label>
+                            <label for="gnome_mail_alias">Mail Alias</label>
                             <input name="gnome_mail_alias" id="gnome_mail_alias" type="text">
                         </div>
 
