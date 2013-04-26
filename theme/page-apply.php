@@ -17,9 +17,11 @@ if (array_key_exists('submit', $_POST)) {
     }
     
     $summary = trim(stripslashes($_POST['summary']));
+    $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+    $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
-    if (empty($full_name) || empty($email) || empty($summary)) {
+    if (empty($full_name) || empty($email) || empty($summary)) || empty($gnome_mail_alias) || empty($gnome_jabber) {
         $errors = true;
     }
     
