@@ -34,8 +34,8 @@ if (array_key_exists('submit', $_POST)) {
                     "Email:     " . $obfuscated_email . "\n\n" .
 
 		    "Benefits\n" .
-                    "Mail alias:" . $gnome_mail_alias . "\n".
-                    "Jabber Account:" . $gnome_jabber . "\n\n" .
+                    "Mail alias: " . ($gnome_mail_alias == 'alias_checked' ? "Yes" : "No") . "\n".
+                    "Jabber Account: " . ($gnome_jabber == 'jabber_checked' ? "Yes" : "No") . "\n\n" .
                     
                     "Contributions Summary:\n" .
                     $summary . "\n\n" .
@@ -173,22 +173,31 @@ if (array_key_exists('submit', $_POST)) {
 			<h3>Benefits</h3>
                             <p>
                                 Being a GNOME Foundation member takes in several benefits (see
-				Membership benefits on the above paragraph), please answer either
-				“yes” or “no” if you plan to adopt a @gnome.org mail alias or a
-				Jabber account after being eventually accepted as a GNOME Foundation
-				member. The alias will point to the e-mail you specified above as your
-				permanent e-mail address.
+				Membership benefits on the above paragraph), please let us know
+				if you plan to adopt a @gnome.org mail alias or a Jabber account after
+				being accepted as a GNOME Foundation member. The alias will point
+				to the e-mail you specified above as your permanent e-mail address.
                             </p>						
 
-                        <div class="item">
-                            <label for="gnome_mail_alias">Mail Alias</label>
-                            <input name="gnome_mail_alias" id="gnome_mail_alias" type="text">
-                        </div>
+                        <table>
+                            <tr>
+                              <td colspan="2">
+                                 <input type="checkbox" name="gnome_mail_alias"
+                                 <?php if ($gnome_mail_alias) { ?> checked="alias_checked" <?php } ?> />
+                                 @gnome.org Mail Alias
+                              </td>
+                            </tr>
+                        </table>
 
-                        <div class="item">
-                            <label for="gnome_jabber">Jabber Account</label>
-                            <input name="gnome_jabber" id="gnome_jabber" type="text">
-                        </div>
+                        <table>
+                            <tr>
+                              <td colspan="2">
+                                 <input type="checkbox" name="gnome_jabber"
+                                 <?php if ($gnome_jabber) { ?> checked="jabber_checked" <?php } ?> />
+                                 Jabber Account
+                              </td>
+                            </tr>
+                        </table>
 			
                         <h3>Contributions</h3>
                         
