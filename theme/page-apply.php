@@ -9,6 +9,7 @@ if (array_key_exists('submit', $_POST)) {
     
     $full_name = trim(stripslashes($_POST['full_name']));
     $email = trim(stripslashes($_POST['email']));
+    $uid = trim(stripslashes($_POST['uid']));
     $obfuscated_email = str_replace("@", " AT ", $email);
     $not_spam = $_POST['not_spam'];
     
@@ -17,11 +18,8 @@ if (array_key_exists('submit', $_POST)) {
     }
     
     $summary = trim(stripslashes($_POST['summary']));
-	echo "<h1>";	
-	echo $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
-	echo "<br>";
-    echo $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
-	echo "</h1>";
+    $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+    $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
     if (empty($full_name) || empty($email) || empty($summary) || empty($gnome_mail_alias) || empty($gnome_jabber)) {
@@ -34,7 +32,8 @@ if (array_key_exists('submit', $_POST)) {
                     "-------------------\n\n" .
                     
                     "Full Name: " . $full_name . "\n".
-                    "Email:     " . $obfuscated_email . "\n\n" .
+                    "Email:     " . $obfuscated_email . "\n" .
+		    "Username:  " . $uid . "\n\n" .
 
 		    "Benefits\n" .
                     "Mail alias: " . ($gnome_mail_alias == 'on' ? "Yes" : "No") . "\n".
@@ -172,6 +171,11 @@ if (array_key_exists('submit', $_POST)) {
                             <label for="email">E-mail Address</label>
                             <input name="email" id="email" type="text">
                         </div>
+
+                        <div class="item">
+                            <label for="uid">Username</label>
+                            <input name="uid" id="uid" type="text">
+                        </div>
                         
 			<h3>Benefits</h3>
                             <p>
@@ -187,7 +191,7 @@ if (array_key_exists('submit', $_POST)) {
                               <td colspan="2">
                                  <input type="checkbox" name="gnome_mail_alias"
                                  <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> />
-                                 @gnome.org Mail Alias
+                                 @gnome.org Mail Alias (in the form of uid@gnome.org, please read the username's policy at the following <a href="https://live.gnome.org/AccountNamePolicy">link</a>.
                               </td>
                             </tr>
                         </table>
