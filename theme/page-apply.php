@@ -9,7 +9,6 @@ if (array_key_exists('submit', $_POST)) {
     
     $full_name = trim(stripslashes($_POST['full_name']));
     $email = trim(stripslashes($_POST['email']));
-    $uid = trim(stripslashes($_POST['uid']));
     $obfuscated_email = str_replace("@", " AT ", $email);
     $not_spam = $_POST['not_spam'];
     
@@ -18,8 +17,11 @@ if (array_key_exists('submit', $_POST)) {
     }
     
     $summary = trim(stripslashes($_POST['summary']));
-    $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
-    $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
+	echo "<h1>";	
+	echo $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+	echo "<br>";
+    echo $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
+	echo "</h1>";
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
     if (empty($full_name) || empty($email) || empty($summary) || empty($gnome_mail_alias) || empty($gnome_jabber)) {
@@ -32,8 +34,7 @@ if (array_key_exists('submit', $_POST)) {
                     "-------------------\n\n" .
                     
                     "Full Name: " . $full_name . "\n".
-                    "Email:     " . $obfuscated_email . "\n" .
-		    "Username:  " . $uid . "\n\n" .
+                    "Email:     " . $obfuscated_email . "\n\n" .
 
 		    "Benefits\n" .
                     "Mail alias: " . ($gnome_mail_alias == 'on' ? "Yes" : "No") . "\n".
@@ -119,6 +120,11 @@ if (array_key_exists('submit', $_POST)) {
                                 overflow: hidden;
                                 font-size: 15px;
                             }
+
+							#application_form .benefits {
+								margin: 5px;						
+							}
+	
                             #application_form .item label {
                                 display: block;
                                 float: left;
@@ -134,6 +140,20 @@ if (array_key_exists('submit', $_POST)) {
                                 padding: 5px;
                                 width: 265px;
                             }
+
+							#application_form .item input[type="text"]:disabled {
+                                background-color: #ddd;
+								border: 1px solid #ccc;
+								-moz-border-radius: 5px;
+                                -webkit-border-radius: 5px;
+                                border-radius: 5px;
+								margin-left: 5px;
+                            }
+
+							#application_form .item .disabled-checkbox {
+                                color: #aaa;
+                            }
+
                             #application_form .item input[name="not_spam"] {
                                 width: 100px;
                             }
@@ -159,6 +179,19 @@ if (array_key_exists('submit', $_POST)) {
                             }
                         
                         </style>
+
+						<script>
+						
+						function toggleBenefitsFields() {
+							var gnomeAlias = document.getElementById("gnome_mail_alias");
+							
+							document.getElementById("gnome_username").disabled = !gnomeAlias.checked;
+							document.getElementById("gnome_jabber").disabled = !gnomeAlias.checked;
+							
+							document.getElementById("jabber_label").className = (gnomeAlias.checked ? "" : "disabled-checkbox");
+						}
+
+						</script>
                         
                         <h3>Personal Information</h3>
 
@@ -171,40 +204,32 @@ if (array_key_exists('submit', $_POST)) {
                             <label for="email">E-mail Address</label>
                             <input name="email" id="email" type="text">
                         </div>
-
-                        <div class="item">
-                            <label for="uid">Username</label>
-                            <input name="uid" id="uid" type="text">
-                        </div>
                         
 			<h3>Benefits</h3>
                             <p>
-                                Being a GNOME Foundation member takes in several benefits (see
-				Membership benefits on the above paragraph), please let us know
-				if you plan to adopt a @gnome.org mail alias or a Jabber account after
-				being accepted as a GNOME Foundation member. The alias will point
-				to the e-mail you specified above as your permanent e-mail address.
+                                Being a GNOME Foundation member takes in several 
+				<a href="https://live.gnome.org/MembershipCommittee/MembershipBenefits">benefits</a>. 
+				Please, let us know if you plan to adopt a @gnome.org mail alias or a Jabber account 
+				after being accepted as a GNOME Foundation member. 
+							</p>
+
+							<p>
+				When choosing a @gnome.org alias, please, check our 
+				<a href="https://live.gnome.org/AccountNamePolicy">account name policy</a>. 
+				Your @gnome alias will point to the e-mail you specified above as your permanent e-mail address.
                             </p>						
 
-                        <table>
-                            <tr>
-                              <td colspan="2">
-                                 <input type="checkbox" name="gnome_mail_alias"
-                                 <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> />
-                                 @gnome.org Mail Alias (in the form of uid@gnome.org, please read the username's policy at the following <a href="https://live.gnome.org/AccountNamePolicy">link</a>.)
-                              </td>
-                            </tr>
-                        </table>
-
-                        <table>
-                            <tr>
-                              <td colspan="2">
-                                 <input type="checkbox" name="gnome_jabber"
-                                 <?php if ($gnome_jabber) { ?> checked="checked" <?php } ?> />
-                                 Jabber Account
-                              </td>
-                            </tr>
-                        </table>
+						<div class="item benefits">
+                            <input name="gnome_mail_alias" id="gnome_mail_alias" type="checkbox" onClick="toggleBenefitsFields()"
+							 <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> /> @gnome.org mail alias
+							<input name="gnome_username" id="gnome_username" type="text" disabled />
+                        </div>
+                        
+						<div class="item benefits">
+                            <input name="gnome_jabber" id="gnome_jabber" type="checkbox" disabled
+                             <?php if ($gnome_jabber) { ?> checked="checked" <?php } ?> /> 
+							 <span name="jabber_label" id="jabber_label" class="disabled-checkbox">Jabber Account <em>(only if you adopt a @gnome.org mail alias)</em></span>
+                        </div>
 			
                         <h3>Contributions</h3>
                         
