@@ -16,9 +16,11 @@ if (array_key_exists('submit', $_POST)) {
         $errors = true;
     }
     
-    $summary = trim(stripslashes($_POST['summary']));
-    $gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+    $summary = trim(stripslashes($_POST['summary']));	
+	$gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
+	$gnome_username= trim(stripslashes($_POST['gnome_username']));
     $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
+
     $previous_participation = trim(stripslashes($_POST['previous_participation']));
     
     if (empty($full_name) || empty($email) || empty($summary)) {
@@ -35,6 +37,7 @@ if (array_key_exists('submit', $_POST)) {
 
 		    "Benefits\n" .
                     "Mail alias: " . ($gnome_mail_alias == 'on' ? "Yes" : "No") . "\n".
+					"Mail alias username: " . $gnome_username . "\n".
                     "Jabber Account: " . ($gnome_jabber == 'on' ? "Yes" : "No") . "\n\n" .
                     
                     "Contributions Summary:\n" .
@@ -217,15 +220,13 @@ if (array_key_exists('submit', $_POST)) {
                             </p>						
 
 						<div class="item benefits">
-                            <input name="gnome_mail_alias" id="gnome_mail_alias" type="checkbox" onClick="toggleBenefitsFields()"
-							 <?php if ($gnome_mail_alias) { ?> checked="checked" <?php } ?> /> @gnome.org mail alias
-							<input name="gnome_username" id="gnome_username" type="text" disabled />
+                            <input name="gnome_mail_alias" id="gnome_mail_alias" type="checkbox" onClick="toggleBenefitsFields()" /> @gnome.org mail alias
+							<input name="gnome_username" id="gnome_username" type="text" placeholder="What do you want your alias to be?" disabled />
                         </div>
                         
 						<div class="item benefits">
-                            <input name="gnome_jabber" id="gnome_jabber" type="checkbox" disabled
-                             <?php if ($gnome_jabber) { ?> checked="checked" <?php } ?> /> 
-							 <span name="jabber_label" id="jabber_label" class="disabled-checkbox">Jabber Account <em>(only if you adopt a @gnome.org mail alias)</em></span>
+                            <input name="gnome_jabber" id="gnome_jabber" type="checkbox" disabled /> 
+							 <span name="jabber_label" id="jabber_label" class="disabled-checkbox">Jabber account <em>(only if you adopt a @gnome.org mail alias)</em></span>
                         </div>
 			
                         <h3>Contributions</h3>
