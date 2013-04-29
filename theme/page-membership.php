@@ -21,8 +21,10 @@ require_once("header.php"); ?>
     <!-- container -->
     <div id="container" class="two_columns">
         <div class="container_12">
-        
-            <?php require_once('inc/page-title.php'); ?>
+	  	<div class="page_title" style="margin-bottom: 2px;">
+	  	  <h1><?php the_title(); ?></h1>
+		</div>        
+		<div class="clearfix"></div>
             <?php wp_nav_menu(array('menu'=>'foundationnav','container_class'=>'foundation_nav')); ?>
             <div class="content without_sidebar">
             <?php while ( have_posts() ) : the_post(); ?>
