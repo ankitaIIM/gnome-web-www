@@ -23,7 +23,7 @@ require_once("header.php"); ?>
         <div class="container_12">
         
             <?php require_once('inc/page-title.php'); ?>
-            
+            <?php wp_nav_menu(array('menu'=>'foundationnav','container_class'=>'foundation_nav')); ?>
             <div class="content without_sidebar">
             <?php while ( have_posts() ) : the_post(); ?>
                 <?php the_content(); ?>
