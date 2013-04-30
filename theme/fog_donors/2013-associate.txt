@@ -81,3 +81,5 @@ Joel Burleson
  
 Magne Larsen
 Joaquim Gil Hoernecke
+Daniel Landau
+Daniel Rodriguez
