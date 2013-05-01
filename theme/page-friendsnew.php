@@ -6,6 +6,148 @@
 
 require_once("header.php"); ?>
 
+<style type="text/css">
+#boxes {
+
+}
+
+#boxes > div {
+  margin: 10px;
+  width: 150px;
+  height: 150px;
+  -moz-border-radius: 4px;
+  /*display: inline-block;*/
+  background-color: #73d216;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center center;
+  float: left;
+}
+
+#boxes > div {
+  cursor: pointer;
+}
+
+#adopt {
+  background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/adopt-normal.png");
+}
+
+#adopt.greyed {
+    background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/adopt-inactive.png") !important;
+}
+
+#associate {
+  background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/associate-normal.png");
+}
+
+#associate.greyed {
+    background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/associate-inactive.png") !important;
+}
+
+#sponsor {
+  background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/sponsor-normal.png");
+}
+
+#sponsor.greyed {
+    background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/sponsor-inactive.png") !important;
+}
+
+#philanthropist {
+  background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/philanthropist-normal.png");
+}
+
+#philanthropist.greyed {
+    background-image: url("http://www.gnome.org/wp-content/themes/gnome-grass/images/philanthropist-inactive.png") !important;
+}
+
+.active-text {
+  font-size: 11px;
+  padding: 1em;
+  visibility: hidden;
+  text-align: center;
+  height: 65%;
+}
+
+/* relative position, bottom, left */
+.level-text {
+    position: relative;
+    /* really ugly, why does this work? */
+    text-align: center;
+    height: 35%;
+}
+
+.greyed {
+    background-color: #d3d7cf !important;
+    color: #babdb6;
+}
+
+
+div#below {
+    margin: 10px;
+    padding: 0px;
+    position: relative;
+    width: 660px;
+    clear: both;
+}
+
+p#donation-details {
+    text-align: center;
+    font-weight: bold;
+}
+
+div#below > p {
+    text-align: center;
+}
+
+p.hidden {
+    display: none;
+}
+
+div#below > form {
+    display: none;
+}
+
+
+/* allow room for 3 columns */
+#below ul {
+    width: 700px;
+}
+
+
+/* float & allow room for the widest item */
+#below ul li {
+    float: left;
+    width: 200px;
+    list-style: none;
+}
+
+/* stop the float */
+#below br {
+    clear: left;
+}
+
+/* Get rid of some 960 spacing */
+#below li {
+  margin-left: 0px;
+}
+
+/* separate the list from subsequent markup */
+div.wrapper {
+    margin-bottom: 10em;
+}
+
+#foundation-info {
+
+  padding: 10px;
+  width: 650px;
+}
+
+small {
+  font-size: 12px;
+  color: gray;
+}
+</style>
+
     <!-- container -->
     <div id="container" class="two_columns">
         <div class="container_12">
