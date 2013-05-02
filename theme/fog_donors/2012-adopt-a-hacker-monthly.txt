@@ -1,104 +1,23 @@
-Abdul Sabur Pallares Calvi
-Adam Miller
-Adrian Spirgi
-Alberto Caso
-Alberto Salmerón Moreno
-Alejandro G Gomez
-Alessandro Mecca
-Alexandre Mazari
-Alicia Simonsson
-Alishams Hassam
-Alon Levy
-Andreas Nilsson
-Arief Mulya Utama
-Arnaud Mounier
-Ashley
-Atli Pétur Óðinsson
-Bastian Hougaard
-Bernd Schlapsi
-Carlos sepulveda mancill
-Carsten Olsen
-Christopher Goddard
-Christopher Meiklejohn
-Cornelius Schumacher
-Craig Keogh
-Daevel SARL
-Daniel Hogan
-Daniel Thompson
-David Norman
-Diego Toral
-Dimitrios Sarlis
-Dyatko Marat
-Edward Jakus
-Emily Gonyer
-Ernesto Gutierrez
-G Michael Carter
-Grégoire Seux
-hwang soon chan
-Iván dominguez martin
-James Campbell
-James Cape
-Jan Szpuk
-Jari Havanto
-John Lang
-JOONE HUR
-jorge castro
+Andrew Rabon
+Joshua Melling
 Jorge Gallegos
-JOSE LUIS LOPEZ DE CIORDIA
-josue mendes
-Juan Jose Marin Martinez
-Julien Thuillier
-Julie Pichon
-Kaloian Doganov
-Kerry Chhim
-Krzysztof Krzyzaniak
-Kuznetsov Oleg
-Leif Gruenwoldt
-Luis Villa
-Luis Vinay
-Luiz Fernando Silva
-Mahendra Tallur
-Manuel Perez Monis
-Mario Gervais
-Matteo Settenvini
-Matthieu Paindavoine
-Mikel Olasagasti Uranga
-Mike Williamson
-Mirsal ENNAIME
-Naruhiko Ogasawara
-Nick Glynn
-Nik Henry
-Pablo Estigarribia Davyt
-patrizio bruno
-PB Web Development
-Pedro de Medeiros
-Philippe Gauthier
-Piotr Kazmierczak
-RaversNET Underground
-Ricardo Flores
-Robert Jackson
-Robert Taylor
-Rob McKeown
-Roland Jentsch
-RUI GOUVEIA
-Russell Sim
-Sean Brady
-Segaud Mathieu
-Shwan Ciyako
-simon engelbert
-Srinivasa Chekuri
-Stéphane Démurget
-Tarun Khanna
-Teemu Vartiainen
-Thomas Bollmeier
-Thomas Jenkins
-Torsti Schulz
-TURKIN MAKSIM
-ukasz Jerna
-Umarzuki Mochlis
-Valery Levchenko
-VINICIUS SEIXAS
-Vlad Pescaru
-William Samuels
-Yijun Yuan
+Marc-Andre Lureau
+Jan Leike
+Ruben Solvang
+Gregory Wellington
+Vigneshwaran P
+Dillon Gilmore
+Jan Girlich
+Stefan Lehmann
+Helio Albano de Oliveira
+Petr Volkov
+Manish Sinha
+Kristian Tizzard
 Zwahlen Joël
+Carlos Antonio Marquês Maniero
+Albert Hopkins
+Denis Andrade
+Mahendra Tallur
+Blaise Alleyne
+Prabowo Saputro
+Andrey Ivanov
