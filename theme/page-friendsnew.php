@@ -4,7 +4,49 @@
  * @subpackage Grass Theme
  */
 
-require_once("header.php"); ?>
+require_once("header.php"); 
+
+class HackerList {
+    /**
+     * @param   Array   one HackerDicts
+     * @return  HTML    Html displaying one hacker
+     */
+    function parseHackerDictToHtml($hackerDict) {
+        $returnHtml = '';
+        // if no name is in the hackerDict, then return an empty string (don't display this hackerDict)
+        if (isset($hackerDict['name'])) {
+            if (!isset($hackerDict['shortName'])) {
+                // short name is the name without spaces and html characters
+                $shortName = 'http://live.gnome.org/' . urlencode(str_replace(' ', '', $hackerDict['name']));
+                $hackerDict['shortName'] = $shortName;
+            }
+            $returnHtml = sprintf('<li><input type="radio" name="os0" ' .
+                                  'value="You will receive a postcard from %s" /> ' .
+                                  '<a href="%s" target="_blank">'.
+                                  '%s</a></li>',
+                                  $hackerDict['name'], $hackerDict['shortName'], $hackerDict['name']);
+        }
+        return $returnHtml;
+    }
+    
+    /**
+     * @param   Array   List of HackerDicts
+     * @return  HTML    Html displaying one hacker per line
+     */
+    function parseHackerDictArrayToHtml($hackerDictArray) {
+        $returnHtmlArray = Array();
+        foreach ($hackerDictArray as $hackerDict) {
+            $snippet = $this->parseHackerDictToHtml($hackerDict);
+            // don't add the snippet if it's empty
+            if (strlen($snippet)) {
+                $returnHtmlArray[] = $snippet;
+            }
+        }
+        $returnHtml = implode("\n", $returnHtmlArray);
+        return $returnHtml;
+    }
+}
+?>
 
 <style type="text/css">
 #boxes {
@@ -263,72 +305,32 @@ function print_form_head($form_name, $product_name) {
             
                       <div class="wrapper">
                         <ul>
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Emmanuele Bassi" /><a href=
-                          "http://live.gnome.org/EmmanueleBassi" target="_blank">Emmanuele
-                          Bassi</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Brian Cameron" /><a href=
-                          "http://live.gnome.org/BrianCameron" target="_blank">Brian Cameron</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Diego Escalante Urrelo" /><a href=
-                          "http://live.gnome.org/DiegoEscalanteUrrelo" target="_blank">Diego
-                          Escalante Urrelo</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Behdad Esfahbod" /><a href=
-                          "http://live.gnome.org/BehdadEsfahbod" target="_blank">Behdad
-                          Esfahbod</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Andre Klapper" /><a href=
-                          "http://live.gnome.org/AndreKlapper" target="_blank">Andre Klapper</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Alexander Larsson" /><a href=
-                          "http://blogs.gnome.org/alexl" target="_blank">Alexander Larsson</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Federico Mena Quintero" /><a href=
-                          "http://live.gnome.org/FedericoMenaQuintero" target="_blank">Federico Mena
-                          Quintero</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Andreas Nilsson" /><a href=
-                          "http://live.gnome.org/AndreasNilsson" target="_blank">Andreas
-                          Nilsson</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Tobias Mueller" /><a href=
-                          "http://live.gnome.org/TobiasMueller" target="_blank">Tobias
-                          Mueller</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Frederic Peters" /><a href=
-                          "http://live.gnome.org/FredericPeters" target="_blank">Frederic
-                          Peters</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Stormy Peters" /><a href=
-                          "http://live.gnome.org/StormyPeters" target="_blank">Stormy Peters</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Lucas Rocha" /><a href=
-                          "http://live.gnome.org/LucasRocha" target="_blank">Lucas Rocha</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Vincent Untz" /><a href=
-                          "http://live.gnome.org/VincentUntz" target="_blank">Vincent Untz</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Luis Villa" /><a href=
-                          "http://live.gnome.org/LuisVilla4" target="_blank">Luis Villa</a></li>
-            
-                          <li><input type="radio" name="os0" value=
-                          "You will receive a postcard from Karen Sandler" /><a href=
-                          "http://live.gnome.org/KarenSandler" target="_blank">Karen Sandler</a></li>
+                        <?php
+                        $hackerList = array(
+                                0 => array('name' => 'Emmanuele Bassi'),
+                                1 => array('name' => 'Brian Cameron'),
+                                2 => array('name' => 'Diego Escalante Urrelo'),
+                                3 => array('name' => 'Behdad Esfahbod'),
+                                4 => array('name' => 'Andre Klapper'),
+                                5 => array('name' => 'Alexander Larsson', 'shortName' => 'http://blogs.gnome.org/alexl'),
+                                6 => array('name' => 'Federico Mena Quintero'),
+                                7 => array('name' => 'Andreas Nilsson'),
+                                8 => array('name' => 'Tobias Mueller'),
+                                9 => array('name' => 'Frederic Peters'),
+                               10 => array('name' => 'Stormy Peters'),
+                               11 => array('name' => 'Lucas Rocha'),
+                               12 => array('name' => 'Vincent Untz'),
+                               13 => array('name' => 'Luis Villa', 'shortName' => 'http://live.gnome.org/LuisVilla4'),
+                               14 => array('name' => 'Karen Sandler'),
+                        );
+                        
+                        // Instanciate the parser class
+                        $hackerListParser = new HackerList;
+                        
+                        // echo the result
+                        ?>
+                        <ul>
+                            <?php echo $hackerListParser->parseHackerDictArrayToHtml($hackerList) . "\n"; ?>
                         </ul>
                       </div>
             
