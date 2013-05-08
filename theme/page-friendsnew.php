@@ -304,7 +304,6 @@ function print_form_head($form_name, $product_name) {
                       <input type="hidden" name="on0" value="Favorite Hacker" />
             
                       <div class="wrapper">
-                        <ul>
                         <?php
                         $hackerList = array(
                                 0 => array('name' => 'Emmanuele Bassi'),
