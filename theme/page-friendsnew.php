@@ -268,7 +268,7 @@ function print_form_head($form_name, $product_name) {
 <?php } /* print_form_head */ ?>
 
 
-                    <?php print_form_head("adopt-form", "Friends of GNOME - Adopt a hacker monthly subscription"); ?>
+                    <?php print_form_head("adopt", "Friends of GNOME - Adopt a hacker monthly subscription"); ?>
                       
                       <!-- Specify a Subscribe button. -->
                       <input type="hidden" name="cmd" value="_xclick-subscriptions" />
