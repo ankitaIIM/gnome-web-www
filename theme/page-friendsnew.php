@@ -258,7 +258,7 @@ small {
 <?php
 function print_form_head($form_name, $product_name) {
 ?>
-        <form id="<?php echo "$form_name";?>"
+        <form id="<?php echo "$form_name";?>-form"
             action="https://www.paypal.com/cgi-bin/webscr"
             method="post" name="<?php echo "$form_name";?>">
                 <input type="hidden" name="business" value="friends@gnome.org" />
