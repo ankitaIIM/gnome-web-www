@@ -350,6 +350,7 @@ function print_form_questions_gift_listname_note() {
                       <input type="hidden" name="on1" value="Donation Gift" />
                       <input type="radio" checked="checked" name="os1" value="Yes" />Yes
                       <input type="radio" name="os1" value="No" />No
+                      <br />
                       <small>If you do not want to receive a gift, we will save the money for the gift and shipping and
                       use it to further the mission of the GNOME Project, bringing a free desktop to
                       the public.</small>
