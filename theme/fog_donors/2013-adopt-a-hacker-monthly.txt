@@ -1,28 +1,28 @@
-Andrew Rabon
-Joshua Melling
-Jorge Gallegos
-Marc-Andre Lureau
-Jan Leike
-Ruben Solvang
-Gregory Wellington
-Vigneshwaran P
-Dillon Gilmore
-Jan Girlich
-Stefan Lehmann
-Helio Albano de Oliveira
-Petr Volkov
-Manish Sinha
-Kristian Tizzard
-Zwahlen Joël
-Carlos Antonio Marquês Maniero
 Albert Hopkins
-Denis Andrade
-Mahendra Tallur
-Blaise Alleyne
-Prabowo Saputro
-Andrey Ivanov
-Salomon Sickert
-Jarl Frode Arntzen
 Andreas Altergott
-José Emanuel Dávila Alanís
+Andrew Rabon
+Andrey Ivanov
+Blaise Alleyne
+Carlos Antonio Marquês Maniero
 Daniel Doel
+Denis Andrade
+Dillon Gilmore
+Gregory Wellington
+Helio Albano de Oliveira
+Jan Girlich
+Jan Leike
+Jarl Frode Arntzen
+Jorge Gallegos
+José Emanuel Dávila Alanís
+Joshua Melling
+Kristian Tizzard
+Mahendra Tallur
+Manish Sinha
+Marc-Andre Lureau
+Petr Volkov
+Prabowo Saputro
+Ruben Solvang
+Salomon Sickert
+Stefan Lehmann
+Vigneshwaran P
+Zwahlen Joël
