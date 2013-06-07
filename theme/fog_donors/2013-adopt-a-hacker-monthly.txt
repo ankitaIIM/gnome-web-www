@@ -1,97 +1,38 @@
- 
- 
-Adrian Spirgi
 Albert Hopkins
-Alberto Salmerón Moreno
-Alessandro Mecca
-Alishams Hassam
 Andreas Altergott
 Andrew Rabon
 Andrey Ivanov
-Arnaud Mounier
-Bastian Hougaard
-Behdad Esfahbod
-Bertel King
 Blaise Alleyne
 Carlos Antonio Marquês Maniero
-Carlos sepulveda mancill
 Carsten Olsen
 Christopher Meiklejohn
-Craig Keogh
-Daniel Aleksandersen
 Daniel Doel
-Daniel Hogan
-Daniel Thompson
 Denis Andrade
-Diego Toral
 Dillon Gilmore
 Edward Jakus
-Emily Gonyer
 Ernesto Gutierrez
-Grégoire Seux
 Gregory Wellington
 Helio Albano de Oliveira
-Iván dominguez martin
-James Campbell
-James Mason
 Jan Girlich
 Jan Leike
-Jan Szpuk
 Jarl Frode Arntzen
-Jonathan Barnoud
-JOONE HUR
-jorge castro
 Jorge Gallegos
-José Emanuel Dávila Alanís
-JOSE LUIS LOPEZ DE CIORDIA
 Jose Maria Casanova Crespo
 Joshua Melling
-Juan Jose Marin Martinez
-Julien Thuillier
-Julie Pichon
+José Emanuel Dávila Alanís
 Kristian Tizzard
-Krzysztof Krzyzaniak
-Leif Gruenwoldt
-Luis Villa
 Luiz Fernando Silva
 Mahendra Tallur
 Manish Sinha
-Marat Dyatko
 Marc-Andre Lureau
-Marius Gedminas
 Mathias Nicolajsen Kjaergaard
-Matteo Settenvini
-Matthew Lee
-Michael Blennerhassett
-Mikel Olasagasti Uranga
-Mike Williamson
-Mirsal ENNAIME
-Nik Henry
-Pablo Estigarribia Davyt
-patrizio bruno
 Pedro de Medeiros
-Peter Bui
 Petr Volkov
-Petter Johansson
-Philippe Gauthier
 Prabowo Saputro
-Robert McCallum
-Robin Stocker
 Roxana Murgan León
 Ruben Solvang
-RUI GOUVEIA
-Russell Sim
 Salomon Sickert
-Sean Brady
-Shwan Ciyako
-simon engelbert
 Stefan Lehmann
-Stéphane Démurget
-Susan Roelofs
-Thomas Bollmeier
-Thomas Jenkins
 Thomas Lowenthal
-ukasz Jerna
 Vigneshwaran P
-VINICIUS SEIXAS
 Zwahlen Joël
