@@ -46,6 +46,7 @@ Ilya Litvinov
 Jacob Larsen
 Jaime Velázquez Sánchez
 James Campbell
+James M Jinkins
 Jason Jarquín Sevilla
 Jason Kelsey
 Joan Cervan i Andreu
@@ -59,6 +60,7 @@ Magne Larsen
 Marc Schröder
 Marco Bollero
 Markus Griesslehner
+Martin Ansdell-Smith
 Martin Budsjö
 Matj Tý
 Matthieu COUDERT
@@ -68,6 +70,7 @@ Michel De Waele
 Michel Machado
 Miguel Lorenzo Amarelle
 Morgan Dapilly
+Oktay Acikalin
 Paul Reust
 Peter Ulber
 Rasmus Pedersen
