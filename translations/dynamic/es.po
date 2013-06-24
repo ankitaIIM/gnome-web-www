@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2012-05-23 19:40+0000\n"
-"PO-Revision-Date: 2013-05-27 11:02+0200\n"
+"PO-Revision-Date: 2013-06-24 10:22+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -4610,6 +4610,12 @@ msgid ""
 "basics. The centers have drawn citizens of all ages and walks of life. The "
 "oldest user of the centers is 99 years old."
 msgstr ""
+"La Junta de Extremadura también ha creado 33 centros informáticos para la "
+"población general. Los centros cuentan con asistencia informática uno a uno, "
+"así los usuarios que no están familiarizados con ordenadores pueden aprender "
+"conceptos básicos de informática y de correo electrónico. Los centros han "
+"llamado a los ciudadanos de todas las edades y estilos de vida. El usuario "
+"de más edad tiene 99 años."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1125(html/p)
 msgid ""
@@ -4621,12 +4627,22 @@ msgid ""
 "Extremadura. This is an excellent example of the control and flexibility "
 "that Linux and open source give governments and public sector institutions.”"
 msgstr ""
+"«Extremadura ha lanzado una iniciativa muy significativa, y estamos "
+"extremadamente satisfechos que hayan elegido usar GNOME como su entorno de "
+"escritorio para Linux», dijo Miguel de Icaza, CTO de Ximian, Inc. y "
+"presidente de la Fundación GNOME. «Esta iniciativa no sólo da capacidad "
+"computacional a todos sus estudiantes, también tiene el potencial de crear "
+"una industria TI en Extremadura. Este es un ejemplo excelente del control y "
+"la flexibilidad que Linux y el código abierto da a los gobiernos y a "
+"instituciones del sector público»."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1126(html/p)
 msgid ""
 "More information on the Junta de Extremadura’s computer initiative can be "
 "found at www.linex.org."
 msgstr ""
+"Se puede encontrar más información sobre la iniciativa informática de la "
+"Junta de Extremadura en www.linex.org"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1128(html/p)
 msgid ""
@@ -4637,15 +4653,26 @@ msgid ""
 "around the world. More than 700 computer developers, including over 100 full-"
 "time, paid developers, contribute their time and effort to the project."
 msgstr ""
+"GNOME es un proyecto de software libre que proporciona un escritorio fácil "
+"de usar y completo, para una variedad de sistemas operativos, incluyendo GNU/"
+"Linux (más comúnmente conocido como Linux), BSD, Entorno Operativo Solaris "
+"™, HP-UX, UNIX, BSD y Darwin de Apple. Millones de personas alrededor del "
+"mundo usan el escritorio GNOME. Más de 700 desarrolladores informáticos, "
+"incluyendo más de 100 desarrolladores pagados a tiempo completo, contribuyen "
+"con su tiempo y esfuerzo al proyecto."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1135(post/title)
 msgid ""
 "Gnumeric project receives grant from Open Source Applications Foundation"
 msgstr ""
+"El proyecto Gnumeric recibe una donación de la Open Source Applications "
+"Foundation"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1137(html/p)
 msgid "Grant will be used to develop interoperability test suite"
 msgstr ""
+"La donación se usará para desarrollar la suite de pruebas de "
+"interoperabilidad"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1138(html/p)
 msgid ""
@@ -4679,6 +4706,11 @@ msgid ""
 "available on a number of popular open source desktop environments, including "
 "GNOME."
 msgstr ""
+"Gnumeric es un programa de hoja de cálculo de software libre con mejores "
+"análisis que los programas propietarios líderes de hoja de cálculo. El "
+"proyecto, que se fundó hace cinco años, es un programa líder de hoja de "
+"cálculo de código abierto, y está disponible en un cantidad de entornos de "
+"escritorio de código abierto populares, incluído GNOME."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1141(html/p)
 msgid ""
@@ -4701,6 +4733,10 @@ msgid ""
 "tool and will give Gnumeric users confidence that they have true "
 "interoperability with other spreadsheets."
 msgstr ""
+"La concesión entregará a los desarrolladores de hojas de cálculo de código "
+"abierto una herramienta de pruebas invaluable y dará a los usuarios de "
+"Gnumeric la confianza de que tienen verdadera interoperabilidad con otras "
+"hojas de cálculo."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1144(html/pre)
 #, no-wrap
@@ -4719,13 +4755,16 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1157(post/title)
 msgid "GUADEC 2004 slated for Norway"
-msgstr ""
+msgstr "GUADEC 2004 programada para Noruega"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1159(html/p)
 msgid ""
 "The fifth annual GNOME User and Developer European Conference (GUADEC) will "
 "draw businesses, government, education and end users to Kristiansand"
 msgstr ""
+"La quinta Conferencia anual Europea de Usuarios y Desarrolladores GNOME "
+"(GUADEC) llevará usuarios de negocios, de gobierno, de educación y usuarios "
+"finales a Kristiansand"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1160(html/p)
 msgid ""
@@ -4749,6 +4788,14 @@ msgid ""
 "for future development. Pair these developers with IT leaders and government "
 "officials and you see some real electricity.”"
 msgstr ""
+"«GUADEC ha disfrutado un crecimiento exponencial durante los últimos cuatro "
+"años, y ha tenido un impacto real sobre el desarrollo y despliegue del "
+"código abierto en los países en que hemos celebrado la conferencia», dijo "
+"Timothy Ney, director ejecutivo de la Fundación GNOME. «GUADEC es un evento "
+"único que reúne a la gente que está creando GNOME para discutir y demostrar "
+"su trabajo y para construir hojas de ruta para el desarrollo futuro. Combine "
+"estos desarrolladores con líderes de TI y oficiales de gobierno y verá "
+"electricidad real»."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1162(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1369(p/a)
@@ -4766,6 +4813,12 @@ msgid ""
 "movers and shakers. Additional information on GUADEC can be found at <_:a-1/"
 ">."
 msgstr ""
+"GUADEC se celebrará del 28 al 30 de junio de 2004 en Agder University "
+"College en Kristiansand, Noruega en cooperación con el Grimstad Campus Linux "
+"User Group (GLUG), Agder LUG y Grupo de Usuarios Unix Noruegos (NUUG). El "
+"programa contará con una alineación estelar de oradores, desde líderes de "
+"GNOME a personas influyentes en la industria TI. Se puede encontrar "
+"información adicional sobre GUADEC en <_:a-1/>. "
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1163(html/p)
 msgid ""
@@ -4780,7 +4833,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1170(html/h3)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1245(html/h3)
 msgid "About Agder University College"
-msgstr ""
+msgstr "Sobre Agder University College"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1171(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1246(p/a)
