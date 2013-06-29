@@ -12,7 +12,9 @@ Andrey Ivanov
 Arnaud Mounier
 Bastian Hougaard
 Behdad Esfahbod
+Benjamin Lebsanft
 Bertel King
+Billy Harris
 Blaise Alleyne
 Carlos Antonio Marquês Maniero
 Carlos sepulveda mancill
