@@ -1,0 +1,161 @@
+@font-face {
+    font-family: 'ChunkFiveRegular';
+    src: url('fonts/Chunkfive-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #333;
+}
+
+p {
+    padding: 5px 0;
+    text-align: justify;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a, .logo:hover {
+    text-decoration: none;
+    color: #20b2aa;
+}
+
+.logo:hover {
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #20b2aa;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 30px 0 10px 0;    
+}
+
+h3 {
+    color: #222;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main {
+    margin: 0 auto;
+    display: block;
+}
+
+.section {
+    border-top: #babdb6 solid 4px;
+    margin-top: 20px;
+}
+
+.nav-container {
+    background-color: #20b2aa;
+    width: 100%;
+  
+}
+
+.fixed {
+    position: fixed;
+}
+
+.nav {
+    width: 960px;
+    margin: 0 auto;
+    padding: 30px 0;
+    color: white;  
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.nav li:first-child {
+    padding-left: 0;
+    font-family: 'ChunkFiveRegular';
+    font-size: 1.5em;
+}
+
+.nav a {
+    color: white;
+}
+
+.content {
+    padding-top: 80px;
+}
+
+.learn-more {
+    float: right;
+    color: #20b2aa;
+    padding-top: 20px;
+}
+
+.link-wiki {
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.view-participants {
+    cursor: pointer;
+}
+
+.top-intro {
+    background: url("img/girl.png") no-repeat bottom; 
+    font-size: 1.5em;
+    height: 230px;
+    line-height: 1.5em;
+    padding: 40px 0;
+}
+
+.intro-img {
+    float: right;
+}
+
+.organizations li {
+    list-style: none;
+}
+
+.org-name {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#sponsors img {
+    padding-top: 40px;
+}
+
+.footer-art, .footer {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.footer-art {
+    background: url("img/footer-balloons.png") no-repeat bottom; 
+    height: 200px;
+}
+
+.footer-grass {
+    background: url("img/footer-grass.png");
+    height: 39px;
+}
+
+.footer-wrapper {
+    background-color: #d3d7cf;
+}
+
+.footer {
+    padding: 20px 0;
+    color: #333;
+}
