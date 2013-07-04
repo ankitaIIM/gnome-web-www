@@ -22,6 +22,10 @@ strong {
     font-weight: bold;
 }
 
+a {
+    outline: 0;
+}
+
 a, .logo:hover {
     text-decoration: none;
     color: #20b2aa;
