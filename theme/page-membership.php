@@ -1,7 +1,7 @@
 <?php
 
 
-#if (false === ($members = get_transient('foundation_members_list'))) {
+if (false === ($members = get_transient('foundation_members_list'))) {
 
     $members_url = "http://foundation-old.gnome.org/membership/members.php?format=json";
 
@@ -11,10 +11,7 @@
     // to get the members list
     set_transient('foundation_members_list', $members, 60*60*12);
     
-#}
-
-
-
+}
 
 require_once("header.php"); ?>
 
