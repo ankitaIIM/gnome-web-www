@@ -1,9 +1,18 @@
+@viewport {
+    width: device-width;
+}
+
+@-ms-viewport {
+    width: device-width;
+}
+
+/*--------------Body and structure---------------------*/
+
 @font-face {
     font-family: 'ChunkFiveRegular';
     src: url('fonts/Chunkfive-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-
 }
 
 html, body {
@@ -37,6 +46,8 @@ a, .logo:hover {
 
 a:hover {
     text-decoration: underline;
+    color: #20a2aa;
+    background-color: none;
 }
 
 h2 {
@@ -54,6 +65,8 @@ h3 {
     padding-top: 20px;
 }
 
+/*--------------Sections----------------------*/
+
 .main {
     margin: 0 auto;
     display: block;
@@ -64,41 +77,86 @@ h3 {
     margin-top: 20px;
 }
 
-.nav-container {
-    background-color: #20b2aa;
+.fixed-container {
     width: 100%;
-  
+    position: fixed;
+    right: 0px;
 }
 
-.fixed {
-    position: fixed;
+#home {
+    padding-top: 80px;
+}
+
+/*----------------Navigation------------------*/
+
+.nav-container {
+    background-color: #20b2aa;
+    width: 100%;  
 }
 
 .nav {
-    width: 960px;
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 30px 10px 10px 0px; 
     color: white;  
 }
 
 .nav li {
     display: inline-block;
     padding: 0 30px;
-}
-
-.nav li:first-child {
-    padding-left: 0;
-    font-family: 'ChunkFiveRegular';
-    font-size: 1.5em;
+    line-height: 0px
 }
 
 .nav a {
     color: white;
 }
 
-.content {
-    padding-top: 80px;
+.navbar .container {
+    width: auto;
+    max-width: 960px;
 }
+
+.navbar .nav > li > a {
+    color: white;
+    text-shadow: 0 0 0;
+}
+
+.navbar .nav > li > a:hover {
+    text-decoration: underline;
+    color: white;
+    background-color: #20b2aa;
+}
+
+.navbar .btn-navbar {
+    color: #20b2aa;
+    background-color: white;
+    background-image: none;
+    border-color: white;
+    margin-top: 25px;
+}
+
+.navbar .btn-navbar .icon-bar {
+    background-color: #20b2aa;
+}
+.navbar .btn-navbar:hover, .navbar .btn-navbar:active, .navbar .btn-navbar.active, .navbar .btn-navbar.disabled, .navbar .btn-navbar[disabled] {
+    color: #20b2aa;
+    background-color: white;
+}
+
+.navbar .btn-navbar:hover .icon-bar, .navbar .btn-navbar:active .icon-bar, .navbar .btn-navbar.active .icon-bar, .navbar .btn-navbar.disabled .icon-bar, .navbar .btn-navbar[disabled]  .icon-bar {
+    background-color: #20b2aa;
+}
+
+.navbar .brand {
+    color: white;
+    padding-left: 0;
+    font-family: 'ChunkFiveRegular';
+    font-size: 1.5em;
+    text-shadow: 0 0 0;
+    display: inline-block;
+    padding: 30px 30px 20px 30px;
+}
+
+/*-----------------Links and images-----------------*/
 
 .learn-more {
     float: right;
@@ -118,7 +176,6 @@ h3 {
 .top-intro {
     background: url("img/girl.png") no-repeat bottom; 
     font-size: 1.5em;
-    height: 230px;
     line-height: 1.5em;
     padding: 40px 0;
 }
@@ -140,14 +197,26 @@ h3 {
     padding-top: 30px;
 }
 
-.footer-art, .footer {
+/*-------------Footer-----------------------*/
+
+.footer {
+    padding: 30px 0px 0px 0px;
     margin: 0 auto;
-    width: 960px;
+}
+
+.footer ul{
+    margin: 0 auto;
+}
+
+.footer-links {
+    padding: 20px 10px 10px 20px;
+    color: #333;
+    max-width: 960px;
 }
 
 .footer-art {
-    background: url("img/footer-balloons.png") no-repeat bottom; 
-    height: 200px;
+    background: url("img/footer-balloons.png") no-repeat bottom right; 
+    height: 160px;
 }
 
 .footer-grass {
@@ -156,14 +225,99 @@ h3 {
 }
 
 .footer-wrapper {
-    background-color: #d3d7cf;
-}
-
-.footer {
-    padding: 20px 0;
-    color: #333;
+    background-color: #d1d8cd;
 }
 
 .cc-description {
     font-size: 11px;
+}
+
+/*------------------Laptops&larger screens---------------------------*/
+
+@media (min-width: 979px) {
+    .footer-art {
+        background: url("img/footer-balloons.png") no-repeat bottom; 
+    }    
+}
+
+/*------------------Tablets--------------------------*/
+
+@media (max-width: 767px) {
+    
+    .footer{
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    
+    .nav {
+        padding: 20px 10px 10px 0px;
+    }
+    
+    .nav-collapse .nav {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        margin-top: -20px;
+    }
+    
+    .nav li {
+        padding: 20px 10px;
+        display: block;
+        width: 100%;
+        border-top: 1px solid #fff;
+    }
+}
+
+/*-------------------small tablet---------------------------*/
+
+@media (min-width: 479px) and (max-width: 767px) {
+    .span6, .span4, .span9 {
+        width: 45%;
+        margin: 10px;
+        display: inline-block;
+    }
+}
+
+/*----------------SmartPhones----------------------*/
+
+/*------------Navigation-------------------*/
+
+@media (max-width: 479px) {
+    
+    .navbar .brand {
+        padding: 20px;
+        width: 200px;
+    }
+    
+    .navbar .btn-navbar {
+        margin-top: 25px;
+        margin-right: 10px;
+    }
+
+    .nav-collapse .nav {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        margin-top: -20px;
+    }
+
+    .nav li {
+        padding: 20px 10px;
+        display: block;
+        width: 100%;
+        border-top: 1px solid #fff;
+    }
+
+    .span6, .span4, .span9 {
+        width: auto;
+        margin: 20px auto;
+        display: block;
+    }
+}
+
+/*----------------------Smallphones------------------------*/
+
+@media (max-width: 290px) {
+    
+    #home {
+        padding-top: 140px;
+    }
 }
