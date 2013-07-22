@@ -11,6 +11,7 @@ Amjad Al Taleb
 Andre Luis Gobbi Sanches
 Andreas Rugtved Neumann
 Andrew Burrow
+Arno Teigseth
 Benjamin Lebsanft
 Botond Denes
 Brian Fagioli
@@ -24,6 +25,7 @@ Christian Lucas
 Christine Spang
 Christoph Ulbrich
 Christopher Hanson
+Cristián Rojas
 Daniel Landau
 Daniel Pinske
 Daniel Rodriguez
@@ -54,13 +56,17 @@ Jason Kelsey
 Joan Cervan i Andreu
 Joaquim Gil Hoernecke
 Joel Burleson
+Johannes Schmid
+John Conkell
 Joseph Braddock
 Karol Babioch
 Ladislav Morva
+Leo Hnatek
 Leslie Chen
 Magne Larsen
 Marc Schröder
 Marco Bollero
+Mark Pariente
 Markus Griesslehner
 Martin Ansdell-Smith
 Martin Budsjö
@@ -82,6 +88,7 @@ Roger Lancefield
 Ruslan Zhenetl
 Saulo Machado de Souza Jacques
 Sean Anastasi
+Sebastien Grenier
 Serdar Cizmeci
 Simon Wenner
 Stanislaw Kulczycki
@@ -99,6 +106,7 @@ William Lazenby
 Wolf Vollprecht
 Young Lee
 alibek junisbayev
+bastiaan van der veer
 dominic janczak
 js darnell
 patrizio bruno
