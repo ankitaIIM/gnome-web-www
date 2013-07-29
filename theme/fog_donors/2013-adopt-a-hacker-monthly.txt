@@ -7,6 +7,7 @@ Alberto Salmerón Moreno
 Alessandro Mecca
 Alishams Hassam
 Andreas Altergott
+Andreas Nilsson
 Andrew Rabon
 Andrey Ivanov
 Arnaud Mounier
@@ -85,6 +86,7 @@ Roxana Murgan León
 Ruben Solvang
 Russell Sim
 Salomon Sickert
+Scott Mcdonald
 Sean Brady
 Shwan Ciyako
 Stefan Lehmann
