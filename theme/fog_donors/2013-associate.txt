@@ -8,9 +8,11 @@ Alex Muñoz
 Alexandre H Abdo
 Alexandre Savio
 Amjad Al Taleb
+Anderson Goulart
 Andre Luis Gobbi Sanches
 Andreas Rugtved Neumann
 Andrew Burrow
+Andriy Kusov
 Arno Teigseth
 Benjamin Lebsanft
 Botond Denes
@@ -31,6 +33,7 @@ Daniel Pinske
 Daniel Rodriguez
 David Norman
 Dillon Gilmore
+Dmitry Kabanov
 Dmitry Kleva
 Dmitry Kleva
 Dor Tzur
@@ -74,6 +77,7 @@ Matj Tý
 Matthieu COUDERT
 Michael Jakobsen
 Michael Lissner
+Michael Loney
 Michel De Waele
 Michel Machado
 Miguel Lorenzo Amarelle
