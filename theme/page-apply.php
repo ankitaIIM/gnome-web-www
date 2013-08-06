@@ -42,8 +42,8 @@ if (array_key_exists('submit', $_POST)) {
                     "Contributions Summary:\n" .
                     $summary . "\n\n" .
                     
-                    "Foundation Previous Participation:\n" .
-                    $previous_participation . "\n\n" .
+                    "References:\n" .
+                    $references . "\n\n" .
                     
                     "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]" . "\n\n".
                     
@@ -207,14 +207,14 @@ if (array_key_exists('submit', $_POST)) {
 			<h3>Benefits</h3>
                             <p>
                                 Being a GNOME Foundation member takes in several 
-				<a href="https://live.gnome.org/MembershipCommittee/MembershipBenefits">benefits</a>. 
+				<a href="https://wiki.gnome.org/MembershipCommittee/MembershipBenefits">benefits</a>. 
 				Please, let us know if you plan to adopt a @gnome.org mail alias or a Jabber account 
 				after being accepted as a GNOME Foundation member. 
 							</p>
 
 							<p>
 				When choosing a @gnome.org alias, please, check our 
-				<a href="https://live.gnome.org/AccountNamePolicy">account name policy</a>. 
+				<a href="https://wiki.gnome.org/AccountNamePolicy">account name policy</a>. 
 				Your @gnome alias will point to the e-mail you specified above as your permanent e-mail address.
                             </p>						
 
@@ -231,26 +231,23 @@ if (array_key_exists('submit', $_POST)) {
                         <h3>Contributions</h3>
                         
                         <div class="item">
-                            <p>
-                                Please list references to your contributions,
-                                i.e. Bugzilla, Mailing Lists, commits or people to vouch for you. If
-                                you are a new applicant, it's definitely a great plus putting
-                                the name of a few contacts within the community that could vouch for
-                                you and your work for the GNOME Foundation. (existing Foundation
-                                members preferred)
-                            </p>
+                            <p> 
+                            Please list your past or recent contributions, i.e. Bugzilla, Mailing Lists, or commits.
+                            Processing will be much quicker if you provide links. Please tell us whether you were an existing 
+                            Foundation member or have done something relevant for the GNOME Foundation in the past.
+                            </p> 
                             <textarea name="summary"></textarea>
                         </div>
                         
-                        <h3>Previous Foundation participation</h3>
+                        <h3>References</h3>
                         
                         <div class="item">
                             <p>
-                                Please tell us whether you were an existing 
-                                Foundation member or have done someting relevant for the GNOME 
-                                Foundation in the past. (for example, past Board Member)
+			    It helps us processing your application faster if you provide names and email addresses of two or
+			    more current <a href="https://www.gnome.org/foundation/membership">Foundation members</a> who could 
+			    vouch for you and your contributions.
                             </p>
-                            <textarea name="previous_participation"></textarea>
+                            <textarea name="references"></textarea>
                         </div>
                         
                         <hr />
