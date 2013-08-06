@@ -242,12 +242,11 @@ if (array_key_exists('submit', $_POST)) {
                         <h3>References</h3>
                         
                         <div class="item">
-                            <p>
-			    It helps us processing your application faster if you provide names and email addresses of two or
+                            <p>It helps us processing your application faster if you provide names and email addresses of two or
 			    more current <a href="https://www.gnome.org/foundation/membership">Foundation members</a> who could 
 			    vouch for you and your contributions.
                             </p>
-                            <textarea name="references"></textarea>
+                            <input name="references" id="references" type="text"></input>
                         </div>
                         
                         <hr />
