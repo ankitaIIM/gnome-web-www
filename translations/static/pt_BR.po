@@ -2078,7 +2078,7 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/static.xml:576(p/a)
 #: /srv/http/www.gnome.org/html/wppo/static.xml:581(p/a)
 msgid "Foundation page"
-msgstr "página Fundação"
+msgstr "página da Fundação"
 
 #: /srv/http/www.gnome.org/html/wppo/static.xml:576(p/a)
 msgid "history of the Board of Directors"
