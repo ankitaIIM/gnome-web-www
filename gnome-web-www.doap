@@ -4,7 +4,7 @@
          xmlns:gnome="http://api.gnome.org/doap-extensions#"
          xmlns="http://usefulinc.com/ns/doap#">
 
-  <name xml:lang="en">www.gnome.org files</name>
+  <name xml:lang="en">gnome-web-www</name>
   <shortdesc xml:lang="en">Website theme and translation strings for www.gnome.org</shortdesc>
   <description>This repository contains the WordPress template files used in
     main gnome.org website, together with its content translations (which works
