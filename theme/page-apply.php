@@ -20,7 +20,7 @@ if (array_key_exists('submit', $_POST)) {
 	$gnome_mail_alias = trim(stripslashes($_POST['gnome_mail_alias']));
 	$gnome_username= trim(stripslashes($_POST['gnome_username']));
     $gnome_jabber = trim(stripslashes($_POST['gnome_jabber']));
-    $previous_participation = trim(stripslashes($_POST['previous_participation']));
+    $references = trim(stripslashes($_POST['references']));
     
     if (empty($full_name) || empty($email) || empty($summary) || ($gnome_mail_alias == 'on' && empty($gnome_username))) {
         $errors = true;
