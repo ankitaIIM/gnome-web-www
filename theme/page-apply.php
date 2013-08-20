@@ -246,7 +246,7 @@ if (array_key_exists('submit', $_POST)) {
 			    more current <a href="https://www.gnome.org/foundation/membership">Foundation members</a> who could 
 			    vouch for you and your contributions.
                             </p>
-                            <input name="references" id="references" type="text"></input>
+                            <textarea name="references" </textarea>
                         </div>
                         
                         <hr />
