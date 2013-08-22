@@ -39,6 +39,7 @@ Dmitry Kleva
 Dor Tzur
 Edgar Jimenez
 Eduard Drenth
+Elizabeth Gossett
 Evan Leister
 Fanen Ahua
 Florian Sowade Florian Sowade
@@ -53,6 +54,7 @@ Ilya Litvinov
 Jacob Larsen
 Jaime Velázquez Sánchez
 James Campbell
+James Cook
 James M Jinkins
 Jason Jarquín Sevilla
 Jason Kelsey
