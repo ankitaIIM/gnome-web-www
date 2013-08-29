@@ -58,6 +58,7 @@ James Cook
 James M Jinkins
 Jason Jarquín Sevilla
 Jason Kelsey
+Jimmy Richards
 Joan Cervan i Andreu
 Joaquim Gil Hoernecke
 Joel Burleson
@@ -85,6 +86,7 @@ Michel Machado
 Miguel Lorenzo Amarelle
 Morgan Dapilly
 Oktay Acikalin
+Patrick Verner
 Paul Reust
 Peter Ulber
 Rasmus Pedersen
