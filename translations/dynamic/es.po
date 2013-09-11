@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-web-www\n"
 "POT-Creation-Date: 2013-08-13 10:12+0100\n"
-"PO-Revision-Date: 2013-08-23 11:04+0200\n"
+"PO-Revision-Date: 2013-09-11 17:14+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: \n"
@@ -951,7 +951,6 @@ msgid "seif_lotfy"
 msgstr "seif_lotfy"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:709(post/title)
-#| msgid "Tobias Mueller"
 msgid "tobias_mueller"
 msgstr "tobias_mueller"
 
@@ -1005,7 +1004,6 @@ msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:743(post/title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5007(p/img@title)
-#| msgid "gnome-3.4"
 msgid "gnome-3-6"
 msgstr "gnome-3-6"
 
@@ -1028,7 +1026,6 @@ msgid "gnome 3.6 banner"
 msgstr "gnome 3.2"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:788(post/title)
-#| msgid "gnome-3.4-940x400"
 msgid "gnome-3-6-940x400"
 msgstr "gnome-3-6-940x400"
 
@@ -1063,7 +1060,6 @@ msgid "gnome_report_2010-11"
 msgstr "informe-gnome-2010-Q1"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:819(post/title)
-#| msgid "gnome-3.4"
 msgid "gnome-3-8"
 msgstr "gnome-3-8"
 
@@ -1117,7 +1113,6 @@ msgid "goa-add-account-3-8-420x236"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:855(post/title)
-#| msgid "fedora-icon"
 msgid "favicon"
 msgstr "favicon"
 
@@ -1261,7 +1256,6 @@ msgid "gavinferris"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:951(post/title)
-#| msgid "GUADEC"
 msgid "GUADEC 2000"
 msgstr "GUADEC 2000"
 
@@ -1420,7 +1414,6 @@ msgid "Berlin, 2011 (Copyright Garrett LeSage)"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1018(post/title)
-#| msgid "Shaun McCance"
 msgid "Jon McCann"
 msgstr "Jon McCann"
 
@@ -5837,6 +5830,9 @@ msgid ""
 "Bounty Hunt, each carrying its own cash value. More information on the "
 "bounty can be found at www.gnome.org/bounties."
 msgstr ""
+"Un número de tareas específicas se han expuesto en el Escritorio de "
+"Integración Bounty Hunt, cada una con su propio valor en efectivo. Más "
+"información sobre el bounty se puede encontrar en www.gnome.org/bounties."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1762(html/p)
 msgid ""
@@ -6156,6 +6152,10 @@ msgid ""
 "image authoring and animation. The GIMP Developers Conference 2004 will be "
 "held as a sub-event of GUADEC."
 msgstr ""
+"GIMPCon: GUADEC hospedará desarrolladores que trabajan en el programa "
+"gráfico de distribución gratuita GIMP que se usa para retocado de fotos, "
+"composición de imágenes, autoría y animación de imágenes. La Conferencia de "
+"Desarrolladores GIMP 2004 se celebrará como un subevento de la GUADEC."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1814(p/a)
 msgid "Registration for GUADEC"
@@ -6192,6 +6192,11 @@ msgid ""
 "Brazil, Chile, China, Japan and Peru join the many European and North "
 "American participants."
 msgstr ""
+"La comunidad de código abierto se junta en Kristiansand durante tres días "
+"para intercambiar ideas y disfrutar del Rock'n Roll. La Conferencia Europea "
+"de Usuarios y Desarrolladores GNOME de este año es la más internacional en "
+"cinco años. Delegados de Brasil, Chile, China, Japón y Perú se unen a los "
+"muchos participantes europeos y norteamericanos."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1832(html/p)
 msgid ""
@@ -6199,6 +6204,9 @@ msgid ""
 "year, gather to meet in Kristiansand to shape our future software, to make "
 "new friends and to have fun."
 msgstr ""
+"Amigos de todas partes del mundo, que sólo se juntan através de la web "
+"durante el año, se reúnen en Kristiansand para dar forma a nuestro software "
+"futuro, para hacer nuevos amigos y divertirse."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1833(html/p)
 msgid ""
@@ -6207,6 +6215,10 @@ msgid ""
 "concert, and development of an open culture multimedia calendar is already "
 "underway."
 msgstr ""
+"La conferencia vincula la energía creativa del software libre con el poder "
+"del Rock'n Roll. La banda noruega Salvatore dará un increíble concierto, y "
+"el desarrollo de un calendario de cultura multimedia abierta ya está en "
+"marcha."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1834(html/p)
 msgid ""
@@ -6229,10 +6241,15 @@ msgid ""
 "to be accessible for all users and is already available in 28 languages. The "
 "desktop is also highly popular among blind users."
 msgstr ""
+"el software libre fomenta el intercambio de programas computacionales y "
+"conocimiento, tal como los científicos siempre han intercambiado su trabajo. "
+"El escritorio GNOME está diseñado para ser accesible a todos los usuarios y "
+"ya está disponible en 28 idiomas. El escritorio también es altamente popular "
+"entre usuarios ciegos."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1836(html/p)
 msgid "Highlights from the program of Users day:"
-msgstr ""
+msgstr "Puntos destacados del programa del día de usuarios"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1839(li/a)
 msgid "http://www.linuxjournal.com/article.php?sid=6099"
@@ -6244,6 +6261,9 @@ msgid ""
 "proposed law requiring open source software in the public administration.<br/"
 "> <_:a-1/>"
 msgstr ""
+"El Dr. Villanueva, vicepresidente del congreso en Perú, es famoso por su "
+"propuesta de ley que requiere software de código abierto en la "
+"administración pública.<br/> <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1840(ul/li)
 msgid ""
@@ -6262,6 +6282,8 @@ msgid ""
 "Bruce Perens, Desktop Linux Consortium. Formerly leader of Debian. (Note "
 "that Skolelinux is based on Debian)<br/> <_:a-1/>"
 msgstr ""
+"Bruce Perens, Desktop Linux Consortium. Anteriormente líder de Debian. "
+"(Recuerde que Skolelinux está basado en Debian)<br/> <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1844(li/a)
 msgid "http://www.gag.com/~bdale/"
@@ -6272,6 +6294,8 @@ msgid ""
 "Bdale Garbee, is the CTO of HP for Linux. Formerly leader of Debian<br/> <_:"
 "a-1/>"
 msgstr ""
+"Bdale Garbee, es el CTO de HP para Linux. Anteriormente líder de Debian<br/> "
+"<_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1846(li/a)
 msgid "http://www.govtech.net/magazine/story.php?id=87471"
@@ -6279,7 +6303,7 @@ msgstr "http://www.govtech.net/magazine/story.php?id=87471"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1845(ul/li)
 msgid "Bob Stack, CTO Commonwealth of Massachusetts<br/> <_:a-1/>"
-msgstr ""
+msgstr "Bob Stack, CTO de la Mancomunidad de Massachusetts<br/> <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1848(li/a)
 msgid "http://www.nat.org/"
@@ -6290,6 +6314,8 @@ msgid ""
 "Nat Friedman, co-founder of Ximinan and chairman of GNOME foundation.<br/> "
 "<_:a-1/>"
 msgstr ""
+"Nat Friedman, cofundador de Ximian y presidente de la Fundación GNOME.<br/> "
+"<_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1850(li/a)
 msgid "http://teknologiradet.no/html/493.htm"
@@ -6300,6 +6326,8 @@ msgid ""
 "Mikael Snaprud, Agder University College, co-author of a Software policy for "
 "the future for the Norwegian board of technology<br/> <_:a-1/>"
 msgstr ""
+"Mikael Snaprud, Agder University College, coautor de una política de "
+"software para el futuro para el consejo noruego de tecnología<br/> <_:a-1/>"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1856(post/title)
 msgid "GNOME 2.8 released!"
@@ -6312,6 +6340,10 @@ msgid ""
 "greater usability, speed and better internationalization to the desktop "
 "environment."
 msgstr ""
+"BOSTON, Mass, 15 de septiembre de 2004: La Fundación GNOME lanzó hoy la "
+"última versión del Escritorio y Plataforma de Desarrollo GNOME. La versión "
+"2.8 añade mayor usabilidad, rapidez y mejor internacionalización al entorno "
+"de escritorio."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1859(html/p)
 msgid ""
@@ -6354,6 +6386,8 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1870(ul/li)
 msgid "Network tools that allow users to provide diagnostic information."
 msgstr ""
+"Herramientas de redes que permiten a los usuarios proporcionar información "
+"de diagnóstico."
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:1872(html/p)
 msgid "Developers will see:"
@@ -19772,7 +19806,6 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:4714(ul/li)
-#| msgid "emmanuele_bassi"
 msgid "Emmanuele Bassi"
 msgstr "Emmanuele Bassi"
 
@@ -19790,7 +19823,6 @@ msgid "Andreas Nilsson"
 msgstr "Andreas Nilsson"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:4720(ul/li)
-#| msgid "bastien_nocera"
 msgid "Bastien Nocera"
 msgstr "Bastien Nocera"
 
@@ -20670,7 +20702,6 @@ msgid "Happy 15th Birthday GNOME!!"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:4968(p/a)
-#| msgid "http://www.gnome.org/"
 msgid "http://www.happybirthdaygnome.org"
 msgstr "http://www.happybirthdaygnome.org"
 
@@ -20882,7 +20913,6 @@ msgid "GNOME 3.6 Released!"
 msgstr "GNOME 3.4 Publicado"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5007(p/img@alt)
-#| msgid "GNOME 3.0"
 msgid "GNOME 3.6"
 msgstr "GNOME 3.6"
 
@@ -21061,7 +21091,6 @@ msgstr "Fedora"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5057(p/a)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5432(p/a)
-#| msgid "GNOME 3.0"
 msgid "GNOME"
 msgstr "GNOME"
 
@@ -21078,7 +21107,6 @@ msgid "Tor"
 msgstr "Tor"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5062(p/a)
-#| msgid "media"
 msgid "Wikimedia"
 msgstr "Wikimedia"
 
@@ -21830,7 +21858,6 @@ msgid "GNOME.Asia 2013 is now Calling for Papers"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5244(p/a)
-#| msgid "GNOME.Asia 2012"
 msgid "GNOME.Asia 2013"
 msgstr "GNOME.Asia 2013"
 
@@ -22021,7 +22048,6 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5305(p/a)
-#| msgid "http://www.gnome.asia"
 msgid "http://2013.gnome.asia/cfp"
 msgstr "http://2013.gnome.asia/cfp"
 
@@ -22346,7 +22372,6 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5376(html/p)
-#| msgid "http://www.gnome.org/foundation"
 msgid "https://www.djangoproject.com/contact/foundation/"
 msgstr "https://www.djangoproject.com/contact/foundation/"
 
@@ -22406,7 +22431,6 @@ msgid "Debian -- The Universal Operating System"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5388(p/a)
-#| msgid "debian"
 msgid "Debian"
 msgstr "Debian"
 
@@ -22577,7 +22601,6 @@ msgid "Everyone is encouraged to log in and vote at this page:"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5414(p/a)
-#| msgid "http://www.gnome.asia"
 msgid "http://2013.gnome.asia/tshirts/"
 msgstr "http://2013.gnome.asia/tshirts/"
 
@@ -22880,7 +22903,6 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5478(p/a)
-#| msgid "David King (2011-08-30)"
 msgid "David King"
 msgstr "David King"
 
@@ -23061,7 +23083,6 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5508(p/a)
-#| msgid "http://www.laptop.org/"
 msgid "http://www.flibitijibibo.com"
 msgstr "http://www.flibitijibibo.com"
 
@@ -23414,7 +23435,6 @@ msgstr ""
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5585(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5600(p/a@title)
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5631(p/a@title)
-#| msgid "www.guadec.org"
 msgid "guadec.org"
 msgstr "guadec.org"
 
@@ -23566,7 +23586,6 @@ msgstr ""
 "\"Karen Sandler\"]<_:a-1/>[/caption]"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5600(p/a)
-#| msgid "GUADEC"
 msgid "GUADEC 2013"
 msgstr "GUADEC 2013"
 
@@ -23775,7 +23794,6 @@ msgid "GNOME on Twitter"
 msgstr "Camiseta de GNOME 3"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5634(p/a)
-#| msgid "twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -23786,7 +23804,6 @@ msgid "GNOME on Facebook"
 msgstr "Fundación GNOME"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5634(p/a)
-#| msgid "facebook"
 msgid "Facebook"
 msgstr "Facebook"
 
@@ -23795,7 +23812,6 @@ msgid "GNOME on Google Plus"
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5634(p/a)
-#| msgid "Google"
 msgid "Google Plus"
 msgstr "Google Plus"
 
@@ -24578,17 +24594,14 @@ msgid ""
 msgstr ""
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5847(p/a)
-#| msgid "http://www.gnome.org/"
 msgid "http://wiki.gnome.org/GnomeAsia"
 msgstr "http://wiki.gnome.org/GnomeAsia"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5848(p/a)
-#| msgid "http://www.gnome.asia/about/gnomeasia/event-organization-checklist"
 msgid "http://2011.gnome.asia/about/gnomeasia/event-organization-checklist"
 msgstr "http://2011.gnome.asia/about/gnomeasia/event-organization-checklist"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5849(p/a)
-#| msgid "http://www.gnome.asia/about/gnomeasia/summit-planning-howto"
 msgid "http://2011.gnome.asia/about/gnomeasia/summit-planning-howto"
 msgstr "http://2011.gnome.asia/about/gnomeasia/summit-planning-howto"
 
@@ -24601,7 +24614,6 @@ msgstr ""
 "do=view&amp;target=Proposal_of_HongKong_GNOME_Asia_Hackfest_2012_20120124.pdf"
 
 #: /srv/http/www.gnome.org/html/wppo/dynamic.xml:5847(html/p)
-#| msgid "[1] <_:a-1/><br/> [2] <_:a-2/>"
 msgid "[1] <_:a-1/><br/> [2] <_:a-2/><br/> [3] <_:a-3/><br/> [4] <_:a-4/>"
 msgstr "[1] <_:a-1/><br/> [2] <_:a-2/><br/> [3] <_:a-3/><br/> [4] <_:a-4/>"
 
