@@ -22,6 +22,7 @@ Bruce Reimel
 Carlos Antonio Marquês Maniero
 Carlos sepulveda mancill
 Carsten Olsen
+Christian Meißner
 Christopher Meiklejohn
 Clemens Zeitlhofer
 Craig Keogh
@@ -47,6 +48,7 @@ Jan Girlich
 Jan Leike
 Jan Szpuk
 Jarl Frode Arntzen
+Jason Weill
 Jonathan Barnoud
 Jorge Gallegos
 Jose Maria Casanova Crespo
