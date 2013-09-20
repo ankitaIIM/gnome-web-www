@@ -10,15 +10,22 @@
     main gnome.org website, together with its content translations (which works
     trough wppo plugin, located in gnome-web-wppo repository).
     </description>
-  <homepage rdf:resource="https://live.gnome.org/GnomeWeb/" />
+  <homepage rdf:resource="https://wiki.gnome.org/GnomeWeb/" />
   <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/gnome-web-list" />
   <bug-database rdf:resource="https://bugzilla.gnome.org/browse.cgi?product=website" />
 
   <maintainer>
     <foaf:Person>
-      <foaf:name>Vinicius Depizzol</foaf:name>
-      <foaf:mbox rdf:resource="mailto:vdepizzol@gmail.com" />
-      <gnome:userid>vdepizzol</gnome:userid>
+      <foaf:name>Andreas Nilsson</foaf:name>
+      <foaf:mbox rdf:resource="mailto:andreas@andreasn.se" />
+      <gnome:userid>andreasn</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Fabiana Pedreira Simões</foaf:name>
+      <foaf:mbox rdf:resource="mailto:fabianapsimoes@gmail.com" />
+      <gnome:userid>fabianaps</gnome:userid>
     </foaf:Person>
   </maintainer>
 </Project>
