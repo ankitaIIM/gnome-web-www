@@ -57,6 +57,7 @@ Jaime Velázquez Sánchez
 James Campbell
 James Cook
 James M Jinkins
+Jan-Christoph Borchardt
 Jason Jarquín Sevilla
 Jason Kelsey
 Jimmy Richards
@@ -86,6 +87,7 @@ Michel De Waele
 Michel Machado
 Miguel Lorenzo Amarelle
 Morgan Dapilly
+Nick Jennings
 Nikolai Neff
 Oktay Acikalin
 Patrick Verner
