@@ -365,6 +365,11 @@ function print_form_questions_gift_listname_note() {
 
                       <h5>Additional comments or ideas on how we can improve the GNOME
                       Foundation:</h5>
+
+                      <small>You can also write an email to
+                      <a href="mailto:friends@gnome.org">friends@gnome.org</a>.
+                      </small>
+
                       <textarea cols="88" name="custom" rows="7" maxlength="256"> </textarea>
 <?php } /* print_form_questions_gift_listname_note */?>
 
