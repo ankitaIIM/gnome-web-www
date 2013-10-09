@@ -31,7 +31,7 @@ a:hover {
     color: #3465a4;
 }
 a:visited {
-   color: #5d396e;
+    color: #5d396e;
 }
 .left {
     float: left;
@@ -132,19 +132,19 @@ a:visited {
     margin-right: 10px;
 }
 #header #logo {
-   float: left;
+    float: left;
 }
 #header #logo h1 {
     margin: 0;
 }
 #header #logo img {
-   -webkit-transition: opacity 200ms ease-out;
-   -moz-transition: opacity 200ms ease-out;
-   transition: opacity 200ms ease-out;
-   opacity: 1;
-   margin-left: -3px;
-   height: 76px;
-   width: 199px;
+    -webkit-transition: opacity 200ms ease-out;
+    -moz-transition: opacity 200ms ease-out;
+    transition: opacity 200ms ease-out;
+    opacity: 1;
+    margin-left: -3px;
+    height: 76px;
+    width: 199px;
 }
 #header #logo img:hover {
    opacity: 0.85;
@@ -355,42 +355,42 @@ a:visited {
  */
  
 .page_title .subpages_list {
-   list-style: none;
-   clear: left;
-   margin: 0;
-   padding-bottom: 4px;
-   display: table-cell;
-   text-align: right;
-   white-space: nowrap;
-   vertical-align: bottom;
+    list-style: none;
+    clear: left;
+    margin: 0;
+    padding-bottom: 4px;
+    display: table-cell;
+    text-align: right;
+    white-space: nowrap;
+    vertical-align: bottom;
 }
 .page_title .subpages_list li {
-   display: inline;
-   padding: 0;
-   margin: 0 0 0 0.5em;
+    display: inline;
+    padding: 0;
+    margin: 0 0 0 0.5em;
 }
 .page_title .subpages_list li a {
-   color: inherit;
-   text-decoration: none;
-   padding: 3px 6px;
+    color: inherit;
+    text-decoration: none;
+    padding: 3px 6px;
 }
 .page_title .subpages_list li a:hover {
-   outline: 0;
-   background: red;
-   background: #dde5ef url(images/focus-bg.png) top repeat-x;
-   border: 1px solid #bbc5d5;
-   padding: 2px 5px;
-   -moz-border-radius: 4px;
-   -webkit-border-radius: 4px;
-   border-radius: 4px;
+    outline: 0;
+    background: red;
+    background: #dde5ef url(images/focus-bg.png) top repeat-x;
+    border: 1px solid #bbc5d5;
+    padding: 2px 5px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
 }
 .page_title .subpages_list li a:active {
-   -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-   -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
-   box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
 }
 .page_title .subpages_list li.current_page_item a {
-   font-weight: bold;
+    font-weight: bold;
 }
 
 
@@ -467,15 +467,15 @@ a:visited {
  */
 
 .action_box {
-   background: #fffae5 url(images/action_box-bg.png) repeat-x bottom;
-   -moz-box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
-   -webkit-box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
-   box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
-   padding: 10px;
-   -moz-border-radius: 5px;
-   -webkit-border-radius: 5px;
-   border-radius: 5px;
-   border: 1px solid #e7d172;
+    background: #fffae5 url(images/action_box-bg.png) repeat-x bottom;
+    -moz-box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
+    -webkit-box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
+    box-shadow: 0 1px 2px #e5d693, inset 0 1px rgba(100%, 100%, 100%, 0.4);
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #e7d172;
 }
 
 
@@ -550,26 +550,26 @@ a:visited {
 }
 .navigation_list > li.current_page_item,
 .navigation_list > li a.navTreeCurrentItem {
-   background: #dde5ef url(images/focus-bg.png) top repeat-x;
+    background: #dde5ef url(images/focus-bg.png) top repeat-x;
 }
 .navigation_list li:first-child {
-   -moz-border-radius-topleft: 5px;
-   -moz-border-radius-topright: 5px;
-   -webkit-border-top-left-radius: 5px;
-   -webkit-border-top-right-radius: 5px;
-   border-top-left-radius: 5px;
-   border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 .navigation_list li:last-child {
-   border-bottom: 0;
+    border-bottom: 0;
 }
 .navigation_list li:last-child {
-   -moz-border-radius-bottomleft: 5px;
-   -moz-border-radius-bottomright: 5px;
-   -webkit-border-bottom-left-radius: 5px;
-   -webkit-border-bottom-right-radius: 5px;
-   border-bottom-left-radius: 5px;
-   border-bottom-right-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 .navigation_list a {
     padding: 6px 9px;
@@ -580,7 +580,7 @@ a:visited {
     text-shadow:  white 0 1px 0;
 }
 .navigation_list a.without_icon {
-   padding-left: 37px;
+    padding-left: 37px;
 }
 .navigation_list a:hover {
     color: #3465a4;
@@ -588,17 +588,17 @@ a:visited {
     /*-webkit-transition: all 200ms linear;*/
 }
 .navigation_list a:focus {
-   background: #dde5ef url(images/focus-bg.png) top repeat-x;
-   outline: 0;
-   padding: 2px 5px;
-   margin: 3px;
-   border: 1px solid #bbc5d5;
-   -moz-border-radius: 4px;
-   -webkit-border-radius: 4px;
-   border-radius: 4px;
+    background: #dde5ef url(images/focus-bg.png) top repeat-x;
+    outline: 0;
+    padding: 2px 5px;
+    margin: 3px;
+    border: 1px solid #bbc5d5;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
 }
 .navigation_list a.without_icon:focus {
-   padding-left: 33px;
+    padding-left: 33px;
 }
 .navigation_list a img {
     vertical-align: middle;
@@ -616,7 +616,7 @@ a:visited {
     padding: 0;
 }
 .navigation_list > li ul li:first-child {
-   border-top: 0;
+    border-top: 0;
 }
 .navigation_list > li ul li a {
     font-weight: normal;
@@ -627,10 +627,10 @@ a:visited {
     font-weight: bold;
 }
 .navigation_list > li ul li a:focus {
-   padding: 0 5px;
+    padding: 0 5px;
 }
 .navigation_list > li ul  {
-   padding-top: 1px;
+    padding-top: 1px;
 }
 
 /* -> Simple List */
@@ -657,31 +657,31 @@ a:visited {
 /* -> Iconified Menu */
 
 ul.iconified_menu {
-   list-style: none;
-   margin: 0 0 20px;
-   font-size: small;
+    list-style: none;
+    margin: 0 0 20px;
+    font-size: small;
 }
 ul.iconified_menu li {
-   margin: 0 0 5px;
+    margin: 0 0 5px;
 }
 ul.iconified_menu li a {
-   padding: 5px;
-   display: block;
-   text-decoration: none;
-   border: 1px solid transparent;
-   overflow: hidden;
-   -moz-border-radius: 5px;
-   -webkit-border-radius: 5px;
-   border-radius: 5px;
+    padding: 5px;
+    display: block;
+    text-decoration: none;
+    border: 1px solid transparent;
+    overflow: hidden;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 }
 ul.iconified_menu li a:hover, ul.iconified_menu li a:focus {
-   background: #dde5ef url(images/focus-bg.png) top repeat-x;
-   outline: 0;
-   border: 1px solid #bbc5d5;
+    background: #dde5ef url(images/focus-bg.png) top repeat-x;
+    outline: 0;
+    border: 1px solid #bbc5d5;
 }
 ul.iconified_menu li a img {
-   float: left;
-   margin-right: 5px;
+    float: left;
+    margin-right: 5px;
 }
 
 /* -> Definition Lists */
@@ -701,13 +701,13 @@ dl dt a:visited {
 /* Icons are defined as 48x48 pixels by default */
 
 dl.icon_list dt, dl.icon_list dd {
-   margin-left: 58px;
+    margin-left: 58px;
 }
 dl.icon_list dt img {
-   float: left;
-   width: 48px;
-   height: 48px;
-   margin: 0 10px 0 -58px;
+    float: left;
+    width: 48px;
+    height: 48px;
+    margin: 0 10px 0 -58px;
 }
 
 
@@ -948,14 +948,14 @@ dl.icon_list dt img {
     transition: background-color 100ms ease-in;
 }
 #footer .links a:focus {
-   background: #ececec;
-   padding: 1px 3px;
-   margin: -1px -3px;
-   text-decoration: none !important;
-   outline: 0;
-   -moz-border-radius: 5px;
-   -webkit-border-radius: 5px;
-   border-radius: 5px;
+    background: #ececec;
+    padding: 1px 3px;
+    margin: -1px -3px;
+    text-decoration: none !important;
+    outline: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
 }
 #footer #footnotes {
     margin-top: 20px;
@@ -1139,15 +1139,15 @@ hr.bottom_shadow {
 
 
 .crm-group legend {
-	font-size: 16px;
-	font-weight: bold;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 #Main .crm-block .crm-section .content {
-	margin-left: 0;
+    margin-left: 0;
 }
 
 
 .crm-section {
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
